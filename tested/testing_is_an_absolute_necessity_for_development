@@ -1,0 +1,228 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Movable Type Pro 4.23-en" />
+<link rel="stylesheet" href="http://thebaseballchronicle.com/the_baseball_chronicle/styles.css" type="text/css" />
+<link rel="start" href="http://thebaseballchronicle.com/the_baseball_chronicle/" title="Home" />
+<link rel="alternate" type="application/atom+xml" title="Recent Entries" href="http://thebaseballchronicle.com/the_baseball_chronicle/atom.xml" />
+<script type="text/javascript" src="http://thebaseballchronicle.com/the_baseball_chronicle/mt.js"></script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-3969526189572011");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-3969526189572011", "Top");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+
+
+    <link rel="prev bookmark" href="http://thebaseballchronicle.com/the_baseball_chronicle/testing/im_testing_yes_im_testing" title="I'm Testing, Yes I'm Testing" />
+    <link rel="next bookmark" href="http://thebaseballchronicle.com/the_baseball_chronicle/personal_stories/the_hold_of_the_table" title="The Hold of the Table" />
+    
+    <title>The Baseball Chronicle: Testing is an Absolute Necessity for Development</title>
+</head>
+<body id="mt-blog" class="mt-entry-archive layout-wtt">
+    <div id="container">
+
+
+            <div id="toprow">
+	<table class="toprow" cellspacing="0" cellpadding="0">
+			<tbody>
+				<tr>
+					<td class="one">&nbsp;&nbsp;This month: <a href="/">Hooked</a>&nbsp;&nbsp;</td>
+					<td class="two">&nbsp;&nbsp;Next: <a href="/">The best I ever saw</a>&nbsp;&nbsp;</td>
+					<td class="three">&nbsp;&nbsp;Then: <a href="/">Cheat</a>&nbsp;&nbsp;</td>
+				</tr>
+			</tbody>
+		</table>
+	<div id="header">
+		<span class="logo">
+                <a href="/"><img alt="The Baseball Chronicle" src="http://www.thebaseballchronicle.com/images/chronicleheader.gif" /></a>
+                
+		</span>        
+		<span class="ad">
+			<script type="text/javascript">
+  GA_googleFillSlot("Top");
+</script>
+		</span>
+	</div>
+
+                <div id="headline">
+                                    <h1>Testing is an Absolute Necessity for Development</h1>
+                                    <div id="byline">
+                                        <span>By Phil Bencomo</span>
+                                    </div>
+                </div>
+                <div id="pullout">
+                   
+                     <p>
+</p>
+                   
+                </div>
+
+
+            <div id="entrycontent">
+
+                <div id="contentleft">
+                                <div id="storytext">
+                                    <p>Hi.</p>
+
+                                </div>
+                                <div id="comments" class="comments">
+
+
+    
+    
+
+
+    
+    
+    <div>
+        <h2 style="font-family: 'Helvetica Neue', Helvetica, Verdana, Arial, sans-serif;">Leave a comment</h2>
+        <div class="comment-header">
+
+        
+            <div id="comment-greeting"></div>
+
+            <form method="post" action="http://thebaseballchronicle.com/cgi-bin/mt/mt-comments.cgi" name="comments_form" id="comments-form" onsubmit="return mtCommentOnSubmit(this)">
+                <input type="hidden" name="static" value="1" />
+                <input type="hidden" name="entry_id" value="7" />
+                <input type="hidden" name="__lang" value="en" />
+                <input type="hidden" name="parent_id" value="" id="comment-parent-id" />
+                <input type="hidden" name="armor" value="1" />
+                <input type="hidden" name="preview" value="" />
+                <input type="hidden" name="sid" value="" />
+                <div id="comments-open-data">
+                    <div id="comment-form-name">
+                        <label for="comment-author">Name</label>
+                        <input id="comment-author" name="author" size="30" value="" onfocus="mtCommentFormOnFocus()" />
+                    </div>
+                    <div id="comment-form-email">
+                        <label for="comment-email">Email Address</label>
+                        <input id="comment-email" name="email" size="30" value="" onfocus="mtCommentFormOnFocus()" />
+                    </div>
+                    <div id="comment-form-url">
+                        <label for="comment-url">URL</label>
+                        <input id="comment-url" name="url" size="30" value="" onfocus="mtCommentFormOnFocus()" />
+                    </div>
+                    <div id="comment-form-remember-me">
+                        <input type="checkbox" id="comment-bake-cookie" name="bakecookie" onclick="mtRememberMeOnClick(this)" value="1" accesskey="r" />
+                        <label for="comment-bake-cookie">Remember personal info?</label>
+                    </div>
+                </div>
+                <div id="comment-form-reply" style="display:none">
+                    <input type="checkbox" id="comment-reply" name="comment_reply" value="" onclick="mtSetCommentParentID()" />
+                    <label for="comment-reply" id="comment-reply-label"></label>
+                </div>
+                <div id="comments-open-text">
+                    <label for="comment-text">
+                    </label>
+                    <textarea id="comment-text" name="text" rows="15" cols="50" onfocus="mtCommentFormOnFocus()"></textarea>
+                </div>
+                <div id="comments-open-captcha"></div>
+                <div id="comments-open-footer">
+                    <input type="submit" accesskey="v" name="preview_button" id="comment-preview" value="Preview" onclick="this.form.preview.value='1';" />
+                    <input type="submit" accesskey="s" name="post" id="comment-submit" value="Submit" />
+                </div>
+            </form>
+
+
+        </div>
+    </div>
+    <script type="text/javascript">
+    <!--
+    mtAttachEvent("load", mtEntryOnLoad);
+    mtAttachEvent("unload", mtEntryOnUnload);
+    //-->
+    </script>
+    
+
+
+</div>
+
+</div>
+
+                </div>
+                <div id="contentright">
+                                <p style="font-style:italic;">Published April  3, 2009</p>
+<hr />
+<p style="text-transform: uppercase;"><strong>About the author</strong></p>
+
+<p>
+</p>
+
+                </div>
+            </div>
+            <div id="footer">
+		<table border="0" cellspacing="0" cellpadding="0">
+			<tbody>
+			<tr><td colspan="3" class="archives"><h3><a href="/archive.html">Archive</a></h3></td>
+				<td class="about" rowspan="2">
+				<p class="caps">The Baseball Chronicle</p>
+				<p>is an online magazine that celebrates the narrative. We publish personal stories, essays, photography,  journalism and more&mdash;great stories, in any form, of our favorite game.</p>
+				<p><a href="/">Find out how to share your story.</a></p>
+				</td>
+			</tr>
+			
+			<tr>
+			<td class="category">
+				<span>By category</span>
+				<ul>
+					<li><a href="/personal_stories">Personal stories</a></li>
+					<li><a href="/essays">Essays</a></li>
+					<li><a href="/photography">Photography</a></li>
+                                        <li><a href="/elsewhere">Elsewhere</a></li>
+				</ul>
+			</td>
+			<td class="theme">
+				<span>By theme</span>
+				<ul>
+					<li><a href="/">Hooked</a></li>
+				</ul>
+			</td>
+			<td class="author">
+				<span>By author</span>
+				<ul>
+					<li><select onchange="nav(this)">
+         <option>Select an author...</option>
+         
+         <option value="http://thebaseballchronicle.com/the_baseball_chronicle/authors/michael_webb/">Michael Webb</option>
+         
+         <option value="http://thebaseballchronicle.com/the_baseball_chronicle/authors/phil_bencomo/">Phil Bencomo</option>
+         
+      </select></li>
+				</ul>
+				<br />
+				<br />
+				<span>Search</span>
+                                <form action="http://www.thebaseballchronicle.com/search" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="004209065784501633350:rbmulsxd-oc" />
+    <input type="hidden" name="cof" value="FORID:10" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input style="width: 165px;" type="text" name="q" size="31" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+
+
+			</td>
+			</tr>
+			</tbody>
+		</table>
+	</div>
+	<div id="bottomrow">
+		<p class="links"><a href="/">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about">About</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/">Submit</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/notes">Editor's Notes</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/">RSS</a></p>
+		<p>All content is copyrighted by The Baseball Chronicle or its contributors. Please play nice, and thanks for reading.</p>
+	</div>
+    </div>
+</body>
+</html>

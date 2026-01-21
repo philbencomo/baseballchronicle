@@ -1,0 +1,360 @@
+ErrorDocument 404 /404.html
+AddHandler php4-script .php
+
+RewriteEngine on 
+# 
+## Internally rewrite extensionless file requests to .html files ## 
+# 
+# If the requested URI does not contain a period in the final path-part 
+RewriteCond %{REQUEST_URI} !(\.[^./]+)$ 
+# and if it does not exist as a directory 
+RewriteCond %{REQUEST_FILENAME} !-d 
+# and if it does not exist as a file 
+RewriteCond %{REQUEST_FILENAME} !-f 
+# then add .html to get the actual filename 
+RewriteRule (.*) /$1.html [L] 
+# 
+# 
+## Externally redirect clients directly requesting .html page URIs to extensionless URIs 
+# 
+# If client request header contains.html file extension 
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^.]+\.).html\ HTTP 
+# externally redirect to extensionless URI 
+RewriteRule ^(.+)\.html$ http://www.example.com/$1 [R=301,L]
+
+
+Redirect permanent /go/188 http://thebaseballchronicle.com/essays/ron
+
+Redirect permanent /go/187 http://thebaseballchronicle.com/personal_stories/the_spectator
+
+Redirect permanent /go/186 http://thebaseballchronicle.com/photography/2010/11/the_lone_red_seat
+
+Redirect permanent /go/185 http://thebaseballchronicle.com/poetry/the_first_practice
+
+Redirect permanent /go/184 http://thebaseballchronicle.com/personal_stories/hello_win_column
+
+Redirect permanent /go/183 http://thebaseballchronicle.com/fiction/strike_zone
+
+Redirect permanent /go/182 http://thebaseballchronicle.com/poetry/fancy_fielder
+
+Redirect permanent /go/181 http://thebaseballchronicle.com/photography/2010/09/stop
+
+Redirect permanent /go/180 http://thebaseballchronicle.com/notes/2010/09/the_chronicle_and_responsive_design
+
+Redirect permanent /go/179 http://thebaseballchronicle.com/fiction/the_man_on_the_mound
+
+Redirect permanent /go/178 http://thebaseballchronicle.com/photography/2010/08/windup
+
+Redirect permanent /go/177 http://thebaseballchronicle.com/personal_stories/sunday_fly
+
+Redirect permanent /go/175 http://thebaseballchronicle.com/reporting/the_once_and_future_baseball_man
+
+Redirect permanent /go/172 http://thebaseballchronicle.com/fiction/barnstormin_with_the_babe
+
+Redirect permanent /go/171 http://thebaseballchronicle.com/elsewhere/2010/03/07/fantography
+
+Redirect permanent /go/170 http://thebaseballchronicle.com/elsewhere/2010/03/07/willie-mays
+
+Redirect permanent /go/169 http://thebaseballchronicle.com/personal_stories/stealing_grass_from_safeco_field
+
+Redirect permanent /go/168 http://thebaseballchronicle.com/photography/2010/02/light_up
+
+Redirect permanent /go/167 http://thebaseballchronicle.com/elsewhere/2009/12/14/fimrite-on-aaron
+
+Redirect permanent /go/166 http://thebaseballchronicle.com/elsewhere/2009/12/14/aaron-leggett
+
+Redirect permanent /go/165 http://thebaseballchronicle.com/personal_stories/close_to_heaven
+
+Redirect permanent /go/164 http://thebaseballchronicle.com/elsewhere/2009/12/05/love-hate-tears
+
+Redirect permanent /go/163 http://thebaseballchronicle.com/photography/2009/11/shipshape
+
+Redirect permanent /go/162 http://thebaseballchronicle.com/elsewhere/2009/11/12/ledes
+
+Redirect permanent /go/161 http://thebaseballchronicle.com/elsewhere/2009/11/12/dock-ellis
+
+Redirect permanent /go/160 http://thebaseballchronicle.com/elsewhere/2009/11/07/baseball-internet
+
+Redirect permanent /go/159 http://thebaseballchronicle.com/photography/2009/11/baseball_cards_as_they_once_were
+
+Redirect permanent /go/158 http://thebaseballchronicle.com/elsewhere/2009/10/19/malamud
+
+Redirect permanent /go/157 http://thebaseballchronicle.com/photography/2009/10/the_ball_team
+
+Redirect permanent /go/156 http://thebaseballchronicle.com/elsewhere/2009/10/16/arnold-hano
+
+Redirect permanent /go/155 http://thebaseballchronicle.com/elsewhere/2009/10/16/sportswriting-machine
+
+Redirect permanent /go/154 http://thebaseballchronicle.com/elsewhere/2009/10/12/la-russa
+
+Redirect permanent /go/153 http://thebaseballchronicle.com/elsewhere/2009/10/07/beep-baseball
+
+Redirect permanent /go/152 http://thebaseballchronicle.com/personal_stories/hof_inaugural_day
+
+Redirect permanent /go/151 http://thebaseballchronicle.com/elsewhere/2009/09/22/belth-summer
+
+Redirect permanent /go/150 http://thebaseballchronicle.com/podcast/2009/09/phil_bencomo_shoeless_joe
+
+Redirect permanent /go/149 http://thebaseballchronicle.com/elsewhere/2009/09/14/angell-jeter
+
+Redirect permanent /go/148 http://thebaseballchronicle.com/photography/2009/09/uss_sargent_bay
+
+Redirect permanent /go/147 http://thebaseballchronicle.com/elsewhere/2009/09/09/todd-drew
+
+Redirect permanent /go/146 http://thebaseballchronicle.com/elsewhere/2009/09/09/shoeless-joe
+
+Redirect permanent /go/145 http://thebaseballchronicle.com/personal_stories/pujols_through_the_ages
+
+Redirect permanent /go/144 http://thebaseballchronicle.com/elsewhere/2009/09/01/on-hats
+
+Redirect permanent /go/143 http://thebaseballchronicle.com/elsewhere/2009/09/01/watching-with-james
+
+Redirect permanent /go/142 http://thebaseballchronicle.com/elsewhere/2009/08/27/si_vault_the_secret_life
+
+Redirect permanent /go/141 http://thebaseballchronicle.com/elsewhere/2009/08/27/wieters
+
+Redirect permanent /go/140 http://thebaseballchronicle.com/elsewhere/2009/08/24/target-field
+
+Redirect permanent /go/139 http://thebaseballchronicle.com/fiction/the_real_baseball_hall_of_fame
+
+Redirect permanent /go/138 http://thebaseballchronicle.com/elsewhere/2009/08/21/gibson
+
+Redirect permanent /go/137 http://thebaseballchronicle.com/photography/2009/08/fog
+
+Redirect permanent /go/136 http://thebaseballchronicle.com/podcast/2009/08/josh_wilker_george_foster
+
+Redirect permanent /go/135 http://thebaseballchronicle.com/essays/response_to_bill_james
+
+Redirect permanent /go/134 http://thebaseballchronicle.com/personal_stories/50_years_a_cubs_fan_part_three
+
+Redirect permanent /go/133 http://thebaseballchronicle.com/elsewhere/2009/08/12/sheperd
+
+Redirect permanent /go/132 http://thebaseballchronicle.com/notes/2009/08/short_urls
+
+Redirect permanent /go/131 http://thebaseballchronicle.com/elsewhere/2009/08/12/wilker-happiness
+
+Redirect permanent /go/130 http://thebaseballchronicle.com/personal_stories/50_years_a_cubs_fan_part_two
+
+Redirect permanent /go/129 http://thebaseballchronicle.com/personal_stories/50_years_a_cubs_fan_part_one
+
+Redirect permanent /go/128 http://thebaseballchronicle.com/photography/2009/08/father_and_son
+
+Redirect permanent /go/127 http://thebaseballchronicle.com/essays/the_greatest_hitter_of_all_time
+
+Redirect permanent /go/126 http://thebaseballchronicle.com/elsewhere/2009/07/31/bennett
+
+Redirect permanent /go/125 http://thebaseballchronicle.com/photography/2009/07/playograph
+
+Redirect permanent /go/124 http://thebaseballchronicle.com/notes/2009/07/printer-friendly_stories
+
+Redirect permanent /go/123 http://thebaseballchronicle.com/fiction/the_rocket_a_tall_tale
+
+Redirect permanent /go/122 http://thebaseballchronicle.com/essays/indian_pirates_on_the_high_seas
+
+Redirect permanent /go/121 http://thebaseballchronicle.com/elsewhere/2009/07/21/posnanski-rose
+
+Redirect permanent /go/120 http://thebaseballchronicle.com/elsewhere/2009/07/21/soxaholix
+
+Redirect permanent /go/119 http://thebaseballchronicle.com/elsewhere/2009/07/21/sincerely_lou
+
+Redirect permanent /go/118 http://thebaseballchronicle.com/photography/2009/07/urban
+
+Redirect permanent /go/117 http://thebaseballchronicle.com/notes/2009/07/rolling_submissions_and_podcasting
+
+Redirect permanent /go/116 http://thebaseballchronicle.com/podcast/2009/07/marty_appel
+
+Redirect permanent /go/115 http://thebaseballchronicle.com/elsewhere/2009/07/16/richman
+
+Redirect permanent /go/114 http://thebaseballchronicle.com/personal_stories/1971_topps_baseball
+
+Redirect permanent /go/113 http://thebaseballchronicle.com/elsewhere/2009/07/01/lederer
+
+Redirect permanent /go/112 http://thebaseballchronicle.com/elsewhere/2009/06/29/cards
+
+Redirect permanent /go/111 http://thebaseballchronicle.com/photography/2009/06/baseball_at_walter_reed
+
+Redirect permanent /go/110 http://thebaseballchronicle.com/essays/defending_the_indefensible
+
+Redirect permanent /go/109 http://thebaseballchronicle.com/elsewhere/2009/06/23/classic
+
+Redirect permanent /go/108 http://thebaseballchronicle.com/elsewhere/2009/06/23/lederer-tapes
+
+Redirect permanent /go/107 http://thebaseballchronicle.com/poetry/yeah_so
+
+Redirect permanent /go/106 http://thebaseballchronicle.com/photography/2009/06/san_francisco
+
+Redirect permanent /go/105 http://thebaseballchronicle.com/essays/the_mick
+
+Redirect permanent /go/104 http://thebaseballchronicle.com/elsewhere/2009/06/17/eskenazi
+
+Redirect permanent /go/103 http://thebaseballchronicle.com/elsewhere/2009/06/17/the_greatest_game
+
+Redirect permanent /go/102 http://thebaseballchronicle.com/photography/2009/06/ruth_dunn_and_bentley
+
+Redirect permanent /go/101 http://thebaseballchronicle.com/elsewhere/2009/06/12/price
+
+Redirect permanent /go/100 http://thebaseballchronicle.com/elsewhere/2009/06/12/satchel
+
+Redirect permanent /go/99 http://thebaseballchronicle.com/elsewhere/2009/06/12/stout_interview
+
+Redirect permanent /go/98 http://thebaseballchronicle.com/notes/2009/06/deadline_extended
+
+Redirect permanent /go/97 http://thebaseballchronicle.com/personal_stories/a_view_like_no_other
+
+Redirect permanent /go/96 http://thebaseballchronicle.com/photography/2009/05/alone_in_a_sea_of_green
+
+Redirect permanent /go/95 http://thebaseballchronicle.com/elsewhere/2009/05/20/kerouac
+
+Redirect permanent /go/94 http://thebaseballchronicle.com/elsewhere/2009/05/20/npr_on_scales
+
+Redirect permanent /go/93 http://thebaseballchronicle.com/elsewhere/2009/05/20/tribune_profile_scales
+
+Redirect permanent /go/92 http://thebaseballchronicle.com/personal_stories/october_7_1977
+
+Redirect permanent /go/91 http://thebaseballchronicle.com/elsewhere/2009/05/18/dom_dimaggios_streak
+
+Redirect permanent /go/90 http://thebaseballchronicle.com/elsewhere/2009/05/18/nathans
+
+Redirect permanent /go/89 http://thebaseballchronicle.com/essays/whos_the_best
+
+Redirect permanent /go/88 http://thebaseballchronicle.com/photography/2009/05/buck
+
+Redirect permanent /go/87 http://thebaseballchronicle.com/poetry/the_scorekeepers_dilemma
+
+Redirect permanent /go/86 http://thebaseballchronicle.com/elsewhere/2009/05/11/waddles
+
+Redirect permanent /go/85 http://thebaseballchronicle.com/elsewhere/2009/05/11/leitch_on_roberts
+
+Redirect permanent /go/84 http://thebaseballchronicle.com/personal_stories/lets_play_world_series
+
+Redirect permanent /go/83 http://thebaseballchronicle.com/elsewhere/2009/05/08/chass
+
+Redirect permanent /go/82 http://thebaseballchronicle.com/photography/2009/05/montague
+
+Redirect permanent /go/81 http://thebaseballchronicle.com/elsewhere/2009/05/07/good_ballpark
+
+Redirect permanent /go/80 http://thebaseballchronicle.com/elsewhere/2009/05/07/press_box_layoff
+
+Redirect permanent /go/79 http://thebaseballchronicle.com/elsewhere/2009/05/05/rickey_henderson_stories
+
+Redirect permanent /go/78 http://thebaseballchronicle.com/elsewhere/2009/05/04/seibu_lions
+
+Redirect permanent /go/77 http://thebaseballchronicle.com/elsewhere/2009/05/04/elsewhere_posnanski_profiles_greinke
+
+Redirect permanent /go/76 http://thebaseballchronicle.com/elsewhere/2009/05/04/john_henry
+
+Redirect permanent /go/75 http://thebaseballchronicle.com/photography/2009/05/citi_field_and_the_new_yankee_stadium
+
+Redirect permanent /go/74 http://thebaseballchronicle.com/elsewhere/2009/04/29/dykstra
+
+Redirect permanent /go/73 http://thebaseballchronicle.com/elsewhere/2009/04/29/belth
+
+Redirect permanent /go/72 http://thebaseballchronicle.com/elsewhere/2009/04/28/no-hitter_streak_few_noticed
+
+Redirect permanent /go/71 http://thebaseballchronicle.com/elsewhere/2009/04/28/no-hitters
+
+Redirect permanent /go/70 http://thebaseballchronicle.com/elsewhere/2009/04/27/wsj_on_fantasy_baseball
+
+Redirect permanent /go/69 http://thebaseballchronicle.com/elsewhere/2009/04/27/wilker_profile
+
+Redirect permanent /go/68 http://thebaseballchronicle.com/photography/2009/04/shibe_park
+
+Redirect permanent /go/67 http://thebaseballchronicle.com/elsewhere/2009/04/21/stirrups
+
+Redirect permanent /go/66 http://thebaseballchronicle.com/elsewhere/2009/04/21/hollander
+
+Redirect permanent /go/65 http://thebaseballchronicle.com/elsewhere/2009/04/21/carlo
+
+Redirect permanent /go/64 http://thebaseballchronicle.com/elsewhere/2009/04/20/lederer
+
+Redirect permanent /go/63 http://thebaseballchronicle.com/personal_stories/days_of_plastic_and_sunshine
+
+Redirect permanent /go/62 http://thebaseballchronicle.com/elsewhere/2009/04/17/hit_in_the_head
+
+Redirect permanent /go/61 http://thebaseballchronicle.com/elsewhere/2009/04/17/si_on_adenhart
+
+Redirect permanent /go/60 http://thebaseballchronicle.com/elsewhere/2009/04/17/curious
+
+Redirect permanent /go/59 http://thebaseballchronicle.com/photography/2009/04/iraq
+
+Redirect permanent /go/58 http://thebaseballchronicle.com/elsewhere/2009/04/15/diary_of_a_scout
+
+Redirect permanent /go/56 http://thebaseballchronicle.com/personal_stories/the_boys_and_girls_of_summer
+
+Redirect permanent /go/57 http://thebaseballchronicle.com/elsewhere/2009/04/14/posnanski_on_fidrych
+
+Redirect permanent /go/55 http://thebaseballchronicle.com/elsewhere/2009/04/14/kalas_tributes
+
+Redirect permanent /go/54 http://thebaseballchronicle.com/elsewhere/2009/04/14/fidrych_roundup
+
+Redirect permanent /go/53 http://thebaseballchronicle.com/elsewhere/2009/04/14/calcaterra_at_the_movies
+
+Redirect permanent /go/52 http://thebaseballchronicle.com/elsewhere/2009/04/13/wilker_on_fidrych
+
+Redirect permanent /go/51 http://thebaseballchronicle.com/elsewhere/2009/04/13/mark_fidrych
+
+Redirect permanent /go/50 http://thebaseballchronicle.com/elsewhere/2009/04/13/harry_kalas
+
+Redirect permanent /go/49 http://thebaseballchronicle.com/elsewhere/2009/04/13/nationals_park_district
+
+Redirect permanent /go/48 http://thebaseballchronicle.com/elsewhere/2009/04/13/the_specter_of_gary_sheffield
+
+Redirect permanent /go/47 http://thebaseballchronicle.com/personal_stories/hooked_on_wrigley
+
+Redirect permanent /go/46 http://thebaseballchronicle.com/elsewhere/2009/04/11/glanville_loss_beyond_the_score
+
+Redirect permanent /go/45 http://thebaseballchronicle.com/elsewhere/2009/04/10/rich_lederers_2006_adenhart_interview
+
+Redirect permanent /go/44 http://thebaseballchronicle.com/elsewhere/2009/04/10/weisman_on_adenhart
+
+Redirect permanent /go/43 http://thebaseballchronicle.com/elsewhere/2009/04/10/nick_adenhart_rip
+
+Redirect permanent /go/19 http://thebaseballchronicle.com/photography/2009/04/baseball_1913
+
+Redirect permanent /go/42 http://thebaseballchronicle.com/elsewhere/2009/04/08/1984_my_first_rotisserie_league_team
+
+Redirect permanent /go/41 http://thebaseballchronicle.com/elsewhere/2009/04/08/si_on_michael_jordan_outfielder
+
+Redirect permanent /go/40 http://thebaseballchronicle.com/elsewhere/2009/04/08/mccallum_jordan_the_baseball_player
+
+Redirect permanent /go/39 http://thebaseballchronicle.com/elsewhere/2009/04/08/posnanski_playing_to_win_back_kc
+
+Redirect permanent /go/26 http://thebaseballchronicle.com/essays/shakespeare_and_the_park
+
+Redirect permanent /go/38 http://thebaseballchronicle.com/elsewhere/2009/04/07/world_focus_on_cuban_baseball
+
+Redirect permanent /go/37 http://thebaseballchronicle.com/elsewhere/2009/04/07/marie_olbermann
+
+Redirect permanent /go/36 http://thebaseballchronicle.com/elsewhere/2009/04/07/fur_hat
+
+Redirect permanent /go/35 http://thebaseballchronicle.com/elsewhere/2009/04/07/baseball_literature_roundtable
+
+Redirect permanent /go/34 http://thebaseballchronicle.com/elsewhere/2009/04/07/death_of_a_pitcher
+
+Redirect permanent /go/33 http://thebaseballchronicle.com/elsewhere/2009/04/06/a-rods_opening_day
+
+Redirect permanent /go/32 http://thebaseballchronicle.com/elsewhere/2009/04/06/jon_weisman_on_opening_day
+
+Redirect permanent /go/31 http://thebaseballchronicle.com/elsewhere/2009/04/06/could_bloggers_fill_the_seats
+
+Redirect permanent /go/30 http://thebaseballchronicle.com/elsewhere/2009/04/06/spitznagel_spring_training
+
+Redirect permanent /go/8 http://thebaseballchronicle.com/personal_stories/the_hold_of_the_table
+
+Redirect permanent /go/29 http://thebaseballchronicle.com/elsewhere/2009/04/05/inside_man_a_bronx_tale
+
+Redirect permanent /go/28 http://thebaseballchronicle.com/elsewhere/2009/04/05/josh_wilker_and_the_cardboard_gods
+
+Redirect permanent /go/27 http://thebaseballchronicle.com/elsewhere/2009/04/05/tommy_craggs_on_dustin_pedroia
+
+Redirect permanent /go/25 http://thebaseballchronicle.com/elsewhere/2009/04/05/ben_greenman_on_alex_rodriguez
+
+Redirect permanent /go/4 http://thebaseballchronicle.com/elsewhere/2009/04/05/the_roar_of_the_crowd
+
+Redirect permanent /go/7 http://thebaseballchronicle.com/poetry/an_untitled_poem
+
+Redirect permanent /go/15 http://thebaseballchronicle.com/notes/2009/04/welcome
+
+Redirect permanent /go/17 http://thebaseballchronicle.com/photography/2009/04/rural_baseball
+
+Redirect permanent /go/9 http://thebaseballchronicle.com/photography/2009/03/that_summer

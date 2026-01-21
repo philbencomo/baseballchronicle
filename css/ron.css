@@ -1,0 +1,372 @@
+#entryheader h1 {
+	margin-bottom: 5px;
+	padding-bottom: 0;
+}
+
+#entryheader h2 {
+	margin-top: 0px;
+	padding-top: 0;
+	border: none;
+}
+
+	#entryheader h2 a:hover {
+		border-bottom: 2px solid #FFD39B;
+	}
+
+#articlebody {
+	
+}
+
+	#articlebody img {
+		width: 200px;
+		display: block;
+		margin: 0 auto 40px auto;
+		border: 1px solid #666;
+	}
+
+	#articlebody .spacer {
+		clear: none;
+	}
+	
+	#articlebody h1 {
+		text-align: center;
+		font-size: 4em;
+		margin-bottom: 15px;
+	}
+	
+	#articlebody h3.byline {
+		text-align: center;
+		font-size: 1em;
+		text-transform: uppercase;
+		margin-bottom: 45px;
+		color: #1a1a1a;
+	}
+
+	.articlelede {
+		font-size: 1.2em;
+		line-height: 1.4em;
+		margin-bottom: 0;
+	}
+
+		.articlelede p {
+			margin-bottom: 0;
+		}
+	
+	.articletext {
+		width: 525px;
+		padding-right: 45px;
+		float: left;
+		font-size: 1.2em;
+		line-height: 1.4em;
+		margin-top: 0;
+		margin-bottom: 50px;
+	}
+	
+		p.breaker {
+			text-align: center;
+			font-size: 1.4em;
+		}
+		
+		p.photocredit {
+			text-align: right;
+			font-size: .8em;
+			font-style: italic;
+		}
+	
+		span.dropcap {
+			text-indent: 0;
+			display: inline;
+			float: left;
+			font-size: 3.1em;
+			font-weight: bold;
+			margin: 5px 5px 0px 0;
+			line-height: .7em;
+		}
+		
+		span.smallcapped {
+			text-transform: uppercase;
+			font-size: .85em;
+		}
+	
+	#sharebox {
+		width: 170px;
+		float: right;
+		margin-top: 25px;
+		background-color: #ebebeb;
+		padding: 10px;
+		opacity: .4;
+		-webkit-transition: all 0.3s ease-in;
+	}
+	
+		#sharebox h3 {
+			margin-top: 8px;
+		}
+	
+		#sharebox li {
+			line-height: 1.2em;
+		}
+		
+		#sharebox:hover {
+			opacity: 1;
+		}
+	
+	#biobox {
+		width: 170px;
+		float: right;
+		margin-top: 10px;
+		background-color: #ebebeb;
+		padding: 10px;
+		opacity: .4;
+		-webkit-transition: all 0.3s ease-in;
+	}
+	
+		#biobox h3 {
+			margin-top: 8px;
+		}
+		
+		#biobox p {
+			font-size: .9em;
+			line-height: 1.4em;
+		}
+		
+		#biobox:hover {
+			opacity: 1;
+		}
+	
+#comments {
+	clear: both;
+	margin-top: 70px;
+	
+}
+
+	h2.comments-header {
+		font-size: 1.8em;
+	}
+
+	#comments p {
+		font-size: 1.2em;
+		line-height: 1.4em;
+	}
+
+
+/* Responsive styling */
+
+@media screen and (max-width: 760px), handheld and (max-width: 760px) {
+	body {
+		width: 380px;
+	}
+	
+		#header {
+			width: 380px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+	
+			#header h1 {
+				font-size: 3.1em;
+			}
+		
+			#header p {
+				font-size: 1.3em;
+			}
+			
+		#articlebody {
+			width: 380px;
+		}
+		
+		#articlebody h1 {
+			font-size: 3em;
+		}
+		
+		.articletext {
+			width: auto;
+			float: none;
+			padding-right: 0;
+		}
+			
+		#sharebox {
+			float: none;
+			width: auto;
+			display: block;
+			opacity: 1;
+		}
+		
+		#biobox {
+			float: none;
+			width: auto;
+			display: block;
+			opacity: 1;
+			font-size: 1.2em;
+		}
+			
+		#randomoldies {
+			width: 380px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		
+			#randomoldies div {
+				float: none;
+				width: auto;
+			}
+		
+			#randomoldies div:hover {
+				margin-top: 0;
+				margin-bottom: 0;
+			}
+		
+		#bottomboxes {
+			width: 380px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		
+			#bottomboxes div.podcastbox {
+				float: none;
+				margin-left: auto;
+				margin-right: auto;
+			}
+			
+			div.bottomreswrap {
+				width: 380px;
+				margin-left: auto;
+				margin-right: auto;
+			}
+			
+			#bottomboxes div.archivebox {
+				float: left;
+				
+			}
+			
+			#bottomboxes div.aboutebox {
+				float: left;
+				
+			}
+		
+	#footer {
+		width: 380px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+		#footer ul, #footer p {
+			line-height: 1.4em;
+		}
+}
+
+@media screen and (max-width: 380px), handheld and (max-width: 380px) {
+	body {
+		width: 100%;
+	}
+	
+		#header {
+			width: auto;
+			margin-left: 10px;
+			margin-right: 10px;
+		}
+	
+			#header h1 {
+				font-size: 2.8em;
+			}
+		
+			#header p {
+				font-size: 1.2em;
+			}
+			
+		#entryheader h2 {
+			margin-left: 10px;
+			margin-right: 10px;
+		}
+		
+		#fiction, #pstories, #essays, #poetry, #reporting {
+			width: auto;
+			margin-left: 10px;
+			margin-right: 10px;
+		}
+
+			#fiction p, #pstories p, #essays p, #poetry p, #reporting p {
+				font-size: 1.2em;
+			}
+
+	#articlebody {
+		width: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+			
+	#sharebox {
+		float: none;
+		width: auto;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	#biobox {
+		float: none;
+		width: auto;
+		margin-left: auto;
+		margin-right: auto;
+	}
+			
+		#randomoldies {
+			width: auto;
+			margin-left: 10px;
+			margin-right: 10px;
+		}
+
+			div.essaywrap, div.pstorieswrap, div.reportingwrap, div.poetrywrap, div.fictionwrap {
+				position: relative;
+			}
+
+			div.essays, div.pstories, div.reporting, div.poetry, div.fiction {
+				float: none;
+				width: auto;
+				margin-left: auto;
+				margin-right: auto;
+			}
+		
+		#bottomboxes {
+			width: auto;
+			margin-left: 10px;
+			margin-right: 10px;
+		}
+		
+			#bottomboxes div.podcastbox {
+				width: auto;
+				float: none;
+				margin-left: 0;
+				margin-right: 0;
+			}
+
+				ul.graphic li a, ul.graphic li a.sm2_link {
+					width: auto;
+				}
+			
+			div.bottomreswrap {
+				width: auto;
+				margin-left: 0;
+				margin-right: 0;
+			}
+			
+			#bottomboxes div.archivebox {
+				float: none;
+				display: block;
+				width: auto;
+			}
+			
+			#bottomboxes div.aboutbox {
+				float: none;
+				display: block;
+				width: auto;
+			}
+		
+	#footer {
+		width: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+		#footer ul, #footer p {
+			line-height: 1.3em;
+		}
+}

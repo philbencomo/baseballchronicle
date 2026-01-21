@@ -1,0 +1,315 @@
+body {
+	background: url(http://thebaseballchronicle.com/images/man_on_mound/mariano_tmotm_mod.jpg) no-repeat center top;
+	width: 100%;
+}
+
+#entryheader {
+	width: 700px;
+	margin-top: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+	#entryheader h1 {
+		margin-top: 0;
+		padding-top: 10px;
+	}
+	
+		#entryheader h1 a:link {
+			color: #F1D2CD;
+		}
+	
+		#entryheader h1 a:visited {
+			color: #F1D2CD;
+		}
+	
+			#entryheader h1 a:visited:hover {
+				color: #fff;
+			}
+	
+		#entryheader h1 a:hover {
+			color: #fff;
+		}
+	
+	#entryheader h2 {
+		border: none;
+		margin-top: 0px;
+		color: #fff;
+		text-shadow: #333 1px 1px 1px;
+		font-variant: small-caps;
+		letter-spacing: 2px;
+	}
+	
+		#entryheader h2 a:link {
+			color: #fff;
+			border-bottom: 1px dotted #666;
+		}
+	
+		#entryheader h2 a:visited {
+			color: #fff;
+		}
+	
+			#entryheader h2 a:visited:hover {
+				color: #fff;
+				border-bottom: 2px solid #F1D2CD;
+			}
+	
+		#entryheader h2 a:hover {
+			color: #fff;
+			border-bottom: 2px solid #F1D2CD;
+		}
+
+#articlebody {
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 410px;
+}
+
+	#articlebody h1 {
+		text-shadow: #333 1px 1px 1px;
+		color: #fff;
+		text-align: right;
+		font-size: 3.7em;
+		font-variant: small-caps;
+		margin-bottom: 0;
+	}
+	
+	#articlebody h3.byline {
+		margin-top: 10px;
+		text-align: right;
+		color: #fff;
+		text-shadow: #333 1px 1px 1px;
+	}
+
+	.articletext {
+		color: #000;
+		margin-top: 140px;
+		font-size: 1.3em;
+		line-height: 1.6em;
+	}
+	
+		.articletext p {
+			text-indent: 2em;
+			margin-top: 0;
+			margin-bottom: 0;
+		}
+		
+			.articletext p.firstgraf {
+				text-indent: 0;
+			}
+			
+			.articletext p.lastgraf {
+				text-indent: 0;
+				text-align: right;
+				font-size: .8em;
+				font-style: italic;
+			}
+	
+		span.dropcap {
+			text-indent: 0;
+			display: inline;
+			float: left;
+			font-size: 5.6em;
+			font-weight: bold;
+			margin: 5px 5px 0px 0;
+			line-height: .7em;
+		}
+		
+		span.smallcapped {
+			font-variant: small-caps;
+			font-size: 1.3em;
+		}
+		
+		span.diams {
+			font-size: .75em;
+		}
+		
+		#sharebox {
+			width: 180px;
+			font-size: 1em;
+			margin-top: 85px;
+			margin-bottom: 50px;
+			padding: 20px 0px;
+			float: left;
+			display: inline;
+			position: relative;
+			background-color: ;
+			border-top: 3px solid black;
+		}
+
+			#sharebox h3 {
+				text-transform: uppercase;
+				font-family: Helvetica, sans-serif;
+				font-size: 1em;
+				margin: 0 0 15px 0;
+				letter-spacing: 1px;
+				color: #666;
+				text-align: left;
+			}
+
+			#sharebox p {
+				margin: 0;
+				font-size: 1.1em;
+				line-height: 1.5em;
+			}
+
+		#biobox {
+			background-color: ;
+			padding: 20px 0px;
+			width: 460px;
+			font-size: 1em;
+			float: right;
+			margin-top: 85px;
+			margin-bottom: 50px;
+			margin-left: 60px;
+			display: inline;
+			position: relative;
+			border-top: 3px solid black;
+		}
+
+			#biobox h3 {
+				text-transform: uppercase;
+				font-family: Helvetica, sans-serif;
+				font-size: 1em;
+				margin: 0 0 15px 0;
+				letter-spacing: 1px;
+				color: #666;
+				text-align: left;
+			}
+
+			#biobox p {
+				margin: 0;
+				font-size: 1.1em;
+				line-height: 1.5em;
+			}
+		
+	#morestufftoread {
+		width: 760px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	#bottomboxes {
+		width: 760px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	#footer {
+		width: 760px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+
+/* Responsive styles */
+
+@media screen and (max-width: 750px), handheld and (max-width: 750px) {	
+	#entryheader {
+		width: 100%;
+	}	
+	
+	#articlebody {
+		width: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	
+		#articlebody h1 {
+			font-size: 3em;
+		}
+	
+	.articletext {
+		width: auto;
+	}
+
+		.articletext span.dropcap {
+			font-size: 3.45em;
+		}
+		
+	#sharebox {
+		display: block;
+		float: none;
+		margin: 60px 0 25px 0;
+		width: auto;
+	}
+	
+	#biobox {
+		display: block;
+		float: none;
+		margin: 25px 0 30px 0;
+		width: auto;
+	}
+	
+	#morestufftoread {
+		width: 100%;
+	}
+	
+		#randomoldies div {
+			display: block;
+			float: none;
+			clear: both;
+			width: auto;
+			margin-left: 10px;
+			margin-right: 10px;
+		}
+		
+		#randomoldies div:hover {
+			margin-top: 0;
+			margin-bottom: 0;
+		}
+		
+	#bottomboxes {
+		margin-top: 50px;
+		width: 100%;
+	}
+	
+	#bottomboxes div.podcastbox {
+		display: block;
+		float: none;
+		clear: both;
+		width: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+		ul.graphic li a, ul.graphic li a.sm2_link {
+			width: auto;
+		}
+		
+	#bottomboxes div.archivebox {
+		display: block;
+		float: none;
+		clear: both;
+		width: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	
+	#bottomboxes div.aboutbox {
+		display: block;
+		float: none;
+		clear: both;
+		width: auto;
+		margin-left: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+		
+	#footer {
+		width: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+		#footer ul, #footer p {
+			line-height: 1.4em;
+		}
+}
+
+@media screen and (max-width: 380px), handheld and (max-width: 380px) {
+	.articletext p {
+		text-indent: 1.4em;
+	}
+}

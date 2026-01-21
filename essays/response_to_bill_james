@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width; initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="http://thebaseballchronicle.com/css/bbchron-v2-base.css">
+	<link rel="stylesheet" type="text/css" href="http://thebaseballchronicle.com/css/page-player.css">
+        <!--[if lt IE 9]>
+      <style>
+           body p, body li {
+                font-weight: normal;
+           }
+
+           #articlebody {
+               font-size: .6em;
+          }
+
+          #morestufftoread, #bottomboxes {
+               font-size: .6em;
+               font-weight: normal;
+          }
+
+          #footer {
+               font-size: .5em;
+          }
+      </style>
+<![endif]-->
+        <link rel="alternate" type="application/rss+xml" title="Recent Entries" href="http://feeds2.feedburner.com/TheBaseballChronicle">
+        <link rel="Shortcut Icon" href="/images/favicon.ico" type="image/x-icon">
+	<script type="text/javascript" src="http://thebaseballchronicle.com/scripts/soundmanager2.js"></script>
+	<script type="text/javascript">
+	soundManager.url = 'http://thebaseballchronicle.com/swf/';
+	soundManager.flashVersion = 8; // optional: shiny features (default = 8)
+	soundManager.useFlashBlock = false; // optionally, enable when you're ready to dive in
+	soundManager.debugMode = false;
+	</script>
+        <script type="text/javascript" src="http://thebaseballchronicle.com/scripts/page-player.js"></script>
+        <script type="text/javascript" src="http://thebaseballchronicle.com/scripts/jquery-1.4.4.min.js"></script>
+        <script type="text/javascript" src="http://thebaseballchronicle.com/scripts/jquery.masonry.min.js"></script>
+        <script type="text/javascript" src="http://thebaseballchronicle.com/mt.js"></script>
+
+    <script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=34a5f2aa-41a6-4010-8034-578840caf710&amp;type=website&amp;post_services=email&amp;button=false"></script>
+    <link rel="shortlink" href="http://bbchron.com/go/135">
+    <link rel="stylesheet" type="text/css" href="http://thebaseballchronicle.com/css/response_to_bill_james.css">
+    <title>A Response to Bill James' &amp;ldquo;Cooperstown and the 'Roids&quot; | The Baseball Chronicle</title>
+</head>
+<body>
+    <div id="entryheader">
+        <h1><a href="/">The Baseball Chronicle</a></h1>
+        <h2><span class="entryprev"><a href="http://thebaseballchronicle.com/personal_stories/50_years_a_cubs_fan_part_three" title="Previous story">&#8592;</a></span> <a href="http://thebaseballchronicle.com/essays/">Essays</a>, August 2009 <span class="entrynext"><a href="http://thebaseballchronicle.com/fiction/the_real_baseball_hall_of_fame" title="Next story">&#8594;</a></span</h2>
+    </div>
+    <div id="articlebody">
+        
+        
+        <h1 style="font-size:3em;text-align:center;">A Response to Bill James' &ldquo;Cooperstown and the 'Roids"</h1>
+        <h3 style="font-size:1.1em;text-transform:uppercase;text-align:center;margin-bottom:35px;">By Jeb Stewart</h3>
+        <div style="font-size:1.2em;line-height:1.5em;">
+        
+        <p>
+</p>
+        
+        <p>I have been a fan of the writing and analysis of Bill James for many years. My discovery of James forever altered my attitudes about baseball and the value of statistical analysis. In fact, as I am writing this, I count no less than ten books in my own baseball library which were authored by Bill James. Through his multitude of well-supported theories&#8212;particularly theories contained in <em>The Bill James Historical Baseball Abstract</em> and <em>Win Shares</em>&#8212;I have been forced to abandon many incorrect (and all too frequently nonsensical) beliefs I had about the game of baseball.</p>
+
+<p>In fact, I would argue James has been the most influential baseball writer over the last thirty years. His analysis has revolutionized the way Americans watch and understand baseball, and websites dedicated to a deeper understanding of the game have become a cottage industry as a result of his work. </p>
+
+<p>When I recently heard Yankee broadcaster John Sterling exclaim that on-base percentage is far more important than batting average, I realized that James&#8217;s thinking has, indeed, become mainstream. My own take on James is that he has been successful in changing attitudes about the game primarily because:</p>
+
+<ul>
+<li><p>His writing is engaging and often funny;</p></li>
+<li><p>He backs up his opinions with supportable statistical analysis;</p></li>
+<li><p>He recognizes that he does not have the only worthwhile opinion to offer about the 
+game, but that other analysts often have extremely valuable insights (e.g., Voros 
+McCracken, who developed Defense Independent Pitching Statistics.<sup id="fn1"><a href="#1">1</a></sup>). In fact, in <em>Win Shares,</em> James wrote that &#8220;&#8230; it is not the nature of research&#8212;good research or bad&#8212;to stand back and admire. In a living science, nothing represents the state of the art more than a few years &#8230; <em>I am trying to move the chains</em>.&#8221;<sup id="fn2"><a href="#2">2</a></sup>; and</p></li>
+<li><p>James is generally consistent about some issues (such as refusing to play &#8220;what if&#8221; 
+about players whose careers were cut short by injuries).<sup id="fn3"><a href="#3">3</a></sup></p></li>
+</ul>
+
+<p>As a fan of Bill James, I have long been interested in reading what he thinks about the subject of steroids. Accordingly, when I learned that he had written &#8220;Cooperstown and the &#8216;Roids,&#8221; I excitedly downloaded <a href="http://www.actapublications.com/images/small/PressReleases/Cooperstownandthe%27Roids_F2.pdf">the article</a> (PDF) from the ACTA website and began reading.</p>
+
+<p>My excitement turned to numbing disappointment as I read the article, however. Not only does the article contain rambling and frequently disconnected arguments, but it actually contains a number of false premises and illogical conclusions. The most glaringly inaccurate claim by James is that <em>steroids keep a player young</em>. James writes:</p>
+
+<blockquote>
+  <p>&#8230; One of the characteristics of the steroid era was that we had several dozen players who continued to improve beyond the normal aging time frame, so that many of them had their best seasons past the age of 32. This is historically not normal. In the 
+  post-steroid era we are returning to the historic norm in which players hit a wall 
+  sometime in their early thirties. But what does this mean?</p>
+  
+  <p>It means that steroids keep you young. You may not like to hear it stated that 
+  way, because steroids are evil, wicked, mean and nasty and youth is a good thing, but &#8230; that&#8217;s what it means. Steroids help the athlete resist the effects of aging.</p>
+</blockquote>
+
+<p>James&#8217;s key assertion&#8212;that &#8220;steroids keep you young&#8221;&#8212;ignores the practical reality that 
+steroids actually make a player bigger, stronger and faster. In point of fact, there is no evidence that steroids reverse the aging process (at least none that James can cite); however, there is a multitude of evidence that steroids make athletes perform better than even their prior statistical peak, not merely reverse the aging process. This is a serious causation fallacy in James&#8217;s article.</p>
+
+<p>If steroids merely made a player younger, we would expect Sammy Sosa would have hit 40 home runs (his age-27 total) in 1998 when he was 29, instead of the ridiculous total of 66 (followed by 63, 50 and 64 home runs, respectively, from ages 30-32). If steroids merely made a player younger, we would expect that Barry Bonds would have hit 46 home runs (his age-28 total) in 2001 when he was 36 years old. Instead, Barry Bonds hit the previously unheard of total of 73 homeruns. Steroids made these players&#8212;and many others&#8212;far better than they had ever been, not merely younger. It has been reported that Bonds, in particular, gained 38 pounds of lean muscle mass from 1998 to 2001.<sup id="fn4"><a href="#4">4</a></sup></p>
+
+<p>As Allan Barra wrote about Bonds: &#8220;[f]rom 1989 [age 24] through 1999 [age 34] Barry 
+Bonds was the best player in the NL and probably all of baseball, and even made a good argument for himself as the greatest all-around player in baseball history; then, beginning at age thirty-six for the next four seasons, he got so much better that a batting order of old Barry Bondses would have outscored a batting order of young Barry Bondses by very nearly two runs to one.&#8221;</p>
+
+<p>It would certainly be one thing if Mickey Mantle could have taken a pill that kept him at 21 years of age and allowed him to hit 40-50  homeruns a season, but that is not at all what happened with steroid use. Imagine if Mantle had taken steroids, gained 50 pounds of muscle mass and hit 100 home runs. No one could rationally argue that he had merely gotten younger through the use of steroids.</p>
+
+<p>James&#8217; conclusion that steroids make players younger (as opposed to better than they had ever been) is a false and unsupportable foundation upon which the rest of the conclusions in his article are constructed. From this faulty premise he begins to speculate regarding drugs he expects future citizens to take to keep themselves younger, stating:</p>
+
+<blockquote>
+  <p>If we look into the future, then, we can reliably foresee a time in which everybody is going to be using steroids or their pharmaceutical descendants. We will learn to control the health risks of these drugs, or we will develop alternatives to them. Once that happens, people will start living to age 200 or 300 or 1,000, and doctors will begin routinely prescribing drugs to help you live to be 200 or 300 or 1,000. If you look into the future 40 or 50 years, I think it is quite likely that every citizen will routinely take anti-aging pills every day.</p>
+</blockquote>
+
+<p>This type of claim (with absolutely no actual scientific support cited for the supposed reliable foreseeability) is wildly speculative and reads like a cheap dime store B-novella from the 1950s predicting that Americans will one day eat food pills and travel in flying saucers and jet packs. Determining whether the use of Performance Enhancing Drugs (PEDs) by athletes in the &#8220;steroid era&#8221; was proper, or not, based on what future generations might do fails to advance James&#8217; argument.</p>
+
+<p>Against this backdrop, James offers a second argument:</p>
+
+<blockquote>
+  <p>&#8220;Eventually, some players who have been associated with steroids are going to get into the Hall of Fame. &#8230; If nothing else, somebody will eventually get in and then acknowledge that he used steroids. &#8230; [o]nce some players who have been associated with steroids are in the Hall of Fame, the argument against the others will become un-sustainable.&#8221;</p>
+</blockquote>
+
+<p>This argument is nearly as untenable as the previous one, but is actually more insulting to the reader, by advocating that voters are incapable of learning from, and reacting to, mistakes.</p>
+
+<p>First, there&#8217;s the old adage that we learned as children&#8212;two wrongs don&#8217;t make a right. Just because a player &#8220;gets away with it&#8221; does not create justification for other players to get away with it. When a murderer gets off on a technicality, does this make society collectively throw up its hands and declare that the days of prosecuting accused murderers are over? Of course not; and the same logic applies to the Hall of Fame.</p>
+
+<p>Assuming a scenario where a PED user gets into the Hall of Fame and then admits to using PEDs, this might actually make some voters less likely to vote for anyone from the steroid era. And, in the past, where mistakes have been perceived in Hall of Fame voting (most notably with the election of Bill Mazeroski)<sup id="fn5"><a href="#5">5</a></sup>, rules have actually been changed to prevent mistakes from being repeated.</p>
+
+<p>Second, and perhaps more compelling, let&#8217;s have Bill James respond to the flawed logic of his above argument (that once the seal is broken all qualifying PED users will ultimately gain admittance to the Hall of Fame), in <em>Whatever Happened to the Hall of Fame</em>:</p>
+
+<blockquote>
+  <p>The Once-You-Lose-Your-Virginity, What-Does-It-Matter approach is an argument commonly used by advocates of players who have an outstanding weakness. The argument is, essentially, that once a player who has an outstanding weakness has been elected to the Hall of Fame, that weakness no longer counts, and can no longer be used as a reason not to elect another player who has the same weakness.</p>
+</blockquote>
+
+<p>In the same text, James cites this argument as one in a series of &#8220;false arguments that attend the Hall of Fame discussion.&#8221;</p>
+
+<p>Interestingly, in the same section of this book, James then uses Bill Mazeroski, in part, to deconstruct the-above argument for admission to the Hall of Fame, writing, &#8220;Bill Mazeroski hit .260, almost the same as Aparicio, and was the premier defensive second baseman of his day, if not of all time &#8230; but on the other hand, he didn&#8217;t play 2,599 games and never led his league in anything as a hitter. He&#8217;s got to find his own balance, throw in his own positives. He can&#8217;t skate on Aparicio&#8217;s pass.&#8221; Similarly, I would argue that if a current Hall of Famer admits to using PEDs that this should not allow Bonds, Sosa, McGwire, etc., to skate on that Hall of Famer&#8217;s pass.</p>
+
+<p>I agree with the earlier Bill James. Just because a player with an outstanding weakness gets into the Hall of Fame does not mean that other similar players should gain admittance.</p>
+
+<p>James next advances two additional arguments, which do not merit much discussion:</p>
+
+<ul>
+<li><p>First, he argues that history will forgive steroids users, but their numbers will endure. I would argue that history has not forgiven members of the Black Sox, none of whom have been admitted to the Hall of Fame, despite largely being painted as victims, rightly or wrongly, since the publication of <em>Eight Men Out</em> in 1963.<sup id="fn6"><a href="#6">6</a></sup> Moreover, this argument is particularly questionable where steroids users are concerned, because the numbers they put up will be largely viewed, also rightly or wrongly, as <em>the product of their own wrongdoing</em>.</p></li>
+<li><p>Second, James argues that non-steroid users elected to the Hall of Fame will &#8220;speak up&#8221; for steroid users. He cites Andy Pettitte as being a likely Hall of Famer who will lobby for Roger Clemens. This is a curious and almost ludicrous statement, given the fact that Pettitte is an admitted user of Human Growth Hormone, which is a PED. There may well be lobbying from non-users, but I doubt that lobbying will come from Andy Pettitte, whose numbers make him a borderline candidate and whose own PED use will make him a non-candidate.</p></li>
+</ul>
+
+<p>Finally, James raises the second most critical point of his article, where he rhetorically asks whether Steroid use was even wrong in the first place. He writes, &#8220;[t]he discrimination against PED users in Hall of Fame voting rests upon the perception that this was cheating. But is it cheating if one violates a rule that nobody is enforcing, and which one may legitimately see as being widely ignored by those within the competition?&#8221; He then raises a number of questions regarding whether MLB actually outlawed PEDs prior to 2002. I suppose this is James&#8217; &#8220;No Rule/No Foul&#8221; argument.</p>
+
+<p>Fundamentally, a fan, and ultimately a Hall of Fame voter, must decide for himself whether the use of steroids and other performance enhancing drugs was wrong or not. Not surprisingly, I long ago decided that the use of PEDs was wrong, not only for the players, who put their health at risk to chase numbers and bigger contracts, but also for the integrity of the game because of the blurring of the record books.</p>
+
+<p>However, I won&#8217;t bother to try to defend &#8220;The Mitchell Report&#8221; or its argument that PEDs have been banned since 1991.<sup id="fn7"><a href="#7">7</a></sup>  This is because I have more serious concerns regarding the true independence and objectivity of the report, which was authored by a minority owner of the Boston Red Sox.<sup id="fn8"><a href="#8">8</a></sup> In any event, I have reached the conclusion that steroids have been bad for baseball for two principal reasons.</p>
+
+<p>First, steroids may or may not have been banned by Major League Baseball before 2002, but they were certainly a controlled substance in the United States as early as 1990.<sup id="fn9"><a href="#9">9</a></sup> Moreover, if there was nothing wrong with the indiscriminate use of steroids, one wonders why so many players felt the need to lie about using them to the press, and later having to apologize (or having to lie some more) once they were caught. Some actions are <em>malum in se</em>, meaning they are wrong independent of any law banning those actions. Certainly the players who lied about using steroids must have inwardly recognized this concept and known they were cheating.</p>
+
+<p>Second, and most importantly, as a baseball fan, I value the use of statistics. I want to compare Babe Ruth&#8217;s statistics to Hank Aaron&#8217;s numbers. I want to debate who the best center fielder in New York was during the 1950s. I even want to compare current players with players of bygone days. In fact, Bill James wants to do the exact same thing, which is why he wrote <em>Win Shares</em> in the first place. As he stated in the introduction to that book, &#8220;&#8230; there are millions of fans who &#8216;know&#8217; that Clemente was better, because they saw him play, and there are millions more who &#8216;know&#8217; that Kaline was better for the same reasons. I don&#8217;t want to &#8216;know&#8217; that way. I want reasons.&#8221;</p>
+
+<p>And therein lies the true fallacy in James&#8217;s steroids essay. James advocates that if all players were using steroids, the use of steroids was not cheating. However, once the subject of steroids is injected into the debate, no one can really know if Barry Bonds or Willie Mays was better, at least not statistically speaking, because Bonds cheated the game. The raw statistics might suggest that Bonds was a better player than Mays, but such a comparison always has to be followed with a &#8220;<em>yeah, but &#8230;</em>&#8221; acknowledgment. The use of PEDs has robbed baseball fans from ever really statistically knowing the answer, or even engaging in meaningful debate on the subject.</p>
+
+<p>We were robbed in 1998 while we were duped into following a home run race that was built on a house of cards, much as Roger Maris was robbed of his record while his family sat and watched, never knowing that the two primary competitors were doing suspect things that, quite frankly, Roger never did.</p>
+
+<p>And, really, Bill James has been robbed of the ability to compare the players of the steroid era with the players of yesteryear. In an effort to cure this problem, he finally concludes, &#8220;So what?&#8221;, and advocates the simple answer (acting as if steroids were never a problem), which somehow restores his ability to analyze those numbers without wanting to question how the numbers were reached.</p>
+
+<p>James&#8217; article on steroids is an apology at its core, completely lacking in real analysis and support, and full of speculation. He has failed to persuade me; I hope the halo effect of his star power will fail to persuade others, taught by James to think their way through baseball discussions and to always demand proof to support an argument.</p>
+
+<div class="fns">
+<hr />
+<ol>
+    <li id="1">For James&#8217; discussion of McCracken&#8217;s Theory, see Bill James, <a href="http://www.amazon.com/Bill-James-Historical-Baseball-Abstract/dp/0743227220/"><em>The New Bill  James Historical Baseball Abstract</em></a>, pp. 885-888 (2001).<a href="#fn1" title="Jump back to place in text">&#x2191;</a></li>
+    <li id="2">Bill James, <a href="http://www.amazon.com/Win-Shares-Bill-James/dp/1931584036/"><em>Win Shares</em></a>, p. 8 (2002) (Emphasis supplied).<a href="#fn2" title="Jump back to place in text">&#x2191;</a></li>
+    <li id="3">&#8220;Players in most cases have to be evaluated by what they actually did, not by what they would have done or might have done.&#8221; Bill James, <a href="http://www.amazon.com/Whatever-Happened-Hall-Fame-James/dp/0684800888/"><em>Whatever Happened to the Hall of Fame</em></a>, p. 341 (1995) (discussing Thurman Munson&#8217;s Hall of Fame candidacy).<a href="#fn3" title="Jump back to place in text">&#x2191;</a></li>
+    <li id="4">Allan Barra, <a href="http://www.amazon.com/Brushbacks-Knockdowns-Greatest-Baseball-Centuries/dp/0312322488/"><em>Brushbacks and Knockdowns: The Greatest Baseball Debates of Two Centuries</em></a>, p. 265 (2004). Of course, the weight gain does not tell the entire story of Bonds&#8217; dramatic rise in home runs. Rather, &#8220;[i]n 2002, when Bonds&#8217; weight was reported to be 228, Greg Anderson [Bonds&#8217; trainer] told the New York Times Magazine that Bonds&#8217; body fat was even lower [than his previous low of 8 percent]: 6.2 percent.&#8221; See Mark Fainaru-Wadu and Lance Williams, <a href="http://www.amazon.com/Game-Shadows-Steroids-Scandal-Professional/dp/B002HRELGI/"><em>Game of Shadows</em></a>, pp. 274-275 (2006).<a href="#fn4" title="Jump back to place in text">&#x2191;</a></li>
+    <li id="5">I am not arguing or even suggesting that the election of Bill Mazeroski was a mistake, or that he should not be a Hall of Fame member. However, it is virtually undisputed that the Veterans Committee&#8217;s voting process was changed as a reaction to the election of Maz to the Hall. See <a href="http://quicktime.cnnsi.com/baseball/mlb/news/2001/08/06/hall_changes_ap/">here</a><a href="#fn5" title="Jump back to place in text">&#x2191;</a></li>
+    <li id="6">In contrast, I would argue that banning the eight members of the Black Sox has had the intended punitive effect of deterring players from accepting money from gamblers to throw games. Perhaps banning PED users from Hall of Fame admittance might deter players from using PEDs.<a href="#fn6" title="Jump back to place in text">&#x2191;</a></li>
+    <li id="7">See &#8220;<a href="http://files.mlb.com/mitchrpt.pdf">The Mitchell Report</a>,&#8221; (PDF) p. 41 (2007) (&#8220;Vincent was the first Commissioner to expressly include anabolic steroids among the substances prohibited under baseball&#8217;s drug policy, which he did in the June 1991 version of the memorandum.&#8221;). The Mitchell Report also proposes that, by implication, steroids were banned as early as 1988, through the passage of federal law concerning steroids distribution without a valid prescription. See Id. at 18-19.<a href="#fn7" title="Jump back to place in text">&#x2191;</a></li>
+    <li id="8">James criticizes &#8220;the commissioner&#8217;s periodic spasms of self-righteousness.&#8221; Bill James, &#8220;Cooperstown and the &#8216;Roids&#8221;, p. 4 (2009). However, he offers no criticism of an apparent conflict of interest by the author of &#8220;The Mitchell Report.&#8221; This is not surprising, given the fact that James is, himself, the Senior Advisor on Baseball Operations for the Boston Red Sox.<a href="#fn8" title="Jump back to place in text">&#x2191;</a></li>
+    <li id="9">See &#8220;Anabolic Steroids Control Act of 1990,&#8221; Pub. L. No. 101-647, Sec. 1902, 104 Stat. 4851 (1990) (amending 21 U.S.C. 812(c) (1981).<a href="#fn9" title="Jump back to place in text">&#x2191;</a></li>
+</ol>
+</div>
+
+        <div class="spacer"></div>
+        <div id="sharebox">
+	<h3>Share & Save</h3>
+        <ul>
+              <li><script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+                       <div>
+                            <a href="http://twitter.com/share" class="twitter-share-button"
+                            data-url="http://bbchron.com/go/135"
+                            data-counturl="http://thebaseballchronicle.com/essays/response_to_bill_james"
+                            data-count="horizontal"
+                            data-via="bbchron"
+                            data-text="Essays: A Response to Bill James' &ldquo;Cooperstown and the 'Roids", by Jeb Stewart:">Tweet</a>
+</div></li>
+
+              <li class="facebookbutton"><iframe src="http://www.facebook.com/plugins/like.php?href=http://thebaseballchronicle.com/essays/response_to_bill_james&amp;layout=button_count&amp;show_faces=true&amp;width=150&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" allowTransparency="true"></iframe></li>
+
+              <li class="instapaperbutton"><iframe border="0" scrolling="no" width="78" height="17" allowtransparency="true" frameborder="0"
+ style="margin-bottom: -3px; z-index: 1338; border: 0px; background-color: transparent; overflow: hidden;"
+ src="http://www.instapaper.com/e2?url=http%3A%2F%2Fthebaseballchronicle.com%2Fessays%2Fresponse_to_bill_james&title=A%20Response%20to%20Bill%20James%27%20%26ldquo%3BCooperstown%20and%20the%20%27Roids%22&description=Last%20July%2C%20Bill%20James%20published%20an%20essay%20of%20his%20thoughts%20on%20steroid%20use%20and%20baseball%27s%20Hall%20of%20Fame.%20Ultimately%2C%20James%20concluded%2C%20steroid%20users%20of%20recent%20decades%20will%20not%20only%20be%20enshrined%2C%20but%20also%20hailed%20as%20%22pioneers.%22%20But%20James%27%20arguments%20are%20less%20than%20convincing."
+></iframe></li>
+
+              <li class="printbutton"><a href="http://thebaseballchronicle.com/essays/response_to_bill_james.print">Print</a></li>
+
+              <li class="shortlinkbutton"><a href="http://bbchron.com/go/135" title="Short link to this story">bbchron.com/go/135</a></li>
+        </ul>
+</div>
+<div id="biobox">
+	<h3>About the author</h3>
+	<p><p><strong>Jeb Stewart</strong> is a lawyer in Birmingham, Alabama, who enjoys taking his two sons to the Rickwood Classic each year and buying them cards.  He spent most of his youth pitching a tennis ball against his front porch steps, in hopes that a Yankees&#8217; scout would happen by and discover him.  Although he remains undiscovered, he still has a passion for the Yankees and collecting baseball cards.</p>
+</p>
+</div>
+        <div class="spacer"></div>
+        <div id="comments" class="comments">
+
+
+    
+    
+        
+            <h2 class="comments-header">6 Comments</h2>
+        
+        <div class="comments-content">
+            <div id="comment-53" class="comment">
+                <p><strong>Bob Rambo, <a href="http://thebaseballchronicle.com/essays/response_to_bill_james#comment-53" title="Comment permalink">Aug 17, 2009</a></strong></p>
+                <p>Mr. Stewart,</p>
+
+<p>I believe you have missed the overall purpose of Mr. James' article.  He was not attempting a statistical research approach but instead was presenting his view of human nature.  In no way was he giving a pass to steroid users.  He indicated this position several times throughout the article.  He simply provides a very likely outcome of typical human nature.  The Black Sox scandal has no gray area.  Players who gambled on baseball are banned.  The rules are clear.  There is so much gray area in the PEDs arena that James is correct; someone is going to get elected (or already has) who will be outed or will admit to using PEDs.  James is saying that human nature will likely break down the current resistance to PEDs and many of the convicted stars of the era will eventually get in.</p>
+
+<p>One area that you are at least partially correct is the "fountain of youth" concept present by James.  Obviously, some players got bigger, stronger, better which James doesn't appear to acknowledge but just as many used steriods to recover from fatigue &amp; injury faster.  I don't know the facts behind different types of PEDs but there's no question the effects were different with different drugs and for different people.  For some it was a fountain of youth (Magwire - probably would have retired prior to 1998 without Andro) and for others it simply turned them into a muscle-bound beast (i.e. Brady Anderson).</p>
+
+<p>I suggest you re-read Mr. James' article with the view that it was intended as a prediction of the future based on James' perception of human nature.</p>
+
+<p>Bob Rambo</p>
+
+            </div>
+        </div>
+    
+        
+        <div class="comments-content">
+            <div id="comment-54" class="comment">
+                <p><strong>Scott Segrin, <a href="http://thebaseballchronicle.com/essays/response_to_bill_james#comment-54" title="Comment permalink">Aug 18, 2009</a></strong></p>
+                <p>I believe that people who cling to the statistical integrity of the game of baseball are completely missing the point of sabermetrics and the work that James and others do.  If it’s important to you to compare the statistics of Babe Ruth, Hank Aaron and Barry Bonds, the use of PEDs is far from the only consideration you must make and perhaps not even the most significant.  If you feel that the statistical norms of the game must remain constant in order for you to make these evaluations, it shows an inability to adapt to changing environment.</p>
+
+<p>The game of baseball will always evolve just as technology evolves.  It’s quite possible, for example, that someday medical technology will advance to the point where starting pitcher's arm can recover much quicker so that he can pitch every other day – or every day.  Historical records that we thought were unreachable will be reachable again, and this will be a good thing for the game – not bad.</p>
+
+<p>If we try lock baseball into a particular state, simply for the convenience of being able to study its past, we will certainly guarantee that we will destroy its future.</p>
+
+            </div>
+        </div>
+    
+        
+        <div class="comments-content">
+            <div id="comment-55" class="comment">
+                <p><strong>Jeb Stewart, <a href="http://thebaseballchronicle.com/essays/response_to_bill_james#comment-55" title="Comment permalink">Aug 18, 2009</a></strong></p>
+                <p>Bob -- I realize that Bill James was not analyzing statistics, but poor reasoning is poor reasoning, whether it's words or numbers.  That's the problem with James's position on steroids and the Hall of Fame, I believe.  There are a number of fundamentally flawed foundations in his essay, which I've discussed above, including a direct contradiction of his earlier book on the Hall of Fame.</p>
+
+<p>One thing I would more strongly disagree with you about, however, is your statement that:  "[t]he Black Sox scandal has no gray area.  Players who gambled on baseball are banned.  The rules are clear."  </p>
+
+<p>The rules are clear about gambling now (incidentally, the Sox weren't necessarily gambling, they were throwing games, though that's a merely academic point).  But, were the rules really clear at the time?  What baseball rule existed in 1919, when the Sox threw games, which banned baseball players from throwing games for money?  None.  Rather, the newly appointed Commissioner of Baseball recognized the integrity of the game was too important not to ban the eight players.  Landis, rightly or wrongly, was breaking new ground in his decision, not applying a clear rule without any gray area.  In fact, he banned the players in the face of an acquittal by a jury of their peers.</p>
+
+<p>Furthermore, what baseball rule existed in 1939, when the Hall of Fame was founded, which banned the members of the Black Sox from admittance?  None at all, actually; not until 1991, in the wake of the Pete Rose scandal, was this rule adopted.  </p>
+
+<p>My point is that using the Black Sox to buttress an argument that statistically qualifying PED users should gain admittance into the Hall of Fame is a bit of a slippery slope, at best, and a dead end street, at worst.  I still maintain that it's up to the voters to decide, and I hope most voters will agree that the use of steroids (and other PED's) was wrong, and vote accordingly.   </p>
+
+<p>Scott -- those are certainly thought provoking comments.  Obviously changing times have always impacted statistics (e.g., changing from a dead to a live ball, the advent of night games, integration, and even the uniforms).  I'm not suggesting that statistical analysis needs to be conducted in a vacuum without allowing for any variables.  However, rule changes can be accounted for a bit easier than the shady use of illegal drugs to gain a competitive edge.</p>
+
+<p>I also don't really know what advances in medicine will change the game.  In truth, Bill James doesn't really know either and we can only speculate as to what those advances will be.  I don't have a problem with surgical advances allowing players to have meaningful careers, such as Tommy John Surgery.  I suppose we'll have to evaluate those advances as they arrive; however, if they are legal, I don't see how we can oppose how they shape the game.</p>
+
+<p>More to the point, though, my focus was on the more distinct issues of whether illegal steroids have been bad for the game, whether PED users should get into the Hall of Fame, and whether the reasoning of Bill James is adequately supported in his essay.</p>
+
+<p>If you don't have a problem with the use of illegal steroids (and other PED's) by players, I doubt I'll ever persuade you.  The best I can hope for is that I've given you pause to consider the other side of the debate.  I believe Bill James would probably agree with me that this is an issue, which needs to be debated, and that debate has always been a healthy part of the game.</p>
+
+<p>Thanks to you both for your great comments. </p>
+
+            </div>
+        </div>
+    
+        
+        <div class="comments-content">
+            <div id="comment-56" class="comment">
+                <p><strong>Mark Davis, <a href="http://thebaseballchronicle.com/essays/response_to_bill_james#comment-56" title="Comment permalink">Aug 19, 2009</a></strong></p>
+                <p>In the interest of disclosure; I know the author.  Nevertheless, I agree, particularly with the general thrust of the argument that steroids do not make you younger; they make you better, even better than your younger self.  Morever, Scott makes good points, but forgets that while technology may very well change the game in the future, those technological changes will: (a) be available to everyone; and (b) legal (as in, legal under Federal law).  PEDs, on the other hand, may not have been used by everyone, leaving aside their illegality in most circumstances, and that to me is a critical distinction not accounted for in Scott's thoughtful response.</p>
+
+            </div>
+        </div>
+    
+        
+        <div class="comments-content">
+            <div id="comment-59" class="comment">
+                <p><strong>Gus, <a href="http://thebaseballchronicle.com/essays/response_to_bill_james#comment-59" title="Comment permalink">Aug 24, 2009</a></strong></p>
+                <p>Amen, brother.  I'd note that anything Bill James writes at this point is just as circumspect as steroid cheater Fernando Vina yammering on ESPN. He's paid by the baseball machine. In fact, he's paid by a franchise that has employed (to its great prfot) some of the biggest steroid cheats the game has known -- Ortiz and Ramirez, for sure, many others in the "I won't be surprised category."  So James, as all the ESPN steroid apologist, all have a vested interest and their opinions should be given this weight.  </p>
+
+<p>The whole thing is really frustrating, as the guys who have not cheated sit in AAA buses or insurance desks, wondering, where is the justice for me? Where is my karma?  Ortiz is awash in cash and the bacchanal of MLB stardom, and yet I'm here doing the right thing and getting screwed by the system.  I don't have too much sympathy for the MLB'ers who stayed clean. We never had much of a Rosa Parks in MLB; few guys who would stand up for playing clean.   </p>
+
+<p>To be sure, not everybody did it.  With the help of Mr. James' statistical analyses, we'll have a pretty good idea who has cheated over this time period.  I'm totally cool if nobody gets in the Hall of Fame who played from 1995 to 2009.  For me, Derek Jeter's failure to use his leverage to protect his game is only slightly less appalling than Bonds' cheating the game that had given him so much.  But I suspect we'll be able to come up witha  pretty good list of the cheats, and maybe a few of the cleans.  And we'll move on. </p>
+
+            </div>
+        </div>
+    
+        
+        <div class="comments-content">
+            <div id="comment-76" class="comment">
+                <p><strong>alan, <a href="http://thebaseballchronicle.com/essays/response_to_bill_james#comment-76" title="Comment permalink">Jul  7, 2010</a></strong></p>
+                <p>I am a consultant who works regularly with physicians.  One physician I worked with suggested that steroids indeed do slow the aging process.  This physician frequently prescribes natural hormone replacement therapy for his patients over 40 (these are steroids).  He doesn't recommend the same synthetic steroids that the athletes use.  Instead, he prescribes natural steroids that are made in compounding pharmacies, which he uses himself at age 46.  He said that the natural steroids do not have the same hazardous effect that the synthetic steroids do for someone who is aging, because the body is naturally producing less of these hormones as it ages.</p>
+
+<p>There is a book written about this subject by another physician entitled, "How to Achieve Healthy Aging," by Neal Rouzier, M.D.</p>
+
+<p>This body of work on steroids may be what Bill James is referring to - Rouzier's book describes research that indicates that steroids do keep you young.</p>
+
+<p>I disagree with James on his main point about steroids, however.  Athletes who are using steroids illegally should not be accepted into the Hall of Fame, and I don't think that they will be in the future.</p>
+
+<p>Rouzier's book states clearly that these artificial steroids are dangerous.  He also recommends using natural versions of steroids only to replace hormone levels that are being lowered with age.</p>
+
+<p>I'm sure that his position is controversial, as well.  I haven't researched this beyond his book, nor have I started using the natural steroid creams.   </p>
+
+            </div>
+        </div>
+    
+
+
+    
+    
+
+
+</div>
+
+
+
+        </div>
+        
+        <h2 class="readmorenav"><a href="http://thebaseballchronicle.com/personal_stories/50_years_a_cubs_fan_part_three" title="Previous story">&#8592; Previous story</a> <span class="readmorebullet">&bull;</span> <a href="http://thebaseballchronicle.com/fiction/the_real_baseball_hall_of_fame" title="Next story">Next story &#8594;</a></h2>
+    </div>
+    <div class="clear"></div>
+    <div id="morestufftoread">
+	<h2 class="recently">Recently</h2>
+        <div id="randomoldies">
+        
+        
+	
+		<div class="reporting">
+			<a href="http://thebaseballchronicle.com/reporting/the_once_and_future_baseball_man">
+			<h3>Reporting</h3>
+			<h2>The Once and Future Baseball Man</h2>
+			<h4>By Phil Bencomo</h4>
+			<p>Victor Wang hasn't played baseball competitively since he was a kid. He knew, back in elementary school in the '90s, that he'd never reach the pros. That he'd struggle even in Little League. That he simply wasn't very good. So he quit.</p>
+			</a>
+		</div>
+        
+	
+		<div class="pstories">
+			<a href="http://thebaseballchronicle.com/personal_stories/knothole">
+			<h3>Personal Stories</h3>
+			<h2>The Knothole</h2>
+			<h4>By Phil Bencomo</h4>
+			<p>Witness the crush of people in front of the 10-foot-wide window into Wrigley Field. Where they congregated before 2006, when the knothole in the outfield wall was carved, I do not know. But they are together now.</p>
+			</a>
+		</div>
+        
+        
+		<div class="poetry">
+			<a href="http://thebaseballchronicle.com/poetry/the_first_practice">
+			<h3>Poetry</h3>
+			<h2>The First Practice</h2>
+			<h4>By David S. Pointer</h4>
+			<p>"The coach poured the / extra balls out of a / red drawstring bucket / bag, then the kids took / the mini-field forever / shagging long, left, right."</p>
+			</a>
+		</div>
+        
+        
+		<div class="fiction">
+			<a href="http://thebaseballchronicle.com/fiction/strike_zone">
+			<h3>Fiction</h3>
+			<h2>Strike Zone</h2>
+			<h4>By Paul Lonardo</h4>
+			<p>Bump hadn't seen him in decades. No one had. He disappeared, as if he'd never existed, just months into a brilliant major league career. But there he was, Ron Flury, sitting three stools away in a Jacksonville bar.</p>
+			</a>
+		</div>
+        
+        
+        
+        
+        
+        </div>
+    </div>
+    <div class="clear"></div>
+    <div id="bottomboxes">
+        <div class="podcastbox">
+			<h3>Podcast</h3>
+			<ul class="playlist">
+                                <li><a href="http://thebaseballchronicle.com/podcast/Eric-Nusbaum.mp3">Eric Nusbaum (25:29)</a></li>
+				<li><a href="http://thebaseballchronicle.com/podcast/Phil-Bencomo_Shoeless-Joe.mp3">Phil Bencomo: &ldquo;Shoeless Joe&rdquo; (8:07)</a></li>
+				<li><a href="http://thebaseballchronicle.com/podcast/Josh-Wilker_George-Foster.mp3">Josh Wilker: &ldquo;George Foster&rdquo; (7:25)</a></li>
+			</ul>
+			<p><a href="/podcast">Podcast home</a> | <a href="http://itunes.apple.com/us/podcast/the-baseball-chronicle-podcast/id324323687">Subscribe in iTunes</a></p>
+		</div>
+                <div class="bottomreswrap">
+		<div class="archivebox">
+			<h3>Archive</h3>
+                        <ul>
+		             <li><select onchange="nav(this)">
+                             <option>By category...</option>
+                             <option value="/essays">Essays</option>
+                             <option value="/fiction">Fiction</option>
+                             <option value="/personal_stories">Personal stories</option>
+                             <option value="/poetry">Poetry</option>
+                             <option value="/reporting">Reporting</option>
+                             </select></li>
+			</ul>
+			<ul>
+		             <li><select onchange="nav(this)">
+                             <option>By author...</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/al_ottens/">Al Ottens</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/bryce_martin/">Bryce Martin</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/cynthia_tyler_1/">Cynthia Tyler</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/daniel_couch/">Daniel Couch</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/dave_roulston/">Dave Roulston</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/david_s_pointer/">David S. Pointer</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/dennis_feller/">Dennis Feller</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/elliot_robins/">Elliot Robins</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/ember_nickel/">Ember Nickel</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/eric_nusbaum/">Eric Nusbaum</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/jeb_stewart/">Jeb Stewart</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/joe_benardello/">Joe Benardello</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/john_bartleby/">John Bartleby</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/lincoln_mitchell/">Lincoln Mitchell</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/mb_coudal/">MB Coudal</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/melody_blass_fisher/">Melody Blass Fisher</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/michael_webb/">Michael Webb</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/paul_lonardo/">Paul Lonardo</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/phil_bencomo/">Phil Bencomo</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/r_a_cabral/">R. A. Cabral</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/rick_soisson/">Rick Soisson</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/steve_vivona/">Steve Vivona</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/todd_cosner/">Todd Cosner</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/tyler_kalmakoff/">Tyler Kalmakoff</option>
+                             
+                             <option value="http://thebaseballchronicle.com/authors/walter_biggins/">Walter Biggins</option>
+                             
+                             </select></li>
+			</ul>
+                        <ul>
+		             <li><select onchange="nav(this)">
+                             <option>By month...</option>
+                             
+                             <option value="http://thebaseballchronicle.com/2011/10/">October 2011</option>
+                             
+                             <option value="http://thebaseballchronicle.com/2011/09/">September 2011</option>
+                             
+                             <option value="http://thebaseballchronicle.com/2011/04/">April 2011</option>
+                             
+                             <option value="http://thebaseballchronicle.com/2011/01/">January 2011</option>
+                             
+                             <option value="http://thebaseballchronicle.com/2010/11/">November 2010</option>
+                             
+                             <option value="http://thebaseballchronicle.com/2010/10/">October 2010</option>
+                             
+                             <option value="http://thebaseballchronicle.com/2010/09/">September 2010</option>
+                             
+                             <option value="http://thebaseballchronicle.com/2010/08/">August 2010</option>
+                             
+                             <option value="http://thebaseballchronicle.com/2010/07/">July 2010</option>
+                             
+                             <option value="http://thebaseballchronicle.com/2010/03/">March 2010</option>
+                             
+                             <option value="http://thebaseballchronicle.com/2010/02/">February 2010</option>
+                             
+                             <option value="http://thebaseballchronicle.com/2009/12/">December 2009</option>
+                             
+                             <option value="http://thebaseballchronicle.com/2009/09/">September 2009</option>
+                             
+                             <option value="http://thebaseballchronicle.com/2009/08/">August 2009</option>
+                             
+                             <option value="http://thebaseballchronicle.com/2009/07/">July 2009</option>
+                             
+                             <option value="http://thebaseballchronicle.com/2009/06/">June 2009</option>
+                             
+                             <option value="http://thebaseballchronicle.com/2009/05/">May 2009</option>
+                             
+                             <option value="http://thebaseballchronicle.com/2009/04/">April 2009</option>
+                             
+                             </select></li>
+			</ul>
+                        <p><a href="/archive">Or browse the whole thing, on a single page.</a></p>
+		</div>
+		<div class="aboutbox">
+			<h3>About</h3>
+			<p><span class="chron">The Baseball Chronicle</span> is an online magazine that celebrates the narrative. We publish personal stories, essays, journalism and more&mdash;great stories, of all varieties, about our favorite game.</p>
+                        <p><a href="/submissions">Tell your story today.</a></p>
+		</div>
+                </div>
+    </div>
+    <div class="spacer"></div>
+    <div id="footer">
+        <ul>
+    <li><a href="/about">About</a></li>
+    <li><a href="/submissions">Submissions</a></li>
+    <li><a href="/archive">Archive</a></li>
+    <li><a href="/notes">Editor's Notes</a></li>
+    <li><a href="/photography">Photography</a></li>
+    <li><a href="/podcast">Podcast</a></li>
+    <li><a href="http://feeds2.feedburner.com/TheBaseballChronicle">RSS Feed</a></li>
+    <li><a href="http://twitter.com/bbchron">@bbchron</a></li>
+</ul>
+<p>All content is copyrighted by The Baseball Chronicle or its contributors.</p>
+    </div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6932442-3");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

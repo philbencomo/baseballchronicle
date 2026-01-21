@@ -1,0 +1,556 @@
+html {
+	background-color: #000;
+	border-color: #e35205;
+}
+
+body {
+	width: 100%;
+	background: #fff url(http://thebaseballchronicle.com/images/tmo/mudhens-game-2000px.jpg) no-repeat fixed center top;
+}
+
+a:link {
+	-webkit-transition: color .4s;
+	-moz-transition: color .4s;
+}
+	
+	#morestufftoread {
+		width: 760px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+		h2.recently {
+			color: #fff;
+		}
+	
+		div.essays:hover {
+			background-color: rgba(255,211,155,.8);
+		}
+		
+		div.reporting:hover {
+			background-color: rgba(137,146,161,.8);
+		}
+		
+		div.pstories:hover {
+			background-color: rgba(157,161,145,.8);
+		}
+		
+		div.poetry:hover {
+			background-color: rgba(190,210,220,.8);
+		}
+		
+		div.fiction:hover {
+			background-color: rgba(241,210,205,.8);
+		}
+	
+	#bottomboxes {
+		width: 760px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	#footer {
+		width: 760px;
+		margin-left: auto;
+		margin-right: auto;
+		padding-bottom: 15px;
+		color: #333;
+		border-top-color: #ccc;
+	}
+	
+		#footer li {
+			border-color: #ccc;
+		}
+	
+		#footer a:link {
+			background-color: #8c1717;
+			color: #fff;
+			padding: 5px;
+		}
+
+		#footer a:visited {
+			background-color: #8c1717;
+			color: #fff;
+			padding: 5px;
+		}
+
+		#footer a:hover {
+			background-color: #333;
+		}
+	
+	#entryheader {
+		width: 360px;
+		margin: 0 auto 0 auto;
+		padding-bottom: 0px;
+		background-color: #fff;
+		border: 1px solid #0c2340;
+		border-top: none;
+		color: #333;
+		opacity: .8;
+	}
+	
+		#entryheader a:link {
+			color: #c00;
+		}
+		
+		#entryheader a:visited {
+			color: #c00;
+		}
+		
+		#entryheader a:hover {
+			color: #0c2340;
+		}
+		
+		#entryheader a:active {
+			color: #c00;
+		}
+	
+		#entryheader h1 {
+			margin-top: 0;
+			margin-bottom: 0px;
+			padding-top: 10px;
+			padding-bottom: 0;
+		}
+		
+		#entryheader h2 {
+			font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+			font-size: 1.2em;
+			line-height: .8em;
+			padding-bottom: 5px;
+			margin-top: 0;
+			border: none;
+		}
+
+	
+	#articlebody {
+		width: 760px;
+		margin-top: 0px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+		div.headliner {
+			margin-top: 100px;
+			font-family: Palatino, 'Palatino Linotype', OFLSortsMillGoudyRegular, Georgia, serif;
+			text-shadow: #999 2px 2px 2px;
+		}
+		
+			.headlinetext {
+				-webkit-animation-name: fade2;
+				-webkit-animation-iteration-count: 1;
+				-webkit-animation-duration: 3s;
+			}
+			
+				.headliner h1 {
+					font-size: 7em;
+					color: #333;
+					text-align: center;
+					margin-bottom: 0;
+				}
+		
+				h3.byline {
+					text-align: center;
+					color: #858585;
+					font-size: 1.6em;
+					font-style: italic;
+					font-weight: normal;
+					line-height: .8em;
+					margin-top: 8px;
+					text-shadow: #dcdcdc 1px 1px 0px;
+				}
+		
+			
+			@-webkit-keyframes fade2 {
+				0% {
+					opacity: 0;
+				}
+				
+				100% {
+					opacity: 1;
+				}
+			}
+			
+			
+		.textwrapper {
+			width: 100%;
+			background-color: #fff;
+			background-color: rgb(355,355,355);
+			background-color: rgba(355,355,355,.9);
+			margin: 70px auto 70px auto;
+		}
+		
+		#audioplayer {
+			width: 100%;
+			background-color: #fff;
+			background-color: rgba(355,355,355,.9);
+			padding-bottom: 15px;
+		}
+			
+		.articletext {
+			padding: 5px 25px;
+			font-size: 1.4em;
+			font-family: Palatino, 'Palatino Linotype', OFLSortsMillGoudyRegular, Georgia, serif;
+			line-height: 1.5em;
+			color: #222;
+			font-weight: normal;
+		}
+		
+			.articletext a:link, .articletext a:visited {
+				color: #222;
+				text-decoration: none;
+				border-bottom: 1px solid #aaa;
+			}
+			
+			.articletext a:hover {
+				border-bottom: 2px solid #c00;
+			}
+		
+			.articletext p {
+				text-shadow: #fcfcfc 0 1px 0;
+			}
+			
+				p.firstgraf {
+					
+				}
+				
+				p.passage-audio-unavailable {
+					padding: 0px 25px;
+					font-size: 1.4em;
+					line-height: 1.3em;
+					color: #c00;
+				}
+				
+				p.photocredit {
+					text-align: right;
+					font-size: .75em;
+					font-style: italic;
+				}
+				
+				span.bigdropcap {
+					text-indent: 0;
+					display: inline;
+					float: left;
+					font-size: 6em;
+					font-weight: bold;
+					margin: 5px 5px 0px 0;
+					line-height: .7em;
+				}
+				
+				span.dropcap {
+					text-indent: 0;
+					display: inline;
+					float: left;
+					font-size: 3.6em;
+					font-weight: bold;
+					margin: 5px 5px 0px 0;
+					line-height: .7em;
+				}
+				
+				span.italedline {
+					font-size: 1.7em;
+					color: #c00;
+					font-style: italic;
+				}
+				
+				span.diams {
+					color: #555;
+					font-size: .9em;
+				}
+				
+				p.breaker {
+					font-size: 1.5em;
+					text-align: center;
+					color: #c00;
+				}
+				
+				sup {
+					line-height: 1em;
+				}
+				
+				
+			#passage-text.speaking {
+			    -moz-user-select: none;
+			    -webkit-user-select: none;
+			    -ms-user-select: none;
+			    user-select: none;
+			}
+
+			p.autofocus-current-word {
+				display: none;
+			}
+
+			p.passage-audio {
+				margin: 0;
+				display: block;
+				width: auto;
+				padding: 20px 25px;
+				background-color: #EEEEE0;
+			}
+
+			p.sticky {
+				position: fixed;
+				top: 0;
+				right: 0;
+				width: 40%;
+			}
+
+			#passage-audio {
+				width: 100%;
+				max-height: 30px;
+				background-color: #0c2340;
+			}
+
+			.articletext.lilextra {
+				padding-top: 70px;
+			}
+
+			.articletext span[data-begin] {
+				-webkit-transition: linear .3s;
+				-moz-transition: linear .3s;
+				transition: linear .3s;
+			}
+
+			.articletext span:focus {
+				outline: none !important;
+			}
+
+			.initialized span[data-begin]:focus,
+			.initialized span[data-begin]:hover {
+			    background-color: #ccc;
+			}
+			.initialized span[data-begin].speaking {
+			    background-color: #f2a900;
+				text-shadow: none;
+			}
+			.initialized span[data-begin] {
+			    cursor: pointer;
+			}
+				
+
+/* BOTTOM BOXES */
+				
+		h2.readmorenav {
+			width: 760px;
+			padding-left: 0;
+			padding-right: 0;
+			margin-left: auto;
+			margin-right: auto;
+			background-color: rgba(355,355,355,.7);
+			border-top: 3px solid #0c2340;
+		}
+		
+			h2.readmorenav a:link, h2.readmorenav a:visited {
+				color: #c00;
+			}
+			
+			h2.readmorenav a:hover {
+				color: #0c2340;
+			}
+			
+			h2.readmorenav a:active {
+				border-bottom: none;
+			}
+			
+		#bioshare {
+			width: 760px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		
+		#sharebox {
+			font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+			float: left;
+			background-color: #fff;
+			background-color: rgba(355,355,355,.9);
+			border: 1px solid #e35205;
+			padding: 5px 20px;
+			width: 200px;
+			margin-right: 16px;
+		}
+		
+			#sharebox h3 {
+				color: #333;
+				font-size: 1.2em;
+				text-transform: uppercase;
+				letter-spacing: 1px;
+			}
+			
+			#sharebox li.printbutton a:link, #sharebox li.shortlinkbutton a:link, #biobox a:link {
+				color: #c00;
+			}
+			
+			#sharebox li.printbutton a:visited, #sharebox li.shortlinkbutton a:visited, #biobox a:visited {
+				color: #c00;
+			}
+			
+			#sharebox li.printbutton a:hover, #sharebox li.shortlinkbutton a:hover, #biobox a:hover {
+				color: #0c2340;
+			}
+		
+		#biobox {
+			font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+			float: left;
+			width: 460px;
+			padding: 5px 20px;
+			background-color: #fff;
+			background-color: rgba(355,355,355,.9);
+			border: 1px solid #f2a900;
+		}
+		
+			#biobox h3 {
+				color: #333;
+				font-size: 1.2em;
+				text-transform: uppercase;
+				letter-spacing: 1px;
+			}
+			
+			#biobox p {
+				color: #333;
+				font-size: 1em;
+			}
+			
+			
+/* Responsive styles */
+
+@media screen and (max-width: 759px), handheld and (max-width: 759px) {	
+	body {
+		background: #fff url(http://thebaseballchronicle.com/images/tmo/mudhens-game-1100px.jpg) no-repeat fixed center top;
+	}
+	
+	#entryheader {
+		width: 360px;
+	}	
+	
+	div.headliner {
+		margin-top: 180px;
+		text-shadow: #333 5px 5px 5px;
+	}
+	
+	.headliner h1 {
+		font-size: 5em;
+		color: #fff;
+	}
+		
+	.headliner h3 {
+		color: #fafafa;
+		text-shadow: #333 4px 4px 4px;
+	}
+
+	#articlebody {
+		width: auto;
+		margin: 0;
+	}
+	
+	.textwrapper {
+		margin-top: 100px;
+	}
+
+	.articletext {
+		width: auto;
+		padding-left: 10px;
+		padding-right: 10px;
+		font-size: 1.2em;
+	}
+	
+	#bioshare {
+		width: auto;
+		margin: 0;
+	}
+
+	#sharebox {
+		display: block;
+		float: none;
+		margin: 60px 10px 25px 10px;
+		width: auto;
+	}
+		
+	#biobox {
+		display: block;
+		width: auto;
+		float: none;
+		margin: 25px 10px 30px 10px;
+	}
+	
+	h2.readmorenav {
+		width: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+	#morestufftoread {
+		width: 100%;
+	}
+
+		#randomoldies div {
+			display: block;
+			float: none;
+			clear: both;
+			width: auto;
+			margin-left: 10px;
+			margin-right: 10px;
+		}
+
+		#randomoldies div:hover {
+			margin-top: 0;
+			margin-bottom: 0;
+		}
+
+	#bottomboxes {
+		margin-top: 50px;
+		width: 100%;
+	}
+
+	#bottomboxes div.podcastbox {
+		display: block;
+		float: none;
+		clear: both;
+		width: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+		ul.graphic li a, ul.graphic li a.sm2_link {
+			width: auto;
+		}
+
+	#bottomboxes div.archivebox {
+		display: block;
+		float: none;
+		clear: both;
+		width: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+	#bottomboxes div.aboutbox {
+		display: block;
+		float: none;
+		clear: both;
+		width: auto;
+		margin-left: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+	#footer {
+		width: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+		#footer ul {
+			line-height: 2.2em;
+		}
+}
+
+@media screen and (max-width: 500px), handheld and (max-width: 500px) {
+	.headliner h1 {
+		font-size: 4em;
+	}
+}
+
+@media screen and (max-width: 400px), handheld and (max-width: 400px) {
+
+	
+
+}

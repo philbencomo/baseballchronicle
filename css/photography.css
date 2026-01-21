@@ -1,0 +1,64 @@
+body {
+	width: 940px;
+}
+
+h1.photogtop {
+	text-align: center;
+	font-size: 3em;
+	padding: 10px 0;
+	border-top: 1px solid #cccccc;
+	border-bottom: 1px solid #cccccc;
+}
+
+.photoentry {
+	color: #333;
+	margin-top: 40px;
+}
+
+	.photoentry h3 {
+		margin-top: 70px;
+		font-family: Helvetica, Arial, sans-serif;
+		text-transform: uppercase;
+		text-align: center;
+		color: #666;
+		letter-spacing: 1px;
+		font-size: 1em;
+	}
+	
+	.photoentry h2 {
+		font-size: 2em;
+		font-family: Helvetica, Arial, sans-serif;
+		margin-bottom: 0px;
+	}
+	
+	.photoentry p {
+		font-size: 1.2em;
+		line-height: 1.5em;
+		width: 740px;
+	}
+	
+#morephotos {
+	border-top: 1px dashed #cccccc;
+	margin-top: 50px;
+}
+
+	#morephotos h3 {
+		font-size: 1.4em;
+	}
+
+#bottomrow {
+	clear: both;
+	border-top: 1px solid #333;
+}
+
+#oldernewerphoto {
+	margin-top: 60px;
+	text-align: center;
+	font-size: 1.3em;
+}
+
+select {
+	background-color: #121212;
+	color: white;
+	border-color: #333;
+}

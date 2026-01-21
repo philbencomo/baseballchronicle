@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+        <meta name="robots" content="NONE">
+        <link rel="stylesheet" href="/css/bbchron-print.css" type="text/css">
+        <link rel="alternate" type="application/rss+xml" title="Recent Entries" href="http://feeds2.feedburner.com/TheBaseballChronicle">
+        <link rel="shortcut icon" type="image/ico" href="/images/favicon.ico">
+        <script type="text/javascript" src="http://thebaseballchronicle.com/mt.js"></script>
+        <title>Take Me Out | The Baseball Chronicle</title>
+</head>
+<body>
+    <div id="printhead">
+        <p class="actions"><a href="javascript:history.go(-1)">Back</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="javascript:window.print();">Print</a></p>
+        <img src="/images/chronicleheader-print.gif" alt="The Baseball Chronicle" />
+    </div>
+    <div id="printbody">
+        
+        
+        <h4>Personal stories</h4>
+           		<div class="headliner">
+
+			<div class="headlinetext">
+				<h1>Take Me Out</h1>
+				<h3 class="byline">By Rachel Van Sickle</h3>
+			</div>
+		</div>
+		
+		<div class="textwrapper">
+			<script src="/scripts/read-along.js"></script>
+			<script src="/scripts/main.js"></script>
+			<script src="/scripts/waypoints.min.js"></script>
+			
+			<script>
+				$(document).ready(function() {
+					$('p.passage-audio').waypoint(function(event, direction) {
+						$(this).toggleClass('sticky', direction === "down");
+						$('.articletext').toggleClass('lilextra', direction === "down");
+						event.stopPropagation();
+					});
+					$('#bioshare').waypoint(function(event, direction) {
+						$('p.passage-audio').toggleClass('sticky', direction === "up");
+						$('.articletext').toggleClass('lilextra', direction === "up");
+					}, { offset: '35%'
+					});
+				});
+				
+			</script>
+			
+			<div id="passage-text" class="passage-text">
+				<p class="passage-audio"><audio id="passage-audio" class="passage" controls preload="auto" autobuffer>
+			 		<source src="/misc/TakeMeOut.mp3" type="audio/mpeg">
+					<source src="/misc/TakeMeOut.ogg" type="audio/ogg">
+				</audio></p>
+				<p class="passage-audio-unavailable" hidden>
+				    <em class="error">Sorry, but the interactive audio feature for this story requires a more modern browser. <br>Try recent versions of <a href="http://www.apple.com/safari/">Safari</a>, <a href="http://www.google.com/chrome/">Chrome</a> or <a href="http://www.mozilla.org/firefox">Firefox</a>, please. (It'll be worth it.)</em>
+				</p>
+				<div class="articletext">
+				<p class="autofocus-current-word" hidden>
+				                <input type="checkbox" id="autofocus-current-word" checked>
+				                <label for="autofocus-current-word">Auto-focus/auto-scroll</label>
+				</p>
+				<p class="firstgraf"><span data-dur="22.8" data-begin="0.0"><span class="bigdropcap">I</span> spent many prepubescent summer days playing baseball with my younger sister, my three cousins and whatever riff-raff we could pick up in our urban neighborhood. Most of these games would fall apart after a few innings, either disintegrating into tag or wrestling matches, or ending with Connie, my youngest cousin and a world-class crybaby, running home to air some grievance about the rest of us to her parents.</span></p>
+				<p><span data-dur="25.1" data-begin="22.8">My baseballing never extended beyond my own backyard because I have always lacked the competitive edge that makes one a good athlete. This lack of combative instinct, combined with the fact that my parents did not care for sports, meant that I had little contact with the national pastime. Thus, my real enchantment with baseball began the way so many of my interests have formed since the age of five &mdash; through the attraction to a handsome, usually dark-haired, boy.</span></p>
+				<p><span data-dur="23.1" data-begin="47.9">In kindergarten, thanks to Brian, I spent a full month studying snakes. Sixth grade brought Brad and the Miami Dolphins; high school, Todd and anime. And in 2002, during the last year of my undergraduate career, Eric, the artsy, graduate student from my American Fiction class, with whom I had shared a semester-long flirtation, turned to me one April day and asked, &ldquo;You like baseball?&rdquo;</span></p>
+				<p><span data-dur="2.0" data-begin="71.0">&ldquo;Don&rsquo;t know much about it.&rdquo;</span></p>
+				<p><span data-dur="5.9" data-begin="73.0">A dramatic eye roll. Of course I didn&rsquo;t know much about it. I was, after all, a girl. &ldquo;You like beer?&rdquo;</span></p>
+				<p><span data-dur="1.1" data-begin="78.9">&ldquo;Very much.&rdquo;</span></p>
+				<p><span data-dur="2.0" data-begin="80.0">&ldquo;Then you&rsquo;ll like baseball.&rdquo;</span></p>
+				<p><span data-dur="19.6" data-begin="82.0">I dressed for the first official ballgame of my life under the assumption that it was a date. It was a ritual I recognized: boy likes girl; boy wants to see if girl is &ldquo;cool&rdquo; instead of just attractive and occasionally witty; boy takes girl to a sporting event to see if she will endure two and a half hours of sports trivia; girl goes because this is the way these things work.</span></p>
+
+				<p><span data-dur="24.4" data-begin="101.6">At 22, I had been dating for eight years and knew how to play this game, at least. I had watched less savvy girls wear pumps and miniskirts to hockey, football and basketball games and could see the shadow of annoyance on their dates&rsquo; faces as they helped these misguided souls navigate the stands. Thus, I wore jeans &mdash; comfortable but designed with sex appeal in mind. A nice top, nothing fancy. Sensible heels.</span></p>
+
+				<p><span data-dur="20.5" data-begin="126">The date started as they usually do. Eric picked me up, drove us to the new Fifth Third Field in downtown Toledo, and chatted with me about William Faulkner and the twits in our class. He bought my ticket and beers for us both. Imagine my surprise then, as he led me to our seats on the third base line, and four drunk men greeted him with a &ldquo;Yo, Pilch.&rdquo;</span></p>
+
+				<p><span data-dur="33.5" data-begin="146.5">My &ldquo;date&rdquo; was actually a boys&rsquo; trip to the new ballpark. (Thank God I had dressed sensibly.) The last words Eric uttered in my direction (excepting, of course, for an occasional &ldquo;Could you grab the beer guy next time he comes down?&rdquo;) were brief introductions to his friends. I smiled, said, &ldquo;Great to meet you,&rdquo; as if I meant it, and was quickly brushed aside as talk of the Detroit Tigers&rsquo; offseason trading ensued. Having nothing to add, and being thoroughly annoyed with this suddenly not-so-interesting man-child, I spent the rest of the game drinking beers and admiring the tall, dark and handsome men on the field.</span></p>
+
+				<p><span data-dur="35.6" data-begin="180">The romance, as you might imagine, was short-lived, and, much like my interests in cobras, Dan Marino and Japanese cartoons, my involvement with baseball might have vaporized along with my affections for Mr. Pilcher had it not been for a new friendship with another occupant from that fiction class. Katie and I shared a love of dancing and gin, an unbridled enthusiasm for the city of our birth and, as we would both soon learn, a great interest in drinking in the middle of the afternoon. Thus, one June day, Katie convinced me to play hooky from my new job as a temp secretary at a law firm to attend a Mud Hens game with her.</span></p>
+
+				<p><span data-dur="15.4" data-begin="215.6">We met at Wesley&rsquo;s, a little bar on Adams Street, dangerously close to my place of employment, for a pre-game Bloody Mary. We watched the first pitch on television over our second Bloody Mary and decided sometime during the third inning that we were ready to take the party bus to the game.</span></p>
+
+				<p><span data-dur="35.0" data-begin="231">We take our seats behind home plate, jumbo beers in hand. It is one of those glorious early summer days in Toledo, the sort of day one imagines when Frank Sinatra sings &ldquo;Blue Skies.&rdquo; An azure sky unmarred by clouds. Temperatures hovering in the mid-80s. The warm breeze, the fresh cut grass, the cheers of the crowd, even the cheesy inter-play music brings back some of the excitement I felt for baseball as a kid playing in my backyard. Perhaps I had been too irritated during my false date to enjoy the sights and sounds of Fifth Third Field, but now, slightly drunk, I absorb it all.</span></p>
+
+				<p><span data-dur="27.5" data-begin="266">My attention drifts from my friend to the game. The ball heads straight across the plate at waist level but suddenly drops as the batter swings at it. I have no concept of ball grips, and I can&rsquo;t fathom how the pitcher can alternate between a 90-mph fastball and slower pitches that swerve at the last possible second. Magic seems to be the only reasonable explanation for such a phenomenon. I interrupt Katie in the middle of a story I haven&rsquo;t been listening to and say, &ldquo;Did you see that?&rdquo;</span></p>
+
+				<p><span data-dur="5.5" data-begin="293.5">Katie chatters on, but a gray-haired man seated in front of us turns around and says, &ldquo;Hell of a sinker, huh?&rdquo;</span></p>
+
+				<p><span data-dur="3.7" data-begin="299">What the hell is a sinker, I think, but nod and grin at the man.</span></p>
+				
+				<p><span data-dur="10.6" data-begin="302.7">Somehow, I remember the few rules my cousins had enforced during our childhood games. When Katie asks why a foul ball isn&rsquo;t strike three, I have an answer. &ldquo;You can&rsquo;t strike out on a foul ball.&rdquo;</span></p>
+
+				<p><span data-dur="1.7" data-begin="313.3">&ldquo;That doesn&rsquo;t make any sense.&rdquo;</span></p>
+
+				<p><span data-dur="4.5" data-begin="315.0">&ldquo;It can be strike one and two, but not three. Forces the pitcher to really strike him out.&rdquo;</span></p>
+
+				<p><span data-dur="1.7" data-begin="319.5">&ldquo;So this could go on forever?&rdquo;</span></p>
+
+				<p><span data-dur="3.3" data-begin="321.2">I glance down at our new friend, who chuckles and nods.</span></p>
+
+				<p><span data-dur="1.9" data-begin="324.5">&ldquo;Yes,&rdquo; I say.</span></p>
+
+				<p><span data-dur="11.6" data-begin="326.4">Katie lifts an eyebrow, not believing me, but the man in front of us convinces her. We spend the rest of the day interrogating him about the sport. He is all too happy to explain the rules of the game.</span></p>
+
+				<p class="breaker">* * *</p>
+
+				<p><span data-dur="33.6" data-begin="338"><span class="dropcap">M</span>y first attempts to learn more about baseball were amateurish at best. I bought a book at Target called &ldquo;The Cool Chick&rsquo;s Guide to Baseball.&rdquo; I nearly shut it after reading on page one: &ldquo;Baseball is like shopping. That&rsquo;s how action on the field is... like finding that thing you&rsquo;ve been waiting on all day.&rdquo; However, once I got past the obnoxious analogies (what else had I expected from a book that cost one dollar and had the words &ldquo;cool&rdquo; and &ldquo;chick&rdquo; in the title?), I found concise information about rules and strategy, with the shortest explanation of the infield fly rule I&rsquo;ve ever read.</span></p>
+
+				<p><span data-dur="22.6" data-begin="371.6">I googled the lyrics to &ldquo;Take Me Out to the Ball Game&rdquo; and incorrectly sang the song as &ldquo;Root, root, root for the home team&rdquo; for three full years until a friend whispered to me during a Tigers-Yankees game, &ldquo;It's &lsquo;Root for the Tigers.&rsquo; You&rsquo;re supposed to say the name of the team you&rsquo;re rooting for.&rdquo; I smiled, yelled, &ldquo;Root, root, root for the Yankees,&rdquo; and received the collective disapproval of 41,000 Detroit fans.</span></p>
+
+				<p><span data-dur="32.8" data-begin="394.2">And it&rsquo;s from the fans that I&rsquo;ve learned the most. One of the complaints I hear when I tell people I&rsquo;m a baseball fan is, &ldquo;Isn&rsquo;t it kind of boring?&rdquo; What non-fans do not understand is that the limited action is actually one of the greatest aspects of baseball. Unlike hockey, where one must constantly watch the puck, there are long breaks between plays in baseball that are perfect for socializing with strangers, getting another drink, or, as is more commonly the case, debating an umpire&rsquo;s decision. Baseball is one of the few sports where many of the rules are open for interpretation.</span></p>
+
+				<p><span data-dur="49.0" data-begin="427">And these debates are not limited to calls. Baseball has one of the richest histories in sports (after all, even non-fans understand the cultural significance of Jackie Robinson), and once one knows that history, discussions with complete strangers at ballgames know no limitations: If Ty Cobb played today, where would he hit in the Tigers&rsquo; lineup? (No-brainer: with a lifetime batting average of .367 &mdash; a high of .420! &mdash; and 897 career stolen bases, he&rsquo;s obviously batting first, though I have had people argue with me about this.) Would Teddy Williams have had a lifetime on-base percentage of .481 if, early in his career, he had faced great Negro League pitchers like Satchel Paige (a man reportedly so fast he could &ldquo;throw a steak past a hungry wolf&rdquo;)? And how do we handle broken records in the Steroids era?</span></p>
+
+				<p class="breaker">* * *</p>
+
+				<p><span data-dur="30.0" data-begin="476">Last summer, I took my four-year-old nephew to a Mud Hens game. We sit in the family section, far from the dangers of balls hit into the stands and curse words thrown onto the field. It is another warm, cloudless afternoon, but it is a night game, so our sweatshirts are at the ready for when the sun dips below the horizon and leaves us chilly in the dark night. We have hot dogs and a Diet Coke to split, and we sit in surprising silence for a full half-inning until Brad finishes his hot dog, wipes his mouth, and says, &ldquo;What&rsquo;s that guy doing?&rdquo;</span><span class="diams">&diams;</span></p>
+				<p class="photocredit"><a href="http://philbencomo.com">Produced by Phil Bencomo</a> | <a href="http://www.flickr.com/photos/joelwashing/2756870773/">Photo by Joel Washing</a></p>
+				</div>
+			</div>
+			
+		</div>
+        <p><em>&mdash;July  2, 2012</em></p>
+                                 
+    </div>
+    <div id="printfooter">
+        <h3>About the author</h3>
+        <p><strong>Rachel Van Sickle</strong> studied fiction and screenwriting at Louisiana State University. She is finishing her MFA from LSU in the much colder realm of Toledo, Ohio, where she works at the University of Toledo Medical Center. She spends her summers loudly cheering on the Toledo Mud Hens and the Detroit Tigers and (much more quietly) the New York Yankees.</p>
+    </div>
+</body>

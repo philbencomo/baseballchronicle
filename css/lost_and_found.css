@@ -1,0 +1,455 @@
+html {
+	background-color: #000;
+}
+
+body {
+	width: 100%;
+	background: #000 url(http://thebaseballchronicle.com/images/lostandfound/citi-field-pano.png) no-repeat center top;
+}
+
+a:link {
+	-webkit-transition: color .4s;
+	-moz-transition: color .4s;
+}
+	
+	#morestufftoread {
+		width: 760px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+		h2.recently {
+			color: #fff;
+			text-shadow: #ededed 1px 1px 1px;
+		}
+	
+		div.essays:hover {
+			background-color: rgba(255,211,155,1);
+		}
+		
+		div.reporting:hover {
+			background-color: rgba(137,146,161,1);
+		}
+		
+		div.pstories:hover {
+			background-color: rgba(157,161,145,1);
+		}
+		
+		div.poetry:hover {
+			background-color: rgba(190,210,220,1);
+		}
+		
+		div.fiction:hover {
+			background-color: rgba(241,210,205,1);
+		}
+	
+	#bottomboxes {
+		width: 760px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	#footer {
+		width: 760px;
+		margin-left: auto;
+		margin-right: auto;
+		padding-bottom: 15px;
+		color: #dcdcdc;
+		border-top-color: #333;
+	}
+	
+		#footer li {
+			border-color: #333;
+		}
+	
+		#footer a:link {
+			background-color: #8c1717;
+			color: #fff;
+			padding: 5px;
+		}
+
+		#footer a:visited {
+			background-color: #8c1717;
+			color: #fff;
+			padding: 5px;
+		}
+
+		#footer a:hover {
+			background-color: #333;
+		}
+	
+	#entryheader {
+		width: 360px;
+		margin: 0 auto 0 auto;
+		background-color: #fff;
+		opacity: .8;
+	}
+	
+		#entryheader h1 {
+			margin-top: 0;
+			margin-bottom: 4px;
+			padding-top: 10px;
+			padding-bottom: 0;
+		}
+		
+		#entryheader h2 {
+			font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+			font-size: 1.2em;
+			margin-top: 0;
+			border-bottom: none;
+		}
+		
+			#entryheader h2 a:hover {
+				color: #9da191;
+			}
+	
+	#articlebody {
+		width: 100%;
+		margin-top: 0px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+		div.headliner {
+			
+		}
+		
+			div.headliner h1 {
+				margin-top: 0;
+				margin-bottom: 20px;
+				padding-top: 120px;
+				font-size: 9em;
+				color: #fff;
+				text-shadow: #333 1px 1px 1px;
+				line-height: .3em;
+				text-align: center;
+				-webkit-transition: all 1s ease-in;
+				-moz-transition: all 1s ease-in;
+				-webkit-animation-name: pulse;
+				-webkit-animation-duration: 6s;
+				-webkit-animation-iteration-count: infinite;
+				-webkit-animation-timing-function: ease-in-out;
+				-moz-animation-name: pulse;
+				-moz-animation-duration: 6s;
+				-moz-animation-iteration-count: infinite;
+				-moz-animation-timing-function: ease-in-out;
+			}
+			
+				div.headliner h1:hover {
+					line-height: .4em;
+					-webkit-animation-iteration-count: 1;
+					-moz-animation-iteration-count: 1;
+				}
+				
+				div.headliner h1:hover span.found {
+					opacity: 1;
+				}
+			
+				span.found {
+					font-size: 39%;
+					opacity: 0;
+					-webkit-transition: all 1s ease-in;
+					-moz-transition: all 1s ease-in;
+				}
+				
+				@-webkit-keyframes pulse {
+				 0% {
+				   opacity: 1.0;
+				 }
+				 33% {
+				   opacity: 0.7;
+				 }
+				 67% {
+				   opacity: 0.4;
+				 }
+				 100% {
+				   opacity: 1.0;
+				 }
+				}
+				
+				@-moz-keyframes pulse {
+				 0% {
+				   opacity: 1.0;
+				 }
+				 33% {
+				   opacity: 0.7;
+				 }
+				 67% {
+				   opacity: 0.4;
+				 }
+				 100% {
+				   opacity: 1.0;
+				 }
+				}
+				
+			h3.byline {
+				text-align: center;
+				color: #fff;
+				text-shadow: #333 1px 1px 1px;
+				font-size: 1.1em;
+			}
+			
+				h3.byline span.author {
+					text-transform: uppercase;
+				}
+			
+		.textwrapper {
+			width: 100%;
+			background-color: #fff;
+			margin-top: 310px;
+		}
+			
+		.articletext {
+			width: 700px;
+			margin: 0 auto;
+			padding-top: 70px;
+			padding-bottom: 70px;
+			font-size: 1.3em;
+			line-height: 1.6em;
+			color: #000;
+			font-weight: normal;
+		}
+		
+			.articletext p {
+				text-indent: 2em;
+				margin-top: 0;
+				margin-bottom: 0;
+			}
+			
+				p.firstgraf {
+					text-indent: 0;
+				}
+				
+				p.lastgraf {
+					text-indent: 0;
+					text-align: right;
+					font-size: .8em;
+					font-style: italic;
+				}
+				
+				span.dropcap {
+					text-indent: 0;
+					display: inline;
+					float: left;
+					font-size: 5.6em;
+					font-weight: bold;
+					margin: 5px 5px 0px 0;
+					line-height: .7em;
+				}
+				
+				span.smallcapped {
+					text-transform: uppercase;
+					font-size: .9em;
+					letter-spacing: 2px;
+				}
+				
+				span.diams {
+					font-size: .75em;
+				}
+
+		h2.readmorenav {
+			background-color: #aaa;
+			width: 744px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		
+		#sharebox {
+			float: left;
+			width: 200px;
+			margin-left: 22%;
+		}
+
+			#sharebox li {
+				line-height: 110%;
+			}
+		
+			#sharebox h3 {
+				color: #fff;
+				text-shadow: #ededed 1px 1px 1px;
+			}
+			
+			#sharebox li.printbutton a:link, #sharebox li.shortlinkbutton a:link {
+				color: #ccc;
+			}
+			
+			#sharebox li.printbutton a:visited, #sharebox li.shortlinkbutton a:visited {
+				color: #ccc;
+			}
+			
+			#sharebox li.printbutton a:hover, #sharebox li.shortlinkbutton a:hover {
+				color: #fff;
+			}
+		
+		#biobox {
+			float: left;
+			width: 450px;
+		}
+		
+			#biobox h3 {
+				color: #fff;
+				text-shadow: #ededed 1px 1px 1px;
+			}
+
+            #biobox a:link {
+				color: #fff;
+            }
+
+            #biobox a:visited {
+				color: #fff;
+            }
+
+            #biobox a:hover {
+				color: #666;
+            }
+
+            #biobox a:active {
+				color: #fff;
+            }
+			
+			#biobox p {
+				font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+				color: #ccc;
+			}
+			
+			
+/* Responsive styles */
+@media screen and (min-width: 1200px), handheld and (min-width: 1200px) {	
+	#sharebox {
+		margin-left: 27%;
+	}
+}
+
+@media screen and (max-width: 900px), handheld and (max-width: 900px) {	
+	#sharebox {
+		margin-left: 12%;
+	}
+}
+
+@media screen and (max-width: 759px), handheld and (max-width: 759px) {	
+	#entryheader {
+		width: 360px;
+	}	
+
+	#articlebody {
+		width: auto;
+		margin: 0;
+	}
+
+		#articlebody h1 {
+			font-size: 8em;
+		}
+
+	.articletext {
+		width: auto;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
+		.articletext span.dropcap {
+			font-size: 3.45em;
+		}
+
+	h2.readmorenav {
+		width: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+	#sharebox {
+		display: block;
+		float: none;
+		margin: 60px 10px 25px 10px;
+		width: auto;
+	}
+		
+	#biobox {
+		display: block;
+		float: none;
+		margin: 25px 10px 30px 10px;
+		width: auto;
+	}
+
+	#morestufftoread {
+		width: 100%;
+	}
+
+		#randomoldies div {
+			display: block;
+			float: none;
+			clear: both;
+			width: auto;
+			margin-left: 10px;
+			margin-right: 10px;
+		}
+
+		#randomoldies div:hover {
+			margin-top: 0;
+			margin-bottom: 0;
+		}
+
+	#bottomboxes {
+		margin-top: 50px;
+		width: 100%;
+	}
+
+	#bottomboxes div.podcastbox {
+		display: block;
+		float: none;
+		clear: both;
+		width: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+		ul.graphic li a, ul.graphic li a.sm2_link {
+			width: auto;
+		}
+
+	#bottomboxes div.archivebox {
+		display: block;
+		float: none;
+		clear: both;
+		width: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+	#bottomboxes div.aboutbox {
+		display: block;
+		float: none;
+		clear: both;
+		width: auto;
+		margin-left: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+	#footer {
+		width: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+		#footer ul {
+			line-height: 2.2em;
+		}
+}
+
+@media screen and (max-width: 380px), handheld and (max-width: 380px) {
+	#entryheader {
+		width: auto;
+	}
+
+	#articlebody h1 {
+		font-size: 6em;
+	}
+	
+	.articletext p {
+		text-indent: 1.4em;
+	}
+	
+	.articletext p.firstgraf {
+		text-indent: 0;
+	}
+}

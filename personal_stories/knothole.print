@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+        <meta name="robots" content="NONE">
+        <link rel="stylesheet" href="/css/bbchron-print.css" type="text/css">
+        <link rel="alternate" type="application/rss+xml" title="Recent Entries" href="http://feeds2.feedburner.com/TheBaseballChronicle">
+        <link rel="shortcut icon" type="image/ico" href="/images/favicon.ico">
+        <script type="text/javascript" src="http://thebaseballchronicle.com/mt.js"></script>
+        <title>The Knothole | The Baseball Chronicle</title>
+</head>
+<body>
+    <div id="printhead">
+        <p class="actions"><a href="javascript:history.go(-1)">Back</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="javascript:window.print();">Print</a></p>
+        <img src="/images/chronicleheader-print.gif" alt="The Baseball Chronicle" />
+    </div>
+    <div id="printbody">
+        
+        
+        <h4>Personal stories</h4>
+           		<div class="headliner">
+			<div id="knothole">
+				<img src="/images/knothole/knothole-300.png" alt="knothole">
+			</div>
+			<div class="headlinetext">
+				<h1>The Knothole</h1>
+				<h3 class="byline">By Phil Bencomo</h3>
+			</div>
+		</div>
+		
+		<div class="textwrapper">
+			
+			<div class="articletext">
+				<p class="firstgraf"><span class="italedline">Witness the crush of people</span> in front of the 10-foot-wide window into Wrigley Field. Where they congregated before 2006, when the knothole in the outfield wall was carved, I do not know. But they are together now.</p>
+		
+				<p>A friend and I went to the <a href="http://www.baseball-reference.com/boxes/CHN/CHN200803310.shtml">Cubs' home opener</a> in 2008. We had no tickets and no plan, just too much time on a chilly spring afternoon and a desire to be there. We jogged to the Purple Line and got to Wrigley soon after the first pitch.</p>
+				
+				<p>The oscillating hum of 40,000 hopeful fans flooded our ears. We circled the ballpark, past the Waveland ballhawks perched on their folding chairs, and, in the distance on Sheffield, there they were.</p>
+
+				<p>I counted a dozen as we took our place behind them. Like us, they were ticketless and wanted only to catch a glimpse of their heroes, their fleet-footed gods, through the chain-link fence. They crowded around the knothole, peering into right field with faces pressed close, and chattered about the game and their lives. Most were probably homeless. A tall, thin man sporting Cubs hat and unkempt beard alternated between bites of a McDonald's burger and swigs of something pungent from a bottle swaddled in a paper bag. An older woman, silver-streaked hair in disarray, held a small battery-powered radio to her ear, listening intently to WGN's Ron Santo and Pat Hughes. Another, a rotund man with twinkling eyes, crooned softly in his hoarse baritone, the songs absurdist and surely of his own devising. No one seemed to mind.</p>
+				
+				<div class="pullquote">
+					<blockquote><p>A home run was too much to ask for, we knew. Just get on base somehow, we prayed. Don't let this end.</p></blockquote>
+				</div>
+
+				<p>When a Cub swatted a hit, fanned a batter or did something similarly momentous, the onlookers traded celebratory high-fives and exclamations, even with us. We edged closer every inning, sucked in by their charm. When a Brewer drove a ball into the corner and against our gate, we all spasmed in excitement as Kosuke Fukudome, the Cubs' rightfielder, ran toward us to retrieve the ball. We could hear the thunder of his feet on the warning track dirt, the grunt that escaped his lips as he threw the ball toward the infield with an audible whoosh of the arm. We were captivated; we were one.</p>
+
+				<p>Fukudome, a Japanese import playing his first game at Wrigley, stepped to the plate in the last of the ninth with two runners on and the Cubs down by three. The crowd roared and we rattled our fence, tingling from the electricity in the air. A home run was too much to ask for, we knew. <em>Just get on base somehow</em>, we prayed. <em>Don't let this end</em>. The pitch hurtled toward home. Fukudome swung and the ball leapt from his bat, climbing high and toward the part of the outfield our little window would not allow us to see. It flew out of sight.</p>
+
+				<p>Then the crowd erupted. He had tied it! As Fukudome trotted around the bases, my friend and I celebrated with these eccentric strangers-turned-comrades, several of them dancing wild jigs. One young man insisted on sharing a chest bump with everyone.</p>
+
+				<p>The game went into extra innings, but we had to leave before the conclusion. I had an evening lab and, the quarter having just started, I couldn't miss the first class. My friend and I waved goodbye and walked to the El, still buzzing. The Cubs would lose a heartbreaker as I rode back to school, and the ballpark was surely filled with the usual pained wails and moans. But for a few moments that day at the knothole, the Cubs brought us a joyous respite from <a href="http://www.youtube.com/watch?v=7xBxZGQ1dJk">fatigue</a>.</p>
+				
+				<p>Such is life at Wrigley, where you cling to what you can. Fukudome never lived up to the promise of Opening Day, and that 97-win squad would be swept away in the first round. So I remember that afternoon at the knothole, and I hope. <span class="diams">&diams;</span></p>
+			</div>
+		</div>
+        <p><em>&mdash;October  7, 2011</em></p>
+                                 
+    </div>
+    <div id="printfooter">
+        <h3>About the author</h3>
+        <p><strong><a href="http://philbencomo.com">Phil Bencomo</a></strong>, the proprietor of this website, is some combination of journalist, storyteller and web designer. He graduated from Northwestern this summer, and you really should <a href="http://philbencomo.com/about/">hire him</a>.</p>
+    </div>
+</body>

@@ -1,0 +1,301 @@
+
+::selection {
+	color: #333;
+	background-color: yellow;
+}
+
+::-moz-selection {
+	color: #333;
+	background-color: #FFFF00;
+}
+
+html {
+	background: url(/images/sunday_fly/bbchron-sun.png) no-repeat center top;
+	background-color: #7EC0EE;
+	border-top-color: #000;
+}
+
+body {
+	width: 100%;
+	background-color: #7EC0EE;
+	background: url(/images/sunday_fly/bbchron-clouds.png) no-repeat left top;
+}
+
+#entryheader {
+	background: url(/images/sunday_fly/bbchron-clouds-2.png) no-repeat right top;
+	height: 180px;
+	margin-top: 0;
+}
+
+#entryheader h1 {
+	margin-top: 0em;
+	padding-top: .3em;
+}
+
+#entryheader h2 {
+	color: #000;
+	border: none;
+	margin-top: .3em;
+	font-size: 1.2em;
+}
+
+#articlebody {
+	width: 760px;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+	#articlebody h1 {
+		color: #000;
+		text-align: center;
+		font-size: 9em;
+		margin-top: 75px;
+		margin-bottom: 0px;
+	}
+	
+	#articlebody h3.byline {
+		color: #000;
+		margin-top: 20px;
+		margin-bottom: 45px;
+		text-align: center;
+	}
+	
+	.articletext {
+		padding-right: 130px;
+	}
+
+	.articletext p {
+		color: #000;
+		font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+		font-size: 1.2em;
+		line-height: 1.3em;
+	}
+	
+	span.sundaydrop {
+		display: inline;
+		float: left;
+		font-size: 4.5em;
+		font-weight: bold;
+		margin: 5px 5px 0px 0;
+		line-height: .7em;
+	}
+	
+#flyball {
+	position: fixed;
+	bottom: 18px;
+	right: 3%;
+	width: 100%;
+	height: 319px;
+	background: url(/images/sunday_fly/bbchron-fly-ball.png) no-repeat bottom right;
+	z-index: -10;
+}
+
+#flyballground {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	height: 20px;
+	background: #215E21;
+}
+
+	#sharebox {
+		width: 160px;
+		font-size: 1em;
+		background-color: #f7f7f7;
+		margin-bottom: 30px;
+		padding: 15px;
+		float: left;
+		display: block;
+	}
+	
+		#sharebox h3 {
+			text-transform: uppercase;
+			font-family: Helvetica, sans-serif;
+			font-size: 1em;
+			margin: 0 0 15px 0;
+			letter-spacing: 1px;
+			color: #666;
+			text-align: left;
+		}
+	
+		#sharebox p {
+			margin: 0;
+			line-height: 1.4em;
+		}
+
+	#biobox {
+		background-color: #cccccc;
+		padding: 15px;
+		width: 410px;
+		font-size: 1em;
+		float: right;
+		margin-left: none;
+		display: block;
+	}
+	
+		#biobox h3 {
+			text-transform: uppercase;
+			font-family: Helvetica, sans-serif;
+			font-size: 1em;
+			margin: 0 0 15px 0;
+			letter-spacing: 1px;
+			color: #666;
+			text-align: left;
+		}
+		
+		#biobox p {
+			margin: 0;
+			line-height: 1.4em;
+		}
+	
+#morestufftoread {
+	width: 760px;
+}
+
+	#morestufftoread div {
+		color: #000;
+	}
+
+#bottomboxes {
+	color: #000;
+	width: 760px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#footer {
+	border-top: none;
+	width: 760px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+}
+
+div.spacer {
+	clear: both;
+}
+
+/* Responsive styles */
+
+@media screen and (max-width: 750px) {	
+	#articlebody {
+		width: auto;
+		margin-left: 10px;
+	}
+	
+		#articlebody h1 {
+			font-size: 6em;
+		}
+	
+	.articletext {
+		width: auto;
+		padding-right: 25%;
+	}
+	
+	#flyball {
+		bottom: -2px;
+	}
+	
+	#flyballground {
+		display: none;
+	}
+
+	#sharebox {
+		float: none;
+		width: auto;
+	}
+
+	#biobox {
+		float: none;
+		width: auto;
+	}
+	
+	#morestufftoread {
+		width: auto;
+		margin-left: 0px;
+		margin-right: 10px;
+	}
+	
+		#randomoldies div {
+			display: block;
+			float: none;
+			clear: both;
+			width: auto;
+			margin-right: 0px;
+		}
+		
+		#randomoldies div:hover {
+			margin-top: 0;
+			margin-bottom: 0;
+		}
+		
+	#bottomboxes {
+		margin-top: 50px;
+		width: auto;
+		margin-right: 10px;
+	}
+	
+	#bottomboxes div.podcastbox {
+		display: block;
+		float: none;
+		clear: both;
+		width: auto;
+		margin-right: 0px;
+	}
+		
+	#bottomboxes div.archivebox {
+		display: block;
+		float: none;
+		clear: both;
+		width: auto;
+		margin-right: 0px;
+	}
+	
+	#bottomboxes div.aboutbox {
+		display: block;
+		float: none;
+		clear: both;
+		width: auto;
+		margin-right: 0px;
+	}
+		
+	#footer {
+		width: auto;
+	}
+}
+
+@media screen and (max-width: 480px), handheld and (max-width: 480px) {	
+	
+	body {
+		background-image: none;
+	}
+
+	#entryheader {
+		background-image: none;
+	}
+
+	#articlebody {
+		margin-left: 10px;
+	}
+
+		.articletext {
+			padding-right: 0;
+			margin-right: 10px;
+		}
+
+		#articlebody h1 {
+			font-size: 4em;
+		}
+
+		#flyball {
+			display: none;
+		}
+
+	ul.graphic li a, ul.graphic li a.sm2_link {
+		width: auto;
+	}
+
+}

@@ -1,0 +1,62 @@
+ErrorDocument 404 /404.html
+AddHandler php4-script .php
+
+RewriteEngine on 
+# 
+## Internally rewrite extensionless file requests to .html files ## 
+# 
+# If the requested URI does not contain a period in the final path-part 
+RewriteCond %{REQUEST_URI} !(\.[^./]+)$ 
+# and if it does not exist as a directory 
+RewriteCond %{REQUEST_FILENAME} !-d 
+# and if it does not exist as a file 
+RewriteCond %{REQUEST_FILENAME} !-f 
+# then add .html to get the actual filename 
+RewriteRule (.*) /$1.html [L] 
+# 
+# 
+## Externally redirect clients directly requesting .html page URIs to extensionless URIs 
+# 
+# If client request header contains.html file extension 
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^.]+\.).html\ HTTP 
+# externally redirect to extensionless URI 
+RewriteRule ^(.+)\.html$ http://www.example.com/$1 [R=301,L]
+
+
+Redirect permanent /129 http://thebaseballchronicle.com/personal_stories/50_years_a_cubs_fan_part_one
+
+Redirect permanent /127 http://thebaseballchronicle.com/essays/the_greatest_hitter_of_all_time
+
+Redirect permanent /123 http://thebaseballchronicle.com/fiction/the_rocket_a_tall_tale
+
+Redirect permanent /122 http://thebaseballchronicle.com/essays/indian_pirates_on_the_high_seas
+
+Redirect permanent /114 http://thebaseballchronicle.com/personal_stories/1971_topps_baseball
+
+Redirect permanent /110 http://thebaseballchronicle.com/essays/defending_the_indefensible
+
+Redirect permanent /107 http://thebaseballchronicle.com/poetry/yeah_so
+
+Redirect permanent /105 http://thebaseballchronicle.com/essays/the_mick
+
+Redirect permanent /97 http://thebaseballchronicle.com/personal_stories/a_view_like_no_other
+
+Redirect permanent /92 http://thebaseballchronicle.com/personal_stories/october_7_1977
+
+Redirect permanent /89 http://thebaseballchronicle.com/essays/whos_the_best
+
+Redirect permanent /87 http://thebaseballchronicle.com/poetry/the_scorekeepers_dilemma
+
+Redirect permanent /84 http://thebaseballchronicle.com/personal_stories/lets_play_world_series
+
+Redirect permanent /63 http://thebaseballchronicle.com/personal_stories/days_of_plastic_and_sunshine
+
+Redirect permanent /56 http://thebaseballchronicle.com/personal_stories/the_boys_and_girls_of_summer
+
+Redirect permanent /47 http://thebaseballchronicle.com/personal_stories/hooked_on_wrigley
+
+Redirect permanent /26 http://thebaseballchronicle.com/essays/shakespeare_and_the_park
+
+Redirect permanent /8 http://thebaseballchronicle.com/personal_stories/the_hold_of_the_table
+
+Redirect permanent /7 http://thebaseballchronicle.com/poetry/an_untitled_poem

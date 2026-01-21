@@ -1,0 +1,501 @@
+html {
+	background-color: #000;
+}
+
+body {
+	width: 100%;
+	background: #000;
+}
+
+a:link {
+	-webkit-transition: color .4s;
+	-moz-transition: color .4s;
+}
+	
+	#morestufftoread {
+		width: 760px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+		h2.recently {
+			color: #fff;
+			text-shadow: #ededed 1px 1px 1px;
+		}
+	
+		div.essays:hover {
+			background-color: rgba(255,211,155,1);
+		}
+		
+		div.reporting:hover {
+			background-color: rgba(137,146,161,1);
+		}
+		
+		div.pstories:hover {
+			background-color: rgba(157,161,145,1);
+		}
+		
+		div.poetry:hover {
+			background-color: rgba(190,210,220,1);
+		}
+		
+		div.fiction:hover {
+			background-color: rgba(241,210,205,1);
+		}
+	
+	#bottomboxes {
+		width: 760px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	#footer {
+		width: 760px;
+		margin-left: auto;
+		margin-right: auto;
+		padding-bottom: 15px;
+		color: #dcdcdc;
+		border-top-color: #333;
+	}
+	
+		#footer li {
+			border-color: #333;
+		}
+	
+		#footer a:link {
+			background-color: #8c1717;
+			color: #fff;
+			padding: 5px;
+		}
+
+		#footer a:visited {
+			background-color: #8c1717;
+			color: #fff;
+			padding: 5px;
+		}
+
+		#footer a:hover {
+			background-color: #333;
+		}
+	
+	#entryheader {
+		width: 360px;
+		margin: 0 auto 0 auto;
+		padding-bottom: 0px;
+		background-color: #111;
+		border: 1px solid #222;
+		border-top: none;
+		color: #444;
+	}
+	
+		#entryheader a:link {
+			color: #555;
+		}
+		
+		#entryheader a:visited {
+			color: #555;
+		}
+		
+		#entryheader a:hover {
+			color: #9da191;
+		}
+		
+		#entryheader a:active {
+			color: #fcfcfc;
+		}
+	
+		#entryheader h1 {
+			margin-top: 0;
+			margin-bottom: 0px;
+			padding-top: 10px;
+			padding-bottom: 0;
+		}
+		
+		#entryheader h2 {
+			font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+			font-size: 1.2em;
+			line-height: .8em;
+			padding-bottom: 5px;
+			margin-top: 0;
+			border: none;
+		}
+
+	
+	#articlebody {
+		width: 100%;
+		margin-top: 0px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+		div.headliner {
+			margin-top: 180px;
+			font-family: Palatino, 'Palatino Linotype', OFLSortsMillGoudyRegular, Georgia, serif;
+		}
+		
+			.headlinetext {
+				-webkit-animation-name: fade2;
+				-webkit-animation-iteration-count: 1;
+				-webkit-animation-duration: 8s;
+			}
+			
+				.headliner h1 {
+					font-size: 2.5em;
+					color: #fcfcfc;
+					text-align: center;
+					margin-bottom: 0;
+				}
+		
+				h3.byline {
+					text-align: center;
+					color: #aaa;
+					font-size: 1.4em;
+					font-style: italic;
+					font-weight: normal;
+					line-height: .8em;
+					margin-top: 8px;
+				}
+		
+			#knothole {
+				width: 300px;
+				margin: 0 auto;
+				-webkit-animation-name: clear, fade;
+				-webkit-animation-iteration-count: 1;
+				-webkit-animation-duration: 5s;
+			}
+			
+			@-webkit-keyframes clear {
+				0% {
+					opacity: 0;
+				}
+				
+				100% {
+					opacity: 0;
+				}
+			}
+			
+			@-webkit-keyframes fade {
+				0% {
+					opacity: 0;
+				}
+				
+				20% {
+					opacity: 0;
+				}
+				
+				100% {
+					opacity: 1;
+				}
+			}
+			
+			@-webkit-keyframes fade2 {
+				0% {
+					opacity: 0;
+				}
+				
+				50% {
+					opacity: 0;
+				}
+				
+				100% {
+					opacity: 1;
+				}
+			}
+			
+			
+		.textwrapper {
+			width: 100%;
+			background-color: #fff;
+			margin-top: 150px;
+			padding-top: 30px;
+		}
+			
+		.articletext {
+			width: 760px;
+			margin: 0 auto;
+			padding-top: 70px;
+			padding-bottom: 70px;
+			font-size: 1.45em;
+			font-family: Palatino, 'Palatino Linotype', OFLSortsMillGoudyRegular, Georgia, serif;
+			line-height: 1.5em;
+			color: #222;
+			font-weight: normal;
+		}
+		
+			div.pullquote {
+				width: 290px;
+				float: right;
+				margin-left: 40px;
+				padding-top: 20px;
+				border-top: 4px solid #c00;
+			}
+			
+				div.pullquote blockquote {
+					margin: 0;
+					padding: 0;
+				}
+				
+				div.pullquote p {
+					margin-top: 0;
+					margin-bottom: 1em;
+					font-size: 1.5em;
+					line-height: 1.1em;
+					font-style: italic;
+					color: #666;
+				}
+		
+			.articletext a:link, .articletext a:visited {
+				color: #222;
+				text-decoration: none;
+				border-bottom: 1px solid #aaa;
+			}
+			
+			.articletext a:hover {
+				border-bottom: 2px solid #c00;
+			}
+		
+			.articletext p {
+				margin-bottom: 1.5em;
+				text-shadow: #fcfcfc 0 1px 0;
+			}
+			
+				p.firstgraf {
+					
+				}
+				
+				span.dropcap {
+					text-indent: 0;
+					display: inline;
+					float: left;
+					font-size: 3.6em;
+					font-weight: bold;
+					margin: 5px 5px 0px 0;
+					line-height: .7em;
+				}
+				
+				span.italedline {
+					font-size: 1.7em;
+					color: #c00;
+					font-style: italic;
+				}
+				
+				span.diams {
+					color: #c00;
+					font-size: .9em;
+				}
+				
+				sup {
+					line-height: 1em;
+				}
+				
+		h2.readmorenav {
+			text-align: center;
+			width: 760px;
+			padding-left: 0;
+			padding-right: 0;
+			margin-left: auto;
+			margin-right: auto;
+			background-color: #222;
+			border: 1px solid #333;
+		}
+		
+			h2.readmorenav a:link, h2.readmorenav a:visited {
+				color: #ccc;
+			}
+			
+			h2.readmorenav a:hover {
+				color: #fff;
+			}
+			
+			h2.readmorenav a:active {
+				border-bottom: none;
+			}
+			
+		#bioshare {
+			width: 760px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		
+		#sharebox {
+			float: left;
+			background-color: #222;
+			border: 1px solid #333;
+			padding: 5px 20px;
+			width: 200px;
+			margin-right: 16px;
+		}
+		
+			#sharebox h3 {
+				color: #fff;
+			}
+			
+			#sharebox li.printbutton a:link, #sharebox li.shortlinkbutton a:link {
+				color: #ccc;
+			}
+			
+			#sharebox li.printbutton a:visited, #sharebox li.shortlinkbutton a:visited {
+				color: #ccc;
+			}
+			
+			#sharebox li.printbutton a:hover, #sharebox li.shortlinkbutton a:hover {
+				color: #fff;
+			}
+		
+		#biobox {
+			float: left;
+			width: 460px;
+			padding: 5px 20px;
+			background-color: #222;
+			border: 1px solid #333;
+		}
+		
+			#biobox h3 {
+				color: #fff;
+			}
+
+			#biobox a:link {
+				color: #fff;
+			}
+
+			#biobox a:visited {
+				color: #fff;
+			}
+
+			#biobox a:hover {
+				color: #ccc;
+			}
+			
+			#biobox p {
+				font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+				color: #aaa;
+			}
+			
+			
+/* Responsive styles */
+
+@media screen and (max-width: 759px), handheld and (max-width: 759px) {	
+	#entryheader {
+		width: 360px;
+	}	
+
+	#articlebody {
+		width: auto;
+		margin: 0;
+	}
+
+	.articletext {
+		width: auto;
+		padding-left: 10px;
+		padding-right: 10px;
+		font-size: 1.2em;
+	}
+	
+	#bioshare {
+		width: auto;
+		margin: 0;
+	}
+
+	#sharebox {
+		display: block;
+		float: none;
+		margin: 60px 10px 25px 10px;
+		width: auto;
+	}
+		
+	#biobox {
+		display: block;
+		width: auto;
+		float: none;
+		margin: 25px 10px 30px 10px;
+	}
+	
+	h2.readmorenav {
+		width: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+	#morestufftoread {
+		width: 100%;
+	}
+
+		#randomoldies div {
+			display: block;
+			float: none;
+			clear: both;
+			width: auto;
+			margin-left: 10px;
+			margin-right: 10px;
+		}
+
+		#randomoldies div:hover {
+			margin-top: 0;
+			margin-bottom: 0;
+		}
+
+	#bottomboxes {
+		margin-top: 50px;
+		width: 100%;
+	}
+
+	#bottomboxes div.podcastbox {
+		display: block;
+		float: none;
+		clear: both;
+		width: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+		ul.graphic li a, ul.graphic li a.sm2_link {
+			width: auto;
+		}
+
+	#bottomboxes div.archivebox {
+		display: block;
+		float: none;
+		clear: both;
+		width: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+	#bottomboxes div.aboutbox {
+		display: block;
+		float: none;
+		clear: both;
+		width: auto;
+		margin-left: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+	#footer {
+		width: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+		#footer ul {
+			line-height: 2.2em;
+		}
+}
+
+@media screen and (max-width: 500px), handheld and (max-width: 500px) {
+	div.pullquote {
+		float: none;
+		display: block;
+		margin-bottom: 2.5em;
+		margin-left: 0;
+		width: auto;
+	}
+}
+
+@media screen and (max-width: 400px), handheld and (max-width: 400px) {
+	span.italedline {
+		font-size: 1.4em;
+	}
+	
+
+}

@@ -1,0 +1,366 @@
+html {
+	background-color: #f5f6f8;
+}
+
+body {
+	background-color: #f5f6f8;
+}
+
+#entryheader {
+	
+}
+
+	#entryheader h2 {
+		border: none;
+		margin-top: 0px;
+	}
+	
+		#entryheader h2 a:hover {
+			border-bottom: 2px solid rgb(157,161,145);
+		}
+
+#articlebody {
+	width: 760px;
+	margin: 0 auto 0 auto;
+	font-size: 1.3em;
+	line-height: 1.6em;
+}
+
+	#articlebody h1 {
+		font-family: Helvetica, Arial, sans-serif;
+		font-size: 2.3em;
+		line-height: 1em;
+		letter-spacing: -3px;
+		text-indent: -.5em;
+		text-align: left;
+		color: #fff;
+		padding-left: 105px;
+		padding-bottom: 0;
+		margin-bottom: 0;
+		
+	}
+	
+	#storyhead {
+		background: #fff url(/images//hwc/hwc_radio_clear.png) no-repeat center top;
+		width: 760px;
+		margin-left: auto;
+		margin-right: auto;
+		border: 1px solid #ccc;
+		padding-top: 280px;
+		margin-top: 10px;
+		margin-bottom: 30px;
+	}
+	
+	h3.byline {
+		padding-top: 0;
+		padding-left: 105px;
+		margin-top: 5px;
+		margin-bottom: 80px;
+		color: #f7f7f7;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		font-size: .9em;
+	}
+
+	.articletext {
+		background-color: #fff;
+		width: 610px;
+		padding: 40px 75px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 30px;
+		border: 1px solid #ccc;
+	}
+	
+		.wavebreaker {
+			background: url(/images//hwc/hwc_soundwave.gif) repeat-x center top;
+			width: 760px;
+			height: 75px;
+			border: 1px solid #ccc;
+			margin-left: auto;
+			margin-right: auto;
+			margin-bottom: 30px;
+		}
+		
+	#sharebox {
+		font-size: .8em;
+		line-height: 1.1em;
+		width: 190px;
+		float: left;
+		background-color: #fff;
+		border: 1px solid #ccc;
+		padding: 15px 30px;
+	}
+	
+	#biobox {
+		font-size: .8em;
+		line-height: 1.4em;
+		width: 415px;
+		float: right;
+		background-color: #fff;
+		border: 1px solid #ccc;
+		padding: 15px 30px;
+		margin-bottom: 75px;
+	}
+	
+		#biobox p {
+			font-size: 1.1em;
+		}
+		
+	#morestufftoread {
+		width: 760px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	
+	#bottomboxes {
+		width: 760px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	
+	#footer {
+		width: 760px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	
+/* Responsive styles */
+
+@media screen and (max-width: 570px), handheld and (max-width: 570px) {
+	body {
+		width: 380px;
+	}
+	
+		#header {
+			width: 380px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+	
+			#header h1 {
+				font-size: 3.1em;
+			}
+		
+			#header p {
+				font-size: 1.3em;
+			}
+			
+		#articlebody {
+			width: 380px;
+		}
+		
+			#storyhead {
+				width: 380px;
+				background: #fff url(/images//hwc/hwc_radio_clear.png) no-repeat left top;
+			}
+			
+			#storyhead h1 {
+				padding-left: 70px;
+			}
+			
+			h3.byline {
+				padding-left: 70px;
+			}
+		
+			.articletext {
+				width: auto;
+				padding: 20px;
+				font-size: .9em;
+				line-height: 1.4em;
+			}
+			
+			.wavebreaker {
+				width: auto;
+			}
+			
+		#biobox {
+			float: none;
+			width: auto;
+		}
+		
+		#sharebox {
+			float: none;
+			width: auto;
+			margin-bottom: 30px;
+		}
+			
+		#morestufftoread {
+			width: 380px;
+		}
+			
+		#randomoldies {
+			width: 380px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		
+			#randomoldies div {
+				float: none;
+				width: auto;
+			}
+		
+			#randomoldies div:hover {
+				margin-top: 0;
+				margin-bottom: 0;
+			}
+		
+		#bottomboxes {
+			width: 380px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		
+			#bottomboxes div.podcastbox {
+				float: none;
+				margin-left: auto;
+				margin-right: auto;
+			}
+			
+			div.bottomreswrap {
+				width: 380px;
+				margin-left: auto;
+				margin-right: auto;
+			}
+			
+			#bottomboxes div.archivebox {
+				float: left;
+				
+			}
+			
+			#bottomboxes div.aboutebox {
+				float: left;
+				
+			}
+		
+	#footer {
+		width: 380px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+		#footer ul, #footer p {
+			line-height: 1.4em;
+		}
+}
+
+@media screen and (max-width: 380px), handheld and (max-width: 380px) {
+	body {
+		width: 100%;
+	}
+	
+		#header {
+			width: auto;
+			margin-left: 10px;
+			margin-right: 10px;
+		}
+	
+			#header h1 {
+				font-size: 2.8em;
+			}
+		
+			#header p {
+				font-size: 1.2em;
+			}
+			
+		#entryheader h2 {
+			margin-left: 10px;
+			margin-right: 10px;
+		}
+		
+		#articlebody {
+			width: auto;
+		}
+		
+			#storyhead {
+				width: auto;
+			}
+			
+			.articletext {
+				width: auto;
+			}
+			
+		#biobox {
+			width: auto;
+		}
+		
+		#sharebox {
+			width: auto;
+		}
+		
+		#morestufftoread {
+			width: auto;
+		}
+		
+		#fiction, #pstories, #essays, #poetry, #reporting {
+			width: auto;
+			margin-left: 10px;
+			margin-right: 10px;
+		}
+
+			#fiction p, #pstories p, #essays p, #poetry p, #reporting p {
+				font-size: 1.2em;
+			}
+			
+		#randomoldies {
+			width: auto;
+			margin-left: 10px;
+			margin-right: 10px;
+		}
+
+			div.essaywrap, div.pstorieswrap, div.reportingwrap, div.poetrywrap, div.fictionwrap {
+				position: relative;
+			}
+
+			div.essays, div.pstories, div.reporting, div.poetry, div.fiction {
+				float: none;
+				width: auto;
+				margin-left: auto;
+				margin-right: auto;
+			}
+		
+		#bottomboxes {
+			width: auto;
+			margin-left: 10px;
+			margin-right: 10px;
+		}
+		
+			#bottomboxes div.podcastbox {
+				width: auto;
+				float: none;
+				margin-left: 0;
+				margin-right: 0;
+			}
+
+				ul.graphic li a, ul.graphic li a.sm2_link {
+					width: auto;
+				}
+			
+			div.bottomreswrap {
+				width: auto;
+				margin-left: 0;
+				margin-right: 0;
+			}
+			
+			#bottomboxes div.archivebox {
+				float: none;
+				display: block;
+				width: auto;
+			}
+			
+			#bottomboxes div.aboutbox {
+				float: none;
+				display: block;
+				width: auto;
+			}
+		
+	#footer {
+		width: auto;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+		#footer ul, #footer p {
+			line-height: 1.3em;
+		}
+}

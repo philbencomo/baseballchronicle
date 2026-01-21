@@ -1,0 +1,323 @@
+html {
+	background-color: #ffffff;
+	border-top: 5px solid #8992A1;
+}
+		
+		div.clear {
+			clear: both;
+			margin-bottom: 50px;
+			text-align: center;
+			font-size: 2em;
+		}
+		
+		#articlebody {
+			clear: both;
+			margin-top: 100px;
+		}
+		
+		#articlebody h1 {
+			font-size: 2.5em;
+			margin-top: 10px;
+			margin-bottom: 20px;
+			text-align: center;
+		}
+		
+			#articlebody h1 span {
+				font-size: 3.1em;
+			}
+		
+		#articlebody h2 {
+			text-transform: uppercase;
+			font-family: Helvetica, sans-serif;
+			font-size: .9em;
+			letter-spacing: 1px;
+			margin: 0;
+			color: rgb(137,146,161);
+		}
+		
+		#articlebody h3 {
+			font-size: 1em;
+			margin-bottom: 60px;
+			text-align: center;
+			text-transform: uppercase;
+		}
+		
+		#articlebody p {
+			margin-bottom: 1.5em;
+		}
+		
+		#articleleft {
+			width: 500px;
+			float: left;
+			font-size: 1.3em;
+			margin-bottom: 50px;
+			line-height: 1.6em;
+		}
+		
+		#articlebody p.articlelede {
+			font-size: 1.5em;
+			line-height: 1.3em;
+			margin-bottom: 10px;
+		}
+		
+		#articlebody p.articlelede2 {
+			font-size: 1.5em;
+			line-height: 1.3em;
+			margin-bottom: 10px;
+		}
+		
+			#articlebody p.articlelede::first-letter {
+				font-size: 2.9em;
+				margin-right: 3px;
+				float: left;
+				display: block;
+				line-height: .8em;
+			}
+		
+		#articleright {
+			width: 500px;
+			float: right;
+			font-size: 1.3em;
+			margin-bottom: 50px;
+			line-height: 1.6em;
+		}
+		
+		#pulloutleft {
+			width: 240px;
+			margin-right: 20px;
+			float: left;
+		}
+		
+			#pulloutleft h3 {
+				font-size: 2.1em;
+				margin: 10px 0 0 0;
+				color: rgb(137,146,161);
+				text-transform: none;
+				text-align: left;
+			}
+			
+		#imageright {
+			width: 180px;
+			float: right;
+			margin-top: 25px;
+			margin-left: 80px;
+		}
+		
+			#imageright p {
+				text-align: right;
+				font-size: .8em;
+			}
+			
+	abbr {
+		font-variant: small-caps;
+		font-size: 80%;
+	}
+	
+	#sharebox {
+		width: 200px;
+		font-size: 1em;
+		background-color: #f7f7f7;
+		margin-bottom: 30px;
+		padding: 25px;
+		float: left;
+		display: inline;
+		position: relative;
+	}
+	
+		#sharebox h3 {
+			text-transform: uppercase;
+			font-family: Helvetica, sans-serif;
+			font-size: 1em;
+			margin: 0 0 15px 0;
+			letter-spacing: 1px;
+			color: #666;
+			text-align: left;
+		}
+	
+		#sharebox p {
+			margin: 0;
+			line-height: 1.4em;
+		}
+
+	#biobox {
+		background-color: #cccccc;
+		padding: 25px;
+		width: 440px;
+		font-size: 1em;
+		float: right;
+		margin-left: 20px;
+		display: inline;
+		position: relative;
+	}
+	
+		#biobox h3 {
+			text-transform: uppercase;
+			font-family: Helvetica, sans-serif;
+			font-size: 1em;
+			margin: 0 0 15px 0;
+			letter-spacing: 1px;
+			color: #666;
+			text-align: left;
+		}
+		
+		#biobox p {
+			margin: 0;
+			line-height: 1.4em;
+		}
+		
+	#morestufftoread {
+		margin-top: 60px;
+	}
+	
+		#morestufftoread h2 {
+			text-align: center;
+			font-size: 1.9em;
+            color: #333;
+		}
+	
+	#randomoldies {
+		width: 760px;
+        color: #333;
+	}
+
+		#randomoldies div {
+			-webkit-transition: all .3s ease-in;
+		}
+
+		#randomoldies div:hover {
+			margin-top: -5px;
+			margin-bottom: 5px;
+		}
+
+		#randomoldies a:link {
+			text-decoration: none;
+			color: #333;
+		}
+
+		#randomoldies a:visited {
+			text-decoration: none;
+			color: #333;
+		}
+
+		#randomoldies a:hover {
+			text-decoration: none;
+			color: #333;
+		}
+
+		#randomoldies a:active {
+			text-decoration: none;
+			color: #333;
+		}
+
+		#randomoldies h2 {
+			font-size: 1.6em;
+			font-weight: bold;
+			text-align: left;
+		}
+
+		#randomoldies h3 {
+			font-family: Helvetica, sans-serif;
+			font-size: .85em;
+			font-weight: bold;
+			text-transform: uppercase;
+			letter-spacing: 1px;
+            text-align: left;
+		}
+
+		#randomoldies h4 {
+			font-weight: bold;
+			font-size: 1em;
+			margin-bottom: 0px;
+		}
+
+		#randomoldies p {
+			margin-top: 10px;
+			line-height: 1.25em;
+		}
+
+		div.essays {
+			float: left;
+			background-color: rgb(255,211,155);
+			background-color: rgba(255,211,155,1);
+			width: 160px;
+			padding: 15px;
+		}
+
+			div.essays:hover {
+				background-color: rgba(255,211,155,.5);
+			}
+
+			div.essays:active {
+				background-color: rgba(255,211,155,.5);
+			}
+
+		div.pstories {
+			float: left;
+			background-color: rgb(157,161,145);
+			background-color: rgba(157,161,145,1);
+			width: 160px;
+			padding: 15px;
+		}
+
+			div.pstories:hover {
+				background-color: rgba(157,161,145,.5);
+			}
+
+			div.pstories:active {
+				background-color: rgba(157,161,145,.5);
+			}
+
+		div.poetry {
+			float: left;
+			background-color: rgb(190,210,220);
+			background-color: rgba(190,210,220,1);
+			width: 160px;
+			padding: 15px;
+		}
+
+			div.poetry:hover {
+				background-color: rgba(190,210,220,.5);
+			}
+
+			div.poetry:active {
+				background-color: rgba(190,210,220,.5);
+			}
+
+		div.fiction {
+			float: right;
+			background-color: rgb(241,210,205);
+			background-color: rgba(241,210,205,1);
+			width: 160px;
+			padding: 15px;
+		}
+
+			div.fiction:hover {
+				background-color: rgba(241,210,205,.5);
+			}
+
+			div.fiction:active {
+				background-color: rgba(241,210,205,.5);
+			}
+
+		div.reporting {
+			background-color: rgb(137,146,161);
+			background-color: rgba(137,146,161,1);
+			width: 150px;
+			padding: 15px;
+		}
+
+			div.reporting:hover {
+				background-color: rgba(137,146,161,.5);
+			}
+
+			div.reporting:active {
+				background-color: rgba(137,146,161,.5);
+			}
+	
+	span.ender {
+		font-size: .8em;
+	}
+	
+	div.spacer {
+		clear: both;
+	}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+        <meta name="robots" content="NONE">
+        <link rel="stylesheet" href="/css/bbchron-print.css" type="text/css">
+        <link rel="alternate" type="application/rss+xml" title="Recent Entries" href="http://feeds2.feedburner.com/TheBaseballChronicle">
+        <link rel="shortcut icon" type="image/ico" href="/images/favicon.ico">
+        <script type="text/javascript" src="http://thebaseballchronicle.com/mt.js"></script>
+        <title>Fancy Fielder | The Baseball Chronicle</title>
+</head>
+<body>
+    <div id="printhead">
+        <p class="actions"><a href="javascript:history.go(-1)">Back</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="javascript:window.print();">Print</a></p>
+        <img src="/images/chronicleheader-print.gif" alt="The Baseball Chronicle" />
+    </div>
+    <div id="printbody">
+        
+        
+        <h4>Poetry</h4>
+         <div id="articlebody">
+        <div class="breaker"></div>
+        <h1>Fancy Fielder</h1>
+        <div class="articletext">
+        <h3 class="byline">By Bryce Martin</h3>
+        	<p>1949,<br>
+		He is mine,<br>
+		Ruth Ann said, my dream in a tux,<br>
+		Eddie Waitkus, ballplayer deluxe.</p>
+
+		<p>He moved well around first.<br>
+		Too well, perhaps,<br>
+		For a dame with a thirst,<br>
+		A desire for certain chaps,<br>
+		Those in uniform<br>
+		Of Lithuanian descent,<br>
+		With smooth athletic form.</p>
+
+		<p>No words spoken, not a hint,<br>
+		Until one night a note appeared<br>
+		Asking him to indulge a whim.<br>
+		Her bullet split his boutonniere.<br>
+		She was so happy for her and him.</p>
+     </div>
+</div>
+        <p><em>&mdash;October 13, 2010</em></p>
+                                 
+    </div>
+    <div id="printfooter">
+        <h3>About the author</h3>
+        <p><strong>Bryce Martin</strong> stays busy in semi-retirement writing poetry, fiction, non-fiction and songs at his home near Nashville, Tenn. During his long journalism career, he worked as a sports editor, columnist and news reporter for daily newspapers and magazines.</p>
+    </div>
+</body>

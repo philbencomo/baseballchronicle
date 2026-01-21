@@ -1,0 +1,69 @@
+h1.notestop {
+	text-align: center;
+	font-size: 3em;
+	padding: 10px 0;
+	border-top: 1px solid #cccccc;
+	border-bottom: 1px solid #cccccc;
+}
+
+#notes {
+	margin-top: 45px;
+}
+
+	#notespost {
+		width: 530px;
+		margin-right: 40px;
+		float: left;
+		font-size: 1.1em;
+		line-height: 1.5em;
+	}
+	
+	#notespost h2 {
+		font-size: 1.7em;
+		padding-bottom: 5px;
+		border-bottom: 1px dashed #cccccc;
+	}
+	
+	#notespost p {
+		
+	}
+	
+	#notespost p.dateitalic {
+		font-style: italic;
+		margin-bottom: 75px;
+	}
+	
+	#notessidebar {
+		background-color: #cccccc;
+		width: 160px;
+		padding: 15px;
+		float: right;
+		font-size: 1.1em;
+	}
+	
+	#notessidebar p {
+		margin-top: 10px;
+	}
+	
+	#notessidebar ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	
+		#notessidebar li {
+			margin: 0 0 5px 0;
+			padding: 0;
+		}
+	
+	#notessidebar h4 {
+		font-size: 1em;
+		margin: 12px 0 15px 0;
+		padding-bottom: 5px;
+		border-bottom: 1px solid #999;
+	}
+
+#bottomrow {
+	clear: both;
+	border-top: 1px solid #b3b3b3;
+}
