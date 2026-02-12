@@ -216,7 +216,7 @@ var ReadAlong = {
 
             /**
              * Address probem with Chrome where sometimes it seems to get stuck upon seeked:
-             * http://code.google.com/p/chromium/issues/detail?id=99749
+             * https://code.google.com/p/chromium/issues/detail?id=99749
              */
             var audio_element = this;
             if (!audio_element.paused) {

@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width; initial-scale=1.0">
-        <link rel="stylesheet" type="text/css" href="http://thebaseballchronicle.com/css/bbchron-v2-base.css">
-	<link rel="stylesheet" type="text/css" href="http://thebaseballchronicle.com/css/page-player.css">
+        <link rel="stylesheet" type="text/css" href="https://thebaseballchronicle.com/css/bbchron-v2-base.css">
+	<link rel="stylesheet" type="text/css" href="https://thebaseballchronicle.com/css/page-player.css">
         <!--[if lt IE 9]>
       <style>
            body p, body li {
@@ -25,29 +25,29 @@
           }
       </style>
 <![endif]-->
-        <link rel="alternate" type="application/rss+xml" title="Recent Entries" href="http://feeds2.feedburner.com/TheBaseballChronicle">
+        <link rel="alternate" type="application/rss+xml" title="Recent Entries" href="https://feeds2.feedburner.com/TheBaseballChronicle">
         <link rel="Shortcut Icon" href="/images/favicon.ico" type="image/x-icon">
-	<script type="text/javascript" src="http://thebaseballchronicle.com/scripts/soundmanager2.js"></script>
+	<script type="text/javascript" src="https://thebaseballchronicle.com/scripts/soundmanager2.js"></script>
 	<script type="text/javascript">
-	soundManager.url = 'http://thebaseballchronicle.com/swf/';
+	soundManager.url = 'https://thebaseballchronicle.com/swf/';
 	soundManager.flashVersion = 8; // optional: shiny features (default = 8)
 	soundManager.useFlashBlock = false; // optionally, enable when you're ready to dive in
 	soundManager.debugMode = false;
 	</script>
-        <script type="text/javascript" src="http://thebaseballchronicle.com/scripts/page-player.js"></script>
-        <script type="text/javascript" src="http://thebaseballchronicle.com/scripts/jquery-1.4.4.min.js"></script>
-        <script type="text/javascript" src="http://thebaseballchronicle.com/scripts/jquery.masonry.min.js"></script>
-        <script type="text/javascript" src="http://thebaseballchronicle.com/mt.js"></script>
+        <script type="text/javascript" src="https://thebaseballchronicle.com/scripts/page-player.js"></script>
+        <script type="text/javascript" src="https://thebaseballchronicle.com/scripts/jquery-1.4.4.min.js"></script>
+        <script type="text/javascript" src="https://thebaseballchronicle.com/scripts/jquery.masonry.min.js"></script>
+        <script type="text/javascript" src="https://thebaseballchronicle.com/mt.js"></script>
 
-    <script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=34a5f2aa-41a6-4010-8034-578840caf710&amp;type=website&amp;post_services=email&amp;button=false"></script>
-    <link rel="shortlink" href="http://bbchron.com/go/175">
-    <link rel="stylesheet" type="text/css" href="http://thebaseballchronicle.com/css/the_once_and_future_baseball_man.css">
+    <script type="text/javascript" src="https://w.sharethis.com/button/sharethis.js#publisher=34a5f2aa-41a6-4010-8034-578840caf710&amp;type=website&amp;post_services=email&amp;button=false"></script>
+    <link rel="shortlink" href="https://bbchron.com/go/175">
+    <link rel="stylesheet" type="text/css" href="https://thebaseballchronicle.com/css/the_once_and_future_baseball_man.css">
     <title>The Once and Future Baseball Man | The Baseball Chronicle</title>
 </head>
 <body>
     <div id="entryheader">
         <h1><a href="/">The Baseball Chronicle</a></h1>
-        <h2><span class="entryprev"><a href="http://thebaseballchronicle.com/fiction/barnstormin_with_the_babe" title="Previous story">&#8592;</a></span> <a href="http://thebaseballchronicle.com/reporting/">Reporting</a>, July 2010 <span class="entrynext"><a href="http://thebaseballchronicle.com/personal_stories/sunday_fly" title="Next story">&#8594;</a></span</h2>
+        <h2><span class="entryprev"><a href="https://thebaseballchronicle.com/fiction/barnstormin_with_the_babe" title="Previous story">&#8592;</a></span> <a href="https://thebaseballchronicle.com/reporting/">Reporting</a>, July 2010 <span class="entrynext"><a href="https://thebaseballchronicle.com/personal_stories/sunday_fly" title="Next story">&#8594;</a></span</h2>
     </div>
     <div id="articlebody">
         
@@ -63,7 +63,7 @@
 	</div>
 	<div id="imageright">
 		<img alt="baseball kid" src="/images/2010/07/baseball_kid_small.jpg">
-		<p><a href="http://digitalgallery.nypl.org/nypldigital/id?56493">NYPL Digital Gallery</a></p>
+		<p><a href="https://digitalgallery.nypl.org/nypldigital/id?56493">NYPL Digital Gallery</a></p>
 	</div>
 <div class="clear"><p>* * *</p></div>
 	<div id="pulloutleft">
@@ -95,28 +95,28 @@
 	<div id="articleright">
 		<p>For almost 15 years Tango kept his analysis to himself, stored in notebooks and electronic files because, &ldquo;frankly, none of my friends were into it anywhere close as I was,&rdquo; he writes in an e-mail. &ldquo;Things all changed when I stumbled upon BaseballBoards.com.&rdquo;</p>
 		<p>For the first time, Tango had an outlet for his analysis, a way to connect with others as interested in better understanding the game as he was. &ldquo;It was around the year 2000 or so,&rdquo; he says. &ldquo;There were a few of us that managed to congregate there. As luck would have it, we're all still pretty well-connected today, even though none of us have met.&rdquo;</p>
-		<p>Now defunct, the website can still be viewed at <a href="http://web.archive.org/web/*/http://baseballboards.com" title="BaseballBoards.com's remnants">Archive.org</a>, and its strategy section was once home to a veritable All-Star cast of passionate sabermetricians&mdash;Tango, Mitchel Lichtman, Voros McCracken and others highly regarded in the saber community today. Tango and others would later launch their own websites to house research projects.</p>
+		<p>Now defunct, the website can still be viewed at <a href="https://web.archive.org/web/*/https://baseballboards.com" title="BaseballBoards.com's remnants">Archive.org</a>, and its strategy section was once home to a veritable All-Star cast of passionate sabermetricians&mdash;Tango, Mitchel Lichtman, Voros McCracken and others highly regarded in the saber community today. Tango and others would later launch their own websites to house research projects.</p>
 		<p>&ldquo;The first time I knew that I was having an impact beyond our band of saberists is when Michael Lewis called,&rdquo; Tango says. &ldquo;After that, things kind of snowballed.&rdquo;</p>
 		<p>Lewis was working on <em>Moneyball</em>, which told the story of general manager Billy Beane and the Oakland A's, who, though cash-strapped and disadvantaged, still managed to win at least 87 games every season from 1999 to 2006, twice winning more than 100. Guided by sabermetrics and work done for the team by previous GM Sandy Alderson and analyst Eric Walker, Beane identified undervalued skills, most notably on-base percentage, and filled his roster and farm system with cheap but effective players. And it worked.</p>
 		<p><em>Moneyball</em> spent 20 weeks on the New York Times' best-seller list in 2003. For many readers, the book was their first brush with sabermetric thinking, and the story resonated with fans and baseball management alike. Existing analytic websites grew, and many new sites launched. Armchair analysts pushed the understanding of baseball ever further, inventing new statistics and objectively reevaluating old ones.</p>
-		<p>And a new career path to the front office was born. Many teams took notice and began hiring, and earnestly listening to, sabermetricians. Statistical analysts had worked for MLB teams before, but few had any real say in the decision-making, and the analytics and available data paled next to those of today. Walker, before more meaningful work with the A's, consulted with the Giants in the '80s, and he &ldquo;had had some input into a few decisions, but most of what I advocated, while listened to, was never acted on,&rdquo; he wrote for <a href="http://deadspin.com/5365138/the-forgotten-man-of-moneyball-part-1" title="Deadspin: The Forgotten Man of Moneyball">Deadspin</a> in 2009.</p>
+		<p>And a new career path to the front office was born. Many teams took notice and began hiring, and earnestly listening to, sabermetricians. Statistical analysts had worked for MLB teams before, but few had any real say in the decision-making, and the analytics and available data paled next to those of today. Walker, before more meaningful work with the A's, consulted with the Giants in the '80s, and he &ldquo;had had some input into a few decisions, but most of what I advocated, while listened to, was never acted on,&rdquo; he wrote for <a href="https://deadspin.com/5365138/the-forgotten-man-of-moneyball-part-1" title="Deadspin: The Forgotten Man of Moneyball">Deadspin</a> in 2009.</p>
 		<p>Bill James took a job in late 2002 as senior operations advisor with the Red Sox under sabermetric-friendly executives, including then 28-year-old Yale grad Theo Epstein. Tango, who says he &ldquo;had never considered working for a team really,&rdquo; started consulting work in 2004. More than a dozen other analysts are known to have either worked for or consulted with teams in the last decade alone, a long way from lone-wolf Branch Rickey in the 1950s.</p>
 	</div>
 	<img alt="typhoon illustration" src="/images/2010/07/typhoon-illustration.jpg">
 	<div class="clear"></div>
 	<div id="articleright">
-		<p>The Pittsburgh Pirates in 2008 hired Dan Fox, a former writer for <a href="http://baseballprospectus.com">Baseball Prospectus</a> and a software architect, as their Director of Baseball Systems Development.</p>
+		<p>The Pittsburgh Pirates in 2008 hired Dan Fox, a former writer for <a href="https://baseballprospectus.com">Baseball Prospectus</a> and a software architect, as their Director of Baseball Systems Development.</p>
 		<p>&ldquo;I got interested in analysis probably like a lot of guys, by reading Bill James,&rdquo; Fox says. &ldquo;But I got away from that for a long time. In 2003, though, I really became reinterested in it. I read <em>Moneyball</em>, but also it was then that I first became aware of blogging. A colleague suggested starting a blog on software development. I wrote four posts before I realized it would be more fun to write about baseball.&rdquo;</p>
-		<p>He also wrote for <a href="http://hardballtimes.com/">The Hardball Times</a>, a sabermetric-minded website, from mid-2005 to the spring of 2006, when he moved to Baseball Prospectus. All the while he worked full-time developing software. &ldquo;I was contacted by a few teams after I started at Baseball Prospectus,&rdquo; he says. &ldquo;I guessed then that [a career in baseball] could be possible, but teams didn't generally pay market value for skill-sets like mine. So it didn't seem like much of a possibility then.</p>
+		<p>He also wrote for <a href="https://hardballtimes.com/">The Hardball Times</a>, a sabermetric-minded website, from mid-2005 to the spring of 2006, when he moved to Baseball Prospectus. All the while he worked full-time developing software. &ldquo;I was contacted by a few teams after I started at Baseball Prospectus,&rdquo; he says. &ldquo;I guessed then that [a career in baseball] could be possible, but teams didn't generally pay market value for skill-sets like mine. So it didn't seem like much of a possibility then.</p>
 		<p>&ldquo;Later, the Pirates opportunity came along [in 2008],&rdquo; he says. &ldquo;It's a mix of the software and analytic sides, and it seemed interesting. I just had to sell it to my wife. Everything looked good and I thought, &lsquo;Chances like these don't come around often.&rsquo;&rdquo;</p>
 		<p>The organization, which hasn't had a winning season in nearly two decades, has been receptive to new ideas &ldquo;at pretty much all levels,&rdquo; Fox says. &ldquo;And if you make sound arguments backed by good information, people couldn't be happier to use it.&rdquo;</p>
 	</div>
 	<div class="clear"><p>* * *</p></div>
 	<div id="articleleft">
 		<p>With <em>Moneyball</em> in hand, Wang kept dreaming. To break into the baseball world, he created two modest goals: &ldquo;I just tried to read as much as I could about the game and do well in school,&rdquo; he says. &ldquo;I wasn't sure how [a career in baseball] was going to happen. I just knew I wanted to do it.&rdquo;</p>
-		<p>As a 16-year-old high school junior, Wang published his first research article, a regression analysis weighing the run value of on-base and slugging percentages, in By the Numbers, a newsletter published by the Society for American Baseball Research. It ran just half a page and less than 300 words in the <a href="http://www.philbirnbaum.com/btn2006-08.pdf">August 2006 issue</a> (PDF), but it was a start.</p>
+		<p>As a 16-year-old high school junior, Wang published his first research article, a regression analysis weighing the run value of on-base and slugging percentages, in By the Numbers, a newsletter published by the Society for American Baseball Research. It ran just half a page and less than 300 words in the <a href="https://www.philbirnbaum.com/btn2006-08.pdf">August 2006 issue</a> (PDF), but it was a start.</p>
 		<p>And luckily, Wang says, &ldquo;a New York Times writer was writing about the same topic a few weeks after [my piece] got published, and he asked me to do an interview for his article.&rdquo; After the writer, Alan Schwarz, learned that Wang was still in high school, &ldquo;the article ended up featuring me a little more than I think he originally anticipated.&rdquo; Wang would publish another three articles in By the Numbers over the next year, and in both 2007 and 2008 he won <abbr>SABR</abbr>'s Jack Kavanagh Memorial Youth Baseball Research Award.</p>
-		<p>In January 2008, Wang began contributing to The Hardball Times. &ldquo;I just did random pieces whenever I had time for them,&rdquo; he says. Many of his articles explored the monetary value of prospects and draft picks, and that work earned him another honor in 2010&mdash;<a href="http://www.beyondtheboxscore.com/2010/2/1/1285282/btb-sabermetric-writing-award">Best Novel Research Article/Project</a> in Beyond the Box Score's Sabermetric Writing Awards.</p>
+		<p>In January 2008, Wang began contributing to The Hardball Times. &ldquo;I just did random pieces whenever I had time for them,&rdquo; he says. Many of his articles explored the monetary value of prospects and draft picks, and that work earned him another honor in 2010&mdash;<a href="https://www.beyondtheboxscore.com/2010/2/1/1285282/btb-sabermetric-writing-award">Best Novel Research Article/Project</a> in Beyond the Box Score's Sabermetric Writing Awards.</p>
 		<p>Wang started college at Northwestern University in fall 2008. He chose it primarily for the academics and says it's &ldquo;pretty well-regarded in what I wanted to major in, which was economics.&rdquo; And, lest you forget his age, &ldquo;It's close to Minnesota,&rdquo; he adds, &ldquo;but not so close that your parents can drive down on a weekend and surprise you.&rdquo;</p>
 		<p>He also served as president of the university's Sports Business and Research Club and still wrote in his spare time. &ldquo;I just continued to do that up until last year [2009], my freshman year in school, when I got a summer internship offer from the Cleveland Indians.&rdquo;</p>
 	</div>
@@ -130,7 +130,7 @@
 		<p>He'd taken and enjoyed statistics classes at Oberlin College&mdash;he earned a degree in biology from the Ohio school in 2006&mdash;and dabbled in original research about his lifelong favorite game. &ldquo;It was winter term my freshman year,&rdquo; Sheehan says. &ldquo;I took a class called &lsquo;Stats in Sports.&rsquo; And so I started playing around with it. I learned by doing lots of googling. The Web was my friend. And then I was going to be graduating soon, and I started thinking about the baseball front office option, that I could make it my job. I hadn't really thought front office jobs were available to the normal person, without professional playing experience.&rdquo;</p>
 		<p>But there are only so many jobs and, with so much competition, Sheehan needed a way to differentiate himself.</p>
 		<p>&ldquo;During the 2006 playoffs I had started looking into PITCHf/x data,&rdquo; he says. PITCHf/x is a pitch-tracking system used in all MLB ballparks. &ldquo;And in March 2007, I started writing articles about it.&rdquo;</p>
-		<p>For a year he researched and wrote, publishing online at <a href="http://baseballanalysts.com/cat_commandpost.php" title="Sheehan's posts">Baseball Analysts</a> and hoping that &ldquo;with all my articles, I could point to something I'd done, not just a résumé. And writing online, the barrier for entry is so low. Teams can look at it, and see what you've done.&rdquo;</p>
+		<p>For a year he researched and wrote, publishing online at <a href="https://baseballanalysts.com/cat_commandpost.php" title="Sheehan's posts">Baseball Analysts</a> and hoping that &ldquo;with all my articles, I could point to something I'd done, not just a résumé. And writing online, the barrier for entry is so low. Teams can look at it, and see what you've done.&rdquo;</p>
 		<p>The San Diego Padres liked what they saw, and Sheehan was offered a baseball operations internship in 2008. Last November he took a full-time job with the Pirates. His tow truck dispatcher days seem firmly behind him.</p>
 		<p>&ldquo;I'm just enjoying the ride,&rdquo; he says.</p>
 	</div>
@@ -152,37 +152,37 @@
            <div id="sharebox">
 	<h3>Share & Save</h3>
         <ul>
-              <li><script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+              <li><script src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
                        <div>
-                            <a href="http://twitter.com/share" class="twitter-share-button"
-                            data-url="http://bbchron.com/go/175"
-                            data-counturl="http://thebaseballchronicle.com/reporting/the_once_and_future_baseball_man"
+                            <a href="https://twitter.com/share" class="twitter-share-button"
+                            data-url="https://bbchron.com/go/175"
+                            data-counturl="https://thebaseballchronicle.com/reporting/the_once_and_future_baseball_man"
                             data-count="horizontal"
                             data-via="bbchron"
                             data-text="Reporting: The Once and Future Baseball Man, by Phil Bencomo:">Tweet</a>
 </div></li>
 
-              <li class="facebookbutton"><iframe src="http://www.facebook.com/plugins/like.php?href=http://thebaseballchronicle.com/reporting/the_once_and_future_baseball_man&amp;layout=button_count&amp;show_faces=true&amp;width=150&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" allowTransparency="true"></iframe></li>
+              <li class="facebookbutton"><iframe src="https://www.facebook.com/plugins/like.php?href=https://thebaseballchronicle.com/reporting/the_once_and_future_baseball_man&amp;layout=button_count&amp;show_faces=true&amp;width=150&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" allowTransparency="true"></iframe></li>
 
               <li class="instapaperbutton"><iframe border="0" scrolling="no" width="78" height="17" allowtransparency="true" frameborder="0"
  style="margin-bottom: -3px; z-index: 1338; border: 0px; background-color: transparent; overflow: hidden;"
- src="http://www.instapaper.com/e2?url=http%3A%2F%2Fthebaseballchronicle.com%2Freporting%2Fthe_once_and_future_baseball_man&title=The%20Once%20and%20Future%20Baseball%20Man&description=Victor%20Wang%20hasn%27t%20played%20baseball%20competitively%20since%20he%20was%20a%20kid.%20He%20knew%2C%20back%20in%20elementary%20school%20in%20the%20%2790s%2C%20that%20he%27d%20never%20reach%20the%20pros.%20That%20he%27d%20struggle%20even%20in%20Little%20League.%20That%20he%20simply%20wasn%27t%20very%20good.%20So%20he%20quit."
+ src="https://www.instapaper.com/e2?url=http%3A%2F%2Fthebaseballchronicle.com%2Freporting%2Fthe_once_and_future_baseball_man&title=The%20Once%20and%20Future%20Baseball%20Man&description=Victor%20Wang%20hasn%27t%20played%20baseball%20competitively%20since%20he%20was%20a%20kid.%20He%20knew%2C%20back%20in%20elementary%20school%20in%20the%20%2790s%2C%20that%20he%27d%20never%20reach%20the%20pros.%20That%20he%27d%20struggle%20even%20in%20Little%20League.%20That%20he%20simply%20wasn%27t%20very%20good.%20So%20he%20quit."
 ></iframe></li>
 
-              <li class="printbutton"><a href="http://thebaseballchronicle.com/reporting/the_once_and_future_baseball_man.print">Print</a></li>
+              <li class="printbutton"><a href="https://thebaseballchronicle.com/reporting/the_once_and_future_baseball_man.print">Print</a></li>
 
-              <li class="shortlinkbutton"><a href="http://bbchron.com/go/175" title="Short link to this story">bbchron.com/go/175</a></li>
+              <li class="shortlinkbutton"><a href="https://bbchron.com/go/175" title="Short link to this story">bbchron.com/go/175</a></li>
         </ul>
 </div>
 <div id="biobox">
 	<h3>About the author</h3>
-	<p><strong>Phil Bencomo</strong> publishes this website and <a href="http://philbencomo.com">a few others</a>. A Chicago-area native, he studies journalism at Northwestern University and ponders digital storytelling.</p>
+	<p><strong>Phil Bencomo</strong> publishes this website and <a href="https://philbencomo.com">a few others</a>. A Chicago-area native, he studies journalism at Northwestern University and ponders digital storytelling.</p>
 </div>
         </div>
         <div class="spacer"></div>
         
         
-        <h2 class="readmorenav"><a href="http://thebaseballchronicle.com/fiction/barnstormin_with_the_babe" title="Previous story">&#8592; Previous story</a> <span class="readmorebullet">&bull;</span> <a href="http://thebaseballchronicle.com/personal_stories/sunday_fly" title="Next story">Next story &#8594;</a></h2>
+        <h2 class="readmorenav"><a href="https://thebaseballchronicle.com/fiction/barnstormin_with_the_babe" title="Previous story">&#8592; Previous story</a> <span class="readmorebullet">&bull;</span> <a href="https://thebaseballchronicle.com/personal_stories/sunday_fly" title="Next story">Next story &#8594;</a></h2>
     </div>
     <div class="clear"></div>
     <div id="morestufftoread">
@@ -191,7 +191,7 @@
         
 	
 		<div class="essays">
-			<a href="http://thebaseballchronicle.com/essays/ron">
+			<a href="https://thebaseballchronicle.com/essays/ron">
 			<h3>Essays</h3>
 			<h2>Ron</h2>
 			<h4>By Todd Cosner</h4>
@@ -201,7 +201,7 @@
         
 	
 		<div class="pstories">
-			<a href="http://thebaseballchronicle.com/personal_stories/knothole">
+			<a href="https://thebaseballchronicle.com/personal_stories/knothole">
 			<h3>Personal Stories</h3>
 			<h2>The Knothole</h2>
 			<h4>By Phil Bencomo</h4>
@@ -211,7 +211,7 @@
         
         
 		<div class="poetry">
-			<a href="http://thebaseballchronicle.com/poetry/the_first_practice">
+			<a href="https://thebaseballchronicle.com/poetry/the_first_practice">
 			<h3>Poetry</h3>
 			<h2>The First Practice</h2>
 			<h4>By David S. Pointer</h4>
@@ -221,7 +221,7 @@
         
         
 		<div class="fiction">
-			<a href="http://thebaseballchronicle.com/fiction/strike_zone">
+			<a href="https://thebaseballchronicle.com/fiction/strike_zone">
 			<h3>Fiction</h3>
 			<h2>Strike Zone</h2>
 			<h4>By Paul Lonardo</h4>
@@ -241,11 +241,11 @@
         <div class="podcastbox">
 			<h3>Podcast</h3>
 			<ul class="playlist">
-                                <li><a href="http://thebaseballchronicle.com/podcast/Eric-Nusbaum.mp3">Eric Nusbaum (25:29)</a></li>
-				<li><a href="http://thebaseballchronicle.com/podcast/Phil-Bencomo_Shoeless-Joe.mp3">Phil Bencomo: &ldquo;Shoeless Joe&rdquo; (8:07)</a></li>
-				<li><a href="http://thebaseballchronicle.com/podcast/Josh-Wilker_George-Foster.mp3">Josh Wilker: &ldquo;George Foster&rdquo; (7:25)</a></li>
+                                <li><a href="https://thebaseballchronicle.com/podcast/Eric-Nusbaum.mp3">Eric Nusbaum (25:29)</a></li>
+				<li><a href="https://thebaseballchronicle.com/podcast/Phil-Bencomo_Shoeless-Joe.mp3">Phil Bencomo: &ldquo;Shoeless Joe&rdquo; (8:07)</a></li>
+				<li><a href="https://thebaseballchronicle.com/podcast/Josh-Wilker_George-Foster.mp3">Josh Wilker: &ldquo;George Foster&rdquo; (7:25)</a></li>
 			</ul>
-			<p><a href="/podcast">Podcast home</a> | <a href="http://itunes.apple.com/us/podcast/the-baseball-chronicle-podcast/id324323687">Subscribe in iTunes</a></p>
+			<p><a href="/podcast">Podcast home</a> | <a href="https://itunes.apple.com/us/podcast/the-baseball-chronicle-podcast/id324323687">Subscribe in iTunes</a></p>
 		</div>
                 <div class="bottomreswrap">
 		<div class="archivebox">
@@ -264,55 +264,55 @@
 		             <li><select onchange="nav(this)">
                              <option>By author...</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/al_ottens/">Al Ottens</option>
+                             <option value="https://thebaseballchronicle.com/authors/al_ottens/">Al Ottens</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/bryce_martin/">Bryce Martin</option>
+                             <option value="https://thebaseballchronicle.com/authors/bryce_martin/">Bryce Martin</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/cynthia_tyler_1/">Cynthia Tyler</option>
+                             <option value="https://thebaseballchronicle.com/authors/cynthia_tyler_1/">Cynthia Tyler</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/daniel_couch/">Daniel Couch</option>
+                             <option value="https://thebaseballchronicle.com/authors/daniel_couch/">Daniel Couch</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/dave_roulston/">Dave Roulston</option>
+                             <option value="https://thebaseballchronicle.com/authors/dave_roulston/">Dave Roulston</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/david_s_pointer/">David S. Pointer</option>
+                             <option value="https://thebaseballchronicle.com/authors/david_s_pointer/">David S. Pointer</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/dennis_feller/">Dennis Feller</option>
+                             <option value="https://thebaseballchronicle.com/authors/dennis_feller/">Dennis Feller</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/elliot_robins/">Elliot Robins</option>
+                             <option value="https://thebaseballchronicle.com/authors/elliot_robins/">Elliot Robins</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/ember_nickel/">Ember Nickel</option>
+                             <option value="https://thebaseballchronicle.com/authors/ember_nickel/">Ember Nickel</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/eric_nusbaum/">Eric Nusbaum</option>
+                             <option value="https://thebaseballchronicle.com/authors/eric_nusbaum/">Eric Nusbaum</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/jeb_stewart/">Jeb Stewart</option>
+                             <option value="https://thebaseballchronicle.com/authors/jeb_stewart/">Jeb Stewart</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/joe_benardello/">Joe Benardello</option>
+                             <option value="https://thebaseballchronicle.com/authors/joe_benardello/">Joe Benardello</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/john_bartleby/">John Bartleby</option>
+                             <option value="https://thebaseballchronicle.com/authors/john_bartleby/">John Bartleby</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/lincoln_mitchell/">Lincoln Mitchell</option>
+                             <option value="https://thebaseballchronicle.com/authors/lincoln_mitchell/">Lincoln Mitchell</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/mb_coudal/">MB Coudal</option>
+                             <option value="https://thebaseballchronicle.com/authors/mb_coudal/">MB Coudal</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/melody_blass_fisher/">Melody Blass Fisher</option>
+                             <option value="https://thebaseballchronicle.com/authors/melody_blass_fisher/">Melody Blass Fisher</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/michael_webb/">Michael Webb</option>
+                             <option value="https://thebaseballchronicle.com/authors/michael_webb/">Michael Webb</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/paul_lonardo/">Paul Lonardo</option>
+                             <option value="https://thebaseballchronicle.com/authors/paul_lonardo/">Paul Lonardo</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/phil_bencomo/">Phil Bencomo</option>
+                             <option value="https://thebaseballchronicle.com/authors/phil_bencomo/">Phil Bencomo</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/r_a_cabral/">R. A. Cabral</option>
+                             <option value="https://thebaseballchronicle.com/authors/r_a_cabral/">R. A. Cabral</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/rick_soisson/">Rick Soisson</option>
+                             <option value="https://thebaseballchronicle.com/authors/rick_soisson/">Rick Soisson</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/steve_vivona/">Steve Vivona</option>
+                             <option value="https://thebaseballchronicle.com/authors/steve_vivona/">Steve Vivona</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/todd_cosner/">Todd Cosner</option>
+                             <option value="https://thebaseballchronicle.com/authors/todd_cosner/">Todd Cosner</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/tyler_kalmakoff/">Tyler Kalmakoff</option>
+                             <option value="https://thebaseballchronicle.com/authors/tyler_kalmakoff/">Tyler Kalmakoff</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/walter_biggins/">Walter Biggins</option>
+                             <option value="https://thebaseballchronicle.com/authors/walter_biggins/">Walter Biggins</option>
                              
                              </select></li>
 			</ul>
@@ -320,41 +320,41 @@
 		             <li><select onchange="nav(this)">
                              <option>By month...</option>
                              
-                             <option value="http://thebaseballchronicle.com/2011/10/">October 2011</option>
+                             <option value="https://thebaseballchronicle.com/2011/10/">October 2011</option>
                              
-                             <option value="http://thebaseballchronicle.com/2011/09/">September 2011</option>
+                             <option value="https://thebaseballchronicle.com/2011/09/">September 2011</option>
                              
-                             <option value="http://thebaseballchronicle.com/2011/04/">April 2011</option>
+                             <option value="https://thebaseballchronicle.com/2011/04/">April 2011</option>
                              
-                             <option value="http://thebaseballchronicle.com/2011/01/">January 2011</option>
+                             <option value="https://thebaseballchronicle.com/2011/01/">January 2011</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/11/">November 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/11/">November 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/10/">October 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/10/">October 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/09/">September 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/09/">September 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/08/">August 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/08/">August 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/07/">July 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/07/">July 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/03/">March 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/03/">March 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/02/">February 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/02/">February 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/12/">December 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/12/">December 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/09/">September 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/09/">September 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/08/">August 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/08/">August 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/07/">July 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/07/">July 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/06/">June 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/06/">June 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/05/">May 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/05/">May 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/04/">April 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/04/">April 2009</option>
                              
                              </select></li>
 			</ul>
@@ -376,13 +376,13 @@
     <li><a href="/notes">Editor's Notes</a></li>
     <li><a href="/photography">Photography</a></li>
     <li><a href="/podcast">Podcast</a></li>
-    <li><a href="http://feeds2.feedburner.com/TheBaseballChronicle">RSS Feed</a></li>
-    <li><a href="http://twitter.com/bbchron">@bbchron</a></li>
+    <li><a href="https://feeds2.feedburner.com/TheBaseballChronicle">RSS Feed</a></li>
+    <li><a href="https://twitter.com/bbchron">@bbchron</a></li>
 </ul>
 <p>All content is copyrighted by The Baseball Chronicle or its contributors.</p>
     </div>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script>
 <script type="text/javascript">

@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width; initial-scale=1.0">
-        <link rel="stylesheet" type="text/css" href="http://thebaseballchronicle.com/css/bbchron-v2-base.css">
-	<link rel="stylesheet" type="text/css" href="http://thebaseballchronicle.com/css/page-player.css">
+        <link rel="stylesheet" type="text/css" href="https://thebaseballchronicle.com/css/bbchron-v2-base.css">
+	<link rel="stylesheet" type="text/css" href="https://thebaseballchronicle.com/css/page-player.css">
         <!--[if lt IE 9]>
       <style>
            body p, body li {
@@ -25,29 +25,29 @@
           }
       </style>
 <![endif]-->
-        <link rel="alternate" type="application/rss+xml" title="Recent Entries" href="http://feeds2.feedburner.com/TheBaseballChronicle">
+        <link rel="alternate" type="application/rss+xml" title="Recent Entries" href="https://feeds2.feedburner.com/TheBaseballChronicle">
         <link rel="Shortcut Icon" href="/images/favicon.ico" type="image/x-icon">
-	<script type="text/javascript" src="http://thebaseballchronicle.com/scripts/soundmanager2.js"></script>
+	<script type="text/javascript" src="https://thebaseballchronicle.com/scripts/soundmanager2.js"></script>
 	<script type="text/javascript">
-	soundManager.url = 'http://thebaseballchronicle.com/swf/';
+	soundManager.url = 'https://thebaseballchronicle.com/swf/';
 	soundManager.flashVersion = 8; // optional: shiny features (default = 8)
 	soundManager.useFlashBlock = false; // optionally, enable when you're ready to dive in
 	soundManager.debugMode = false;
 	</script>
-        <script type="text/javascript" src="http://thebaseballchronicle.com/scripts/page-player.js"></script>
-        <script type="text/javascript" src="http://thebaseballchronicle.com/scripts/jquery-1.4.4.min.js"></script>
-        <script type="text/javascript" src="http://thebaseballchronicle.com/scripts/jquery.masonry.min.js"></script>
-        <script type="text/javascript" src="http://thebaseballchronicle.com/mt.js"></script>
+        <script type="text/javascript" src="https://thebaseballchronicle.com/scripts/page-player.js"></script>
+        <script type="text/javascript" src="https://thebaseballchronicle.com/scripts/jquery-1.4.4.min.js"></script>
+        <script type="text/javascript" src="https://thebaseballchronicle.com/scripts/jquery.masonry.min.js"></script>
+        <script type="text/javascript" src="https://thebaseballchronicle.com/mt.js"></script>
 
-    <script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=34a5f2aa-41a6-4010-8034-578840caf710&amp;type=website&amp;post_services=email&amp;button=false"></script>
-    <link rel="shortlink" href="http://bbchron.com/go/172">
-    <link rel="stylesheet" type="text/css" href="http://thebaseballchronicle.com/css/barnstormin_with_the_babe.css">
+    <script type="text/javascript" src="https://w.sharethis.com/button/sharethis.js#publisher=34a5f2aa-41a6-4010-8034-578840caf710&amp;type=website&amp;post_services=email&amp;button=false"></script>
+    <link rel="shortlink" href="https://bbchron.com/go/172">
+    <link rel="stylesheet" type="text/css" href="https://thebaseballchronicle.com/css/barnstormin_with_the_babe.css">
     <title>Barnstormin' with the Babe | The Baseball Chronicle</title>
 </head>
 <body>
     <div id="entryheader">
         <h1><a href="/">The Baseball Chronicle</a></h1>
-        <h2><span class="entryprev"><a href="http://thebaseballchronicle.com/personal_stories/stealing_grass_from_safeco_field" title="Previous story">&#8592;</a></span> <a href="http://thebaseballchronicle.com/fiction/">Fiction</a>, March 2010 <span class="entrynext"><a href="http://thebaseballchronicle.com/reporting/the_once_and_future_baseball_man" title="Next story">&#8594;</a></span</h2>
+        <h2><span class="entryprev"><a href="https://thebaseballchronicle.com/personal_stories/stealing_grass_from_safeco_field" title="Previous story">&#8592;</a></span> <a href="https://thebaseballchronicle.com/fiction/">Fiction</a>, March 2010 <span class="entrynext"><a href="https://thebaseballchronicle.com/reporting/the_once_and_future_baseball_man" title="Next story">&#8594;</a></span</h2>
     </div>
     <div id="articlebody">
         
@@ -101,44 +101,44 @@
 
 <p>&#8220;Sure,&#8221; admitted Ruth, &#8220;but a lot of times, I never even see the ball.&#8221; The writer stared, incredulous. &#8220;That&#8217;s right, look at me funny, but I tell ya, lots of times when I sense the ball is coming in a certain place, I just close my eyes and swing.&#8221;</p>
 
-<p><em>Read more at <a href="http://thepitchbook.com/Bustin'-Babes-Lous-Barnstorming-1927.html">ThePitchBook.com</a>.</em></p>
+<p><em>Read more at <a href="https://thepitchbook.com/Bustin'-Babes-Lous-Barnstorming-1927.html">ThePitchBook.com</a>.</em></p>
 
         <div class="spacer"></div>
         <div id="sharebox">
 	<h3>Share & Save</h3>
         <ul>
-              <li><script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+              <li><script src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
                        <div>
-                            <a href="http://twitter.com/share" class="twitter-share-button"
-                            data-url="http://bbchron.com/go/172"
-                            data-counturl="http://thebaseballchronicle.com/fiction/barnstormin_with_the_babe"
+                            <a href="https://twitter.com/share" class="twitter-share-button"
+                            data-url="https://bbchron.com/go/172"
+                            data-counturl="https://thebaseballchronicle.com/fiction/barnstormin_with_the_babe"
                             data-count="horizontal"
                             data-via="bbchron"
                             data-text="Fiction: Barnstormin' with the Babe, by R. A. Cabral:">Tweet</a>
 </div></li>
 
-              <li class="facebookbutton"><iframe src="http://www.facebook.com/plugins/like.php?href=http://thebaseballchronicle.com/fiction/barnstormin_with_the_babe&amp;layout=button_count&amp;show_faces=true&amp;width=150&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" allowTransparency="true"></iframe></li>
+              <li class="facebookbutton"><iframe src="https://www.facebook.com/plugins/like.php?href=https://thebaseballchronicle.com/fiction/barnstormin_with_the_babe&amp;layout=button_count&amp;show_faces=true&amp;width=150&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" allowTransparency="true"></iframe></li>
 
               <li class="instapaperbutton"><iframe border="0" scrolling="no" width="78" height="17" allowtransparency="true" frameborder="0"
  style="margin-bottom: -3px; z-index: 1338; border: 0px; background-color: transparent; overflow: hidden;"
- src="http://www.instapaper.com/e2?url=http%3A%2F%2Fthebaseballchronicle.com%2Ffiction%2Fbarnstormin_with_the_babe&title=Barnstormin%27%20with%20the%20Babe&description=It%27s%20late%201927.%20The%20Babe%20just%20hit%2060%2C%20Gehrig%20won%20the%20MVP%2C%20and%20the%20Yankees%20are%20on%20top%20of%20the%20world.%20The%20%22Mighty%20Swatsmen%22%20celebrate%20with%20a%20barnstorming%20tour%20and%20a%20battle%20for%20the%20Copper%20Cup.%20An%20excerpt%20from%20a%20novel."
+ src="https://www.instapaper.com/e2?url=http%3A%2F%2Fthebaseballchronicle.com%2Ffiction%2Fbarnstormin_with_the_babe&title=Barnstormin%27%20with%20the%20Babe&description=It%27s%20late%201927.%20The%20Babe%20just%20hit%2060%2C%20Gehrig%20won%20the%20MVP%2C%20and%20the%20Yankees%20are%20on%20top%20of%20the%20world.%20The%20%22Mighty%20Swatsmen%22%20celebrate%20with%20a%20barnstorming%20tour%20and%20a%20battle%20for%20the%20Copper%20Cup.%20An%20excerpt%20from%20a%20novel."
 ></iframe></li>
 
-              <li class="printbutton"><a href="http://thebaseballchronicle.com/fiction/barnstormin_with_the_babe.print">Print</a></li>
+              <li class="printbutton"><a href="https://thebaseballchronicle.com/fiction/barnstormin_with_the_babe.print">Print</a></li>
 
-              <li class="shortlinkbutton"><a href="http://bbchron.com/go/172" title="Short link to this story">bbchron.com/go/172</a></li>
+              <li class="shortlinkbutton"><a href="https://bbchron.com/go/172" title="Short link to this story">bbchron.com/go/172</a></li>
         </ul>
 </div>
 <div id="biobox">
 	<h3>About the author</h3>
-	<p><p><strong>R. A. “Rick” Cabral</strong> is a Sacramento author and baseball historian. To read more about the famous 1927 barnstorming tour featuring the “Bustin’ Babes and Larrupin’ Lous,” visit Cabral’s website <a href="http://thepitchbook.com">ThePitchBook.com</a>. He also maintains the website <a href="http://baseballsacramento.com">BaseballSacramento.com</a>.</p>
+	<p><p><strong>R. A. “Rick” Cabral</strong> is a Sacramento author and baseball historian. To read more about the famous 1927 barnstorming tour featuring the “Bustin’ Babes and Larrupin’ Lous,” visit Cabral’s website <a href="https://thepitchbook.com">ThePitchBook.com</a>. He also maintains the website <a href="https://baseballsacramento.com">BaseballSacramento.com</a>.</p>
 </p>
 </div>
         <div class="spacer"></div>
         
         </div>
         
-        <h2 class="readmorenav"><a href="http://thebaseballchronicle.com/personal_stories/stealing_grass_from_safeco_field" title="Previous story">&#8592; Previous story</a> <span class="readmorebullet">&bull;</span> <a href="http://thebaseballchronicle.com/reporting/the_once_and_future_baseball_man" title="Next story">Next story &#8594;</a></h2>
+        <h2 class="readmorenav"><a href="https://thebaseballchronicle.com/personal_stories/stealing_grass_from_safeco_field" title="Previous story">&#8592; Previous story</a> <span class="readmorebullet">&bull;</span> <a href="https://thebaseballchronicle.com/reporting/the_once_and_future_baseball_man" title="Next story">Next story &#8594;</a></h2>
     </div>
     <div class="clear"></div>
     <div id="morestufftoread">
@@ -151,7 +151,7 @@
         
 	
 		<div class="essays">
-			<a href="http://thebaseballchronicle.com/essays/ron">
+			<a href="https://thebaseballchronicle.com/essays/ron">
 			<h3>Essays</h3>
 			<h2>Ron</h2>
 			<h4>By Todd Cosner</h4>
@@ -161,7 +161,7 @@
         
 	
 		<div class="pstories">
-			<a href="http://thebaseballchronicle.com/personal_stories/knothole">
+			<a href="https://thebaseballchronicle.com/personal_stories/knothole">
 			<h3>Personal Stories</h3>
 			<h2>The Knothole</h2>
 			<h4>By Phil Bencomo</h4>
@@ -171,7 +171,7 @@
         
         
 		<div class="poetry">
-			<a href="http://thebaseballchronicle.com/poetry/the_first_practice">
+			<a href="https://thebaseballchronicle.com/poetry/the_first_practice">
 			<h3>Poetry</h3>
 			<h2>The First Practice</h2>
 			<h4>By David S. Pointer</h4>
@@ -181,7 +181,7 @@
         
         
 		<div class="reporting">
-			<a href="http://thebaseballchronicle.com/reporting/the_once_and_future_baseball_man">
+			<a href="https://thebaseballchronicle.com/reporting/the_once_and_future_baseball_man">
 			<h3>Reporting</h3>
 			<h2>The Once and Future Baseball Man</h2>
 			<h4>By Phil Bencomo</h4>
@@ -197,11 +197,11 @@
         <div class="podcastbox">
 			<h3>Podcast</h3>
 			<ul class="playlist">
-                                <li><a href="http://thebaseballchronicle.com/podcast/Eric-Nusbaum.mp3">Eric Nusbaum (25:29)</a></li>
-				<li><a href="http://thebaseballchronicle.com/podcast/Phil-Bencomo_Shoeless-Joe.mp3">Phil Bencomo: &ldquo;Shoeless Joe&rdquo; (8:07)</a></li>
-				<li><a href="http://thebaseballchronicle.com/podcast/Josh-Wilker_George-Foster.mp3">Josh Wilker: &ldquo;George Foster&rdquo; (7:25)</a></li>
+                                <li><a href="https://thebaseballchronicle.com/podcast/Eric-Nusbaum.mp3">Eric Nusbaum (25:29)</a></li>
+				<li><a href="https://thebaseballchronicle.com/podcast/Phil-Bencomo_Shoeless-Joe.mp3">Phil Bencomo: &ldquo;Shoeless Joe&rdquo; (8:07)</a></li>
+				<li><a href="https://thebaseballchronicle.com/podcast/Josh-Wilker_George-Foster.mp3">Josh Wilker: &ldquo;George Foster&rdquo; (7:25)</a></li>
 			</ul>
-			<p><a href="/podcast">Podcast home</a> | <a href="http://itunes.apple.com/us/podcast/the-baseball-chronicle-podcast/id324323687">Subscribe in iTunes</a></p>
+			<p><a href="/podcast">Podcast home</a> | <a href="https://itunes.apple.com/us/podcast/the-baseball-chronicle-podcast/id324323687">Subscribe in iTunes</a></p>
 		</div>
                 <div class="bottomreswrap">
 		<div class="archivebox">
@@ -220,55 +220,55 @@
 		             <li><select onchange="nav(this)">
                              <option>By author...</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/al_ottens/">Al Ottens</option>
+                             <option value="https://thebaseballchronicle.com/authors/al_ottens/">Al Ottens</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/bryce_martin/">Bryce Martin</option>
+                             <option value="https://thebaseballchronicle.com/authors/bryce_martin/">Bryce Martin</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/cynthia_tyler_1/">Cynthia Tyler</option>
+                             <option value="https://thebaseballchronicle.com/authors/cynthia_tyler_1/">Cynthia Tyler</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/daniel_couch/">Daniel Couch</option>
+                             <option value="https://thebaseballchronicle.com/authors/daniel_couch/">Daniel Couch</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/dave_roulston/">Dave Roulston</option>
+                             <option value="https://thebaseballchronicle.com/authors/dave_roulston/">Dave Roulston</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/david_s_pointer/">David S. Pointer</option>
+                             <option value="https://thebaseballchronicle.com/authors/david_s_pointer/">David S. Pointer</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/dennis_feller/">Dennis Feller</option>
+                             <option value="https://thebaseballchronicle.com/authors/dennis_feller/">Dennis Feller</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/elliot_robins/">Elliot Robins</option>
+                             <option value="https://thebaseballchronicle.com/authors/elliot_robins/">Elliot Robins</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/ember_nickel/">Ember Nickel</option>
+                             <option value="https://thebaseballchronicle.com/authors/ember_nickel/">Ember Nickel</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/eric_nusbaum/">Eric Nusbaum</option>
+                             <option value="https://thebaseballchronicle.com/authors/eric_nusbaum/">Eric Nusbaum</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/jeb_stewart/">Jeb Stewart</option>
+                             <option value="https://thebaseballchronicle.com/authors/jeb_stewart/">Jeb Stewart</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/joe_benardello/">Joe Benardello</option>
+                             <option value="https://thebaseballchronicle.com/authors/joe_benardello/">Joe Benardello</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/john_bartleby/">John Bartleby</option>
+                             <option value="https://thebaseballchronicle.com/authors/john_bartleby/">John Bartleby</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/lincoln_mitchell/">Lincoln Mitchell</option>
+                             <option value="https://thebaseballchronicle.com/authors/lincoln_mitchell/">Lincoln Mitchell</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/mb_coudal/">MB Coudal</option>
+                             <option value="https://thebaseballchronicle.com/authors/mb_coudal/">MB Coudal</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/melody_blass_fisher/">Melody Blass Fisher</option>
+                             <option value="https://thebaseballchronicle.com/authors/melody_blass_fisher/">Melody Blass Fisher</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/michael_webb/">Michael Webb</option>
+                             <option value="https://thebaseballchronicle.com/authors/michael_webb/">Michael Webb</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/paul_lonardo/">Paul Lonardo</option>
+                             <option value="https://thebaseballchronicle.com/authors/paul_lonardo/">Paul Lonardo</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/phil_bencomo/">Phil Bencomo</option>
+                             <option value="https://thebaseballchronicle.com/authors/phil_bencomo/">Phil Bencomo</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/r_a_cabral/">R. A. Cabral</option>
+                             <option value="https://thebaseballchronicle.com/authors/r_a_cabral/">R. A. Cabral</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/rick_soisson/">Rick Soisson</option>
+                             <option value="https://thebaseballchronicle.com/authors/rick_soisson/">Rick Soisson</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/steve_vivona/">Steve Vivona</option>
+                             <option value="https://thebaseballchronicle.com/authors/steve_vivona/">Steve Vivona</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/todd_cosner/">Todd Cosner</option>
+                             <option value="https://thebaseballchronicle.com/authors/todd_cosner/">Todd Cosner</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/tyler_kalmakoff/">Tyler Kalmakoff</option>
+                             <option value="https://thebaseballchronicle.com/authors/tyler_kalmakoff/">Tyler Kalmakoff</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/walter_biggins/">Walter Biggins</option>
+                             <option value="https://thebaseballchronicle.com/authors/walter_biggins/">Walter Biggins</option>
                              
                              </select></li>
 			</ul>
@@ -276,41 +276,41 @@
 		             <li><select onchange="nav(this)">
                              <option>By month...</option>
                              
-                             <option value="http://thebaseballchronicle.com/2011/10/">October 2011</option>
+                             <option value="https://thebaseballchronicle.com/2011/10/">October 2011</option>
                              
-                             <option value="http://thebaseballchronicle.com/2011/09/">September 2011</option>
+                             <option value="https://thebaseballchronicle.com/2011/09/">September 2011</option>
                              
-                             <option value="http://thebaseballchronicle.com/2011/04/">April 2011</option>
+                             <option value="https://thebaseballchronicle.com/2011/04/">April 2011</option>
                              
-                             <option value="http://thebaseballchronicle.com/2011/01/">January 2011</option>
+                             <option value="https://thebaseballchronicle.com/2011/01/">January 2011</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/11/">November 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/11/">November 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/10/">October 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/10/">October 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/09/">September 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/09/">September 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/08/">August 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/08/">August 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/07/">July 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/07/">July 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/03/">March 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/03/">March 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/02/">February 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/02/">February 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/12/">December 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/12/">December 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/09/">September 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/09/">September 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/08/">August 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/08/">August 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/07/">July 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/07/">July 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/06/">June 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/06/">June 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/05/">May 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/05/">May 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/04/">April 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/04/">April 2009</option>
                              
                              </select></li>
 			</ul>
@@ -332,13 +332,13 @@
     <li><a href="/notes">Editor's Notes</a></li>
     <li><a href="/photography">Photography</a></li>
     <li><a href="/podcast">Podcast</a></li>
-    <li><a href="http://feeds2.feedburner.com/TheBaseballChronicle">RSS Feed</a></li>
-    <li><a href="http://twitter.com/bbchron">@bbchron</a></li>
+    <li><a href="https://feeds2.feedburner.com/TheBaseballChronicle">RSS Feed</a></li>
+    <li><a href="https://twitter.com/bbchron">@bbchron</a></li>
 </ul>
 <p>All content is copyrighted by The Baseball Chronicle or its contributors.</p>
     </div>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script>
 <script type="text/javascript">

@@ -3,56 +3,56 @@
 <head>
 	<meta charset="UTF-8">
 	<title>The Baseball Chronicle, an online magazine of baseball storytelling</title>
-	<link rel="stylesheet" type="text/css" href="http://thebaseballchronicle.com/css/inlineplayer.css">
-	<script type="text/javascript" src="http://thebaseballchronicle.com/scripts/soundmanager2.js"></script>
-	<script type="text/javascript" src="http://thebaseballchronicle.com/scripts/inlineplayer.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://thebaseballchronicle.com/css/inlineplayer.css">
+	<script type="text/javascript" src="https://thebaseballchronicle.com/scripts/soundmanager2.js"></script>
+	<script type="text/javascript" src="https://thebaseballchronicle.com/scripts/inlineplayer.js"></script>
 	<script type="text/javascript">
-	soundManager.url = 'http://thebaseballchronicle.com/swf/';
+	soundManager.url = 'https://thebaseballchronicle.com/swf/';
 	soundManager.flashVersion = 8; // optional: shiny features (default = 8)
 	soundManager.useFlashBlock = false; // optionally, enable when you're ready to dive in
 	soundManager.debugMode = false;
 	</script>
-        <script type="text/javascript" src="http://thebaseballchronicle.com/mt.js"></script>
+        <script type="text/javascript" src="https://thebaseballchronicle.com/mt.js"></script>
 	<style>
 	
 	@font-face {
 		font-family: LeagueGothicRegular;
-		src: url('http://thebaseballchronicle.com/fonts/league_gothic-webfont.eot');
+		src: url('https://thebaseballchronicle.com/fonts/league_gothic-webfont.eot');
 		font-weight: normal;
 		font-style: normal;
 	}
 
 	@font-face {
 		font-family: LeagueGothicRegular;
-		src: url(//:) format('no404'), url('http://thebaseballchronicle.com/fonts/league_gothic-webfont.woff') format('woff'), url('http://thebaseballchronicle.com/fonts/league_gothic-webfont.ttf') format('truetype'), url('http://thebaseballchronicle.com/fonts/league_gothic-webfont.svg#webfontRRXt4RQN') format('svg');
+		src: url(//:) format('no404'), url('https://thebaseballchronicle.com/fonts/league_gothic-webfont.woff') format('woff'), url('https://thebaseballchronicle.com/fonts/league_gothic-webfont.ttf') format('truetype'), url('https://thebaseballchronicle.com/fonts/league_gothic-webfont.svg#webfontRRXt4RQN') format('svg');
 		font-weight: normal;
 		font-style: normal;
 	}
 	
 	@font-face {
 		font-family: OFLSortsMillGoudyRegular;
-		src: url('http://thebaseballchronicle.com/fonts/oflgoudystm-webfont.eot');
+		src: url('https://thebaseballchronicle.com/fonts/oflgoudystm-webfont.eot');
 		font-weight: normal;
 		font-style: normal;
 	}
 
 	@font-face {
 		font-family: OFLSortsMillGoudyRegular;
-		src: url(//:) format('no404'), url('http://thebaseballchronicle.com/fonts/oflgoudystm-webfont.woff') format('woff'), url('http://thebaseballchronicle.com/fonts/oflgoudystm-webfont.ttf') format('truetype'), url('http://thebaseballchronicle.com/fonts/oflgoudystm-webfont.svg#webfontLEfFEKeH') format('svg');
+		src: url(//:) format('no404'), url('https://thebaseballchronicle.com/fonts/oflgoudystm-webfont.woff') format('woff'), url('https://thebaseballchronicle.com/fonts/oflgoudystm-webfont.ttf') format('truetype'), url('https://thebaseballchronicle.com/fonts/oflgoudystm-webfont.svg#webfontLEfFEKeH') format('svg');
 		font-weight: normal;
 		font-style: normal;
 	}
 	
 	@font-face {
 		font-family: OFLSortsMillGoudyRegular;
-		src: url('http://thebaseballchronicle.com/fonts/oflgoudystm-italic-webfont.eot');
+		src: url('https://thebaseballchronicle.com/fonts/oflgoudystm-italic-webfont.eot');
 		font-weight: normal;
 		font-style: italic;
 	}
 
 	@font-face {
 		font-family: OFLSortsMillGoudyRegular;
-		src: url(//:) format('no404'), url('http://thebaseballchronicle.com/fonts/oflgoudystm-italic-webfont.woff') format('woff'), url('http://thebaseballchronicle.com/fonts/oflgoudystm-italic-webfont.ttf') format('truetype'), url('http://thebaseballchronicle.com/fonts/oflgoudystm-italic-webfont.svg#webfontDTTPz3S8') format('svg');
+		src: url(//:) format('no404'), url('https://thebaseballchronicle.com/fonts/oflgoudystm-italic-webfont.woff') format('woff'), url('https://thebaseballchronicle.com/fonts/oflgoudystm-italic-webfont.ttf') format('truetype'), url('https://thebaseballchronicle.com/fonts/oflgoudystm-italic-webfont.svg#webfontDTTPz3S8') format('svg');
 		font-weight: normal;
 		font-style: italic;
 	}
@@ -700,15 +700,15 @@
 	</div>
 	<div id="randomoldies">
         <?php
-include_once("http://thebaseballchronicle.com/scripts/GetRandomEssay.php");
-$MPTextFile = "http://thebaseballchronicle.com/scripts/essaypicks.txt";
+include_once("https://thebaseballchronicle.com/scripts/GetRandomEssay.php");
+$MPTextFile = "https://thebaseballchronicle.com/scripts/essaypicks.txt";
 $MPSepString = "*divider*";
 $MPTextToHTML = false;
 MPPrintRandomText($MPTextFile, $MPSepString, $MPTextToHTML);
 ?>
         
 		<div class="pstories">
-			<a href="http://thebaseballchronicle.com/personal_stories/stealing_grass_from_safeco_field">
+			<a href="https://thebaseballchronicle.com/personal_stories/stealing_grass_from_safeco_field">
 			<h3>Personal Stories</h3>
 			<h2>Stealing Grass from Safeco Field</h2>
 			<h4>By Elliot Robins</h4>
@@ -718,7 +718,7 @@ MPPrintRandomText($MPTextFile, $MPSepString, $MPTextToHTML);
         
         
 		<div class="poetry">
-			<a href="http://thebaseballchronicle.com/poetry/yeah_so">
+			<a href="https://thebaseballchronicle.com/poetry/yeah_so">
 			<h3>Poetry</h3>
 			<h2>Yeah? So?</h2>
 			<h4>By Ember Nickel</h4>
@@ -728,7 +728,7 @@ MPPrintRandomText($MPTextFile, $MPSepString, $MPTextToHTML);
         
         
 		<div class="fiction">
-			<a href="http://thebaseballchronicle.com/fiction/barnstormin_with_the_babe">
+			<a href="https://thebaseballchronicle.com/fiction/barnstormin_with_the_babe">
 			<h3>Fiction</h3>
 			<h2>Barnstormin' with the Babe</h2>
 			<h4>By R. A. Cabral</h4>
@@ -740,16 +740,16 @@ MPPrintRandomText($MPTextFile, $MPSepString, $MPTextToHTML);
 	<div class="spacer"></div>
 	<div id="photos">
 		<h3>Photography</h3>
-		<a href="/photography"><img style="width:760px;" src="http://thebaseballchronicle.com/photography/images/021910_redsky_940.jpg"></a>
+		<a href="/photography"><img style="width:760px;" src="https://thebaseballchronicle.com/photography/images/021910_redsky_940.jpg"></a>
 		<p>Photo credit goes here</p>
 	</div>
 	<div id="bottomboxes">
 		<div class="podcastbox">
 			<h3>Podcast</h3>
 			<ul class="graphic">
-				<li><a href="http://media.libsyn.com/media/bbchron/Phil_Bencomo___Shoeless_Joe_.mp3">Phil Bencomo: "Shoeless Joe" (8:07)</a></li>
-				<li><a href="http://media.libsyn.com/media/bbchron/Josh_Wilker.mp3">Josh Wilker: "George Foster" (7:25)</a></li>
-				<li><a href="http://media.libsyn.com/media/bbchron/Marty_Appel.mp3">Marty Appel (18:42)</a></li>
+				<li><a href="https://media.libsyn.com/media/bbchron/Phil_Bencomo___Shoeless_Joe_.mp3">Phil Bencomo: "Shoeless Joe" (8:07)</a></li>
+				<li><a href="https://media.libsyn.com/media/bbchron/Josh_Wilker.mp3">Josh Wilker: "George Foster" (7:25)</a></li>
+				<li><a href="https://media.libsyn.com/media/bbchron/Marty_Appel.mp3">Marty Appel (18:42)</a></li>
 			</ul>
 			<p><a href="/podcast">Podcast home</a> | <a href="/">Subscribe in iTunes</a></p>
 		</div>
@@ -769,39 +769,39 @@ MPPrintRandomText($MPTextFile, $MPSepString, $MPTextToHTML);
 		             <li><select onchange="nav(this)">
                              <option>By author...</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/al_ottens/">Al Ottens</option>
+                             <option value="https://thebaseballchronicle.com/authors/al_ottens/">Al Ottens</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/cynthia_tyler_1/">Cynthia Tyler</option>
+                             <option value="https://thebaseballchronicle.com/authors/cynthia_tyler_1/">Cynthia Tyler</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/dave_roulston/">Dave Roulston</option>
+                             <option value="https://thebaseballchronicle.com/authors/dave_roulston/">Dave Roulston</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/dennis_feller/">Dennis Feller</option>
+                             <option value="https://thebaseballchronicle.com/authors/dennis_feller/">Dennis Feller</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/elliot_robins/">Elliot Robins</option>
+                             <option value="https://thebaseballchronicle.com/authors/elliot_robins/">Elliot Robins</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/ember_nickel/">Ember Nickel</option>
+                             <option value="https://thebaseballchronicle.com/authors/ember_nickel/">Ember Nickel</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/eric_nusbaum/">Eric Nusbaum</option>
+                             <option value="https://thebaseballchronicle.com/authors/eric_nusbaum/">Eric Nusbaum</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/jeb_stewart/">Jeb Stewart</option>
+                             <option value="https://thebaseballchronicle.com/authors/jeb_stewart/">Jeb Stewart</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/joe_benardello/">Joe Benardello</option>
+                             <option value="https://thebaseballchronicle.com/authors/joe_benardello/">Joe Benardello</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/john_bartleby/">John Bartleby</option>
+                             <option value="https://thebaseballchronicle.com/authors/john_bartleby/">John Bartleby</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/lincoln_mitchell/">Lincoln Mitchell</option>
+                             <option value="https://thebaseballchronicle.com/authors/lincoln_mitchell/">Lincoln Mitchell</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/melody_blass_fisher/">Melody Blass Fisher</option>
+                             <option value="https://thebaseballchronicle.com/authors/melody_blass_fisher/">Melody Blass Fisher</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/michael_webb/">Michael Webb</option>
+                             <option value="https://thebaseballchronicle.com/authors/michael_webb/">Michael Webb</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/r_a_cabral/">R. A. Cabral</option>
+                             <option value="https://thebaseballchronicle.com/authors/r_a_cabral/">R. A. Cabral</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/rick_soisson/">Rick Soisson</option>
+                             <option value="https://thebaseballchronicle.com/authors/rick_soisson/">Rick Soisson</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/steve_vivona/">Steve Vivona</option>
+                             <option value="https://thebaseballchronicle.com/authors/steve_vivona/">Steve Vivona</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/walter_biggins/">Walter Biggins</option>
+                             <option value="https://thebaseballchronicle.com/authors/walter_biggins/">Walter Biggins</option>
                              
                              </select></li>
 			</ul>
@@ -809,23 +809,23 @@ MPPrintRandomText($MPTextFile, $MPSepString, $MPTextToHTML);
 		             <li><select onchange="nav(this)">
                              <option>By month...</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/03/">March 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/03/">March 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/02/">February 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/02/">February 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/12/">December 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/12/">December 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/09/">September 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/09/">September 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/08/">August 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/08/">August 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/07/">July 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/07/">July 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/06/">June 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/06/">June 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/05/">May 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/05/">May 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/04/">April 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/04/">April 2009</option>
                              
                              </select></li>
 			</ul>
@@ -844,7 +844,7 @@ MPPrintRandomText($MPTextFile, $MPSepString, $MPTextToHTML);
 			<li><a href="/submissions">Submissions</a></li>
 			<li><a href="/archive">Archive</a></li>
 			<li><a href="/notes">Editor's Notes</a></li>
-			<li><a href="http://feeds2.feedburner.com/TheBaseballChronicle">RSS Feed</a></li>
+			<li><a href="https://feeds2.feedburner.com/TheBaseballChronicle">RSS Feed</a></li>
 		</ul>
 		<p>All content is copyrighted by The Baseball Chronicle or its contributors.</p>
 	</div>

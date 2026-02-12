@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="https://www.w3.org/2005/Atom">
     <title>Podcast</title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/podcast/" />
-    <link rel="self" type="application/atom+xml" href="http://thebaseballchronicle.com/podcast/atom.xml" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/podcast/" />
+    <link rel="self" type="application/atom+xml" href="https://thebaseballchronicle.com/podcast/atom.xml" />
     <id>tag:thebaseballchronicle.com,2009-07-16:/podcast/7</id>
     <updated>2012-02-05T17:30:33Z</updated>
     
-    <generator uri="http://www.sixapart.com/movabletype/">Movable Type Pro 4.23-en</generator>
+    <generator uri="https://www.sixapart.com/movabletype/">Movable Type Pro 4.23-en</generator>
 
 <entry>
     <title>Eric Nusbaum</title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/podcast/2011/01/eric_nusbaum" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/podcast/2011/01/eric_nusbaum" />
     <id>tag:thebaseballchronicle.com,2011:/podcast//7.189</id>
 
     <published>2011-01-27T02:35:56Z</published>
@@ -23,13 +23,13 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://thebaseballchronicle.com/podcast/">
-        <![CDATA[<p>Eric Nusbaum of <a href="http://pitchersandpoets.com">Pitchers and Poets</a> talks sportswriting and P&amp;P.</p>
+    <content type="html" xml:lang="en" xml:base="https://thebaseballchronicle.com/podcast/">
+        <![CDATA[<p>Eric Nusbaum of <a href="https://pitchersandpoets.com">Pitchers and Poets</a> talks sportswriting and P&amp;P.</p>
 
-<p><a href="http://thebaseballchronicle.com/podcast/Eric-Nusbaum.mp3">Right-click and save to download the episode</a> or <a href="http://itunes.apple.com/podcast/the-baseball-chronicle/id324323687">subscribe in iTunes</a>.</p>
+<p><a href="https://thebaseballchronicle.com/podcast/Eric-Nusbaum.mp3">Right-click and save to download the episode</a> or <a href="https://itunes.apple.com/podcast/the-baseball-chronicle/id324323687">subscribe in iTunes</a>.</p>
 
 <ul class="playlist">
-                                <li><a href="http://thebaseballchronicle.com/podcast/Eric-Nusbaum.mp3">Eric Nusbaum (25:29)</a></li>
+                                <li><a href="https://thebaseballchronicle.com/podcast/Eric-Nusbaum.mp3">Eric Nusbaum (25:29)</a></li>
 </ul>
 ]]>
         
@@ -39,7 +39,7 @@
 
 <entry>
     <title><![CDATA[Phil Bencomo: &ldquo;Shoeless Joe"]]></title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/podcast/2009/09/phil_bencomo_shoeless_joe" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/podcast/2009/09/phil_bencomo_shoeless_joe" />
     <id>tag:thebaseballchronicle.com,2009:/podcast//7.150</id>
 
     <published>2009-09-16T18:33:33Z</published>
@@ -52,18 +52,18 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://thebaseballchronicle.com/podcast/">
+    <content type="html" xml:lang="en" xml:base="https://thebaseballchronicle.com/podcast/">
         <![CDATA[<p>Phil Bencomo&#8217;s essay about reading W.P. Kinsella&#8217;s &#8220;Shoeless Joe&#8221; on an ill-fated family road trip.</p>
 
-<p>This essay was published in written form at <a href="http://pitchersandpoets.com/2009/09/09/shoeless-joe/">Pitchers and Poets</a>.</p>
+<p>This essay was published in written form at <a href="https://pitchersandpoets.com/2009/09/09/shoeless-joe/">Pitchers and Poets</a>.</p>
 
-<p>Music by the <a href="http://magnatune.com/artists/ejp">Eternal Jazz Project</a> and <a href="http://magnatune.com/artists/chris_juergensen">Chris Juergensen</a>, used per a Creative Commons license.</p>
+<p>Music by the <a href="https://magnatune.com/artists/ejp">Eternal Jazz Project</a> and <a href="https://magnatune.com/artists/chris_juergensen">Chris Juergensen</a>, used per a Creative Commons license.</p>
 
 <ul class="playlist">
-                <li><a href="http://thebaseballchronicle.com/podcast/Phil-Bencomo_Shoeless-Joe.mp3">Phil Bencomo: &ldquo;Shoeless Joe&rdquo; (8:07)</a></li>
+                <li><a href="https://thebaseballchronicle.com/podcast/Phil-Bencomo_Shoeless-Joe.mp3">Phil Bencomo: &ldquo;Shoeless Joe&rdquo; (8:07)</a></li>
 </ul>
 
-<p><a href="http://thebaseballchronicle.com/podcast/Phil-Bencomo_Shoeless-Joe.mp3">Download the show</a></p>
+<p><a href="https://thebaseballchronicle.com/podcast/Phil-Bencomo_Shoeless-Joe.mp3">Download the show</a></p>
 ]]>
         
 
@@ -72,7 +72,7 @@
 
 <entry>
     <title><![CDATA[Josh Wilker: &ldquo;George Foster"]]></title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/podcast/2009/08/josh_wilker_george_foster" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/podcast/2009/08/josh_wilker_george_foster" />
     <id>tag:thebaseballchronicle.com,2009:/podcast//7.136</id>
 
     <published>2009-08-18T15:38:55Z</published>
@@ -85,16 +85,16 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://thebaseballchronicle.com/podcast/">
+    <content type="html" xml:lang="en" xml:base="https://thebaseballchronicle.com/podcast/">
         <![CDATA[<p>Josh Wilker reads an essay remembering his childhood in Vermont and his 1978 George Foster card.</p>
 
-<p>Wilker writes about his life as seen through 1970s baseball cards at <a href="http://cardboardgods.net">CardboardGods.net</a>.</p>
+<p>Wilker writes about his life as seen through 1970s baseball cards at <a href="https://cardboardgods.net">CardboardGods.net</a>.</p>
 
 <ul class="playlist">
-                <li><a href="http://thebaseballchronicle.com/podcast/Josh-Wilker_George-Foster.mp3">Josh Wilker: &ldquo;George Foster&rdquo; (7:25)</a></li>
+                <li><a href="https://thebaseballchronicle.com/podcast/Josh-Wilker_George-Foster.mp3">Josh Wilker: &ldquo;George Foster&rdquo; (7:25)</a></li>
 </ul>
 
-<p><a href="http://thebaseballchronicle.com/podcast/Josh-Wilker_George-Foster.mp3">Download the show</a></p>
+<p><a href="https://thebaseballchronicle.com/podcast/Josh-Wilker_George-Foster.mp3">Download the show</a></p>
 ]]>
         
 
@@ -103,7 +103,7 @@
 
 <entry>
     <title>Marty Appel</title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/podcast/2009/07/marty_appel" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/podcast/2009/07/marty_appel" />
     <id>tag:thebaseballchronicle.com,2009:/podcast//7.116</id>
 
     <published>2009-07-17T18:05:21Z</published>
@@ -116,14 +116,14 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://thebaseballchronicle.com/podcast/">
-        <![CDATA[<p>In the very first podcast for The Baseball Chronicle, host Phil Bencomo talks with author Marty Appel about his new book, <a href="http://www.amazon.com/Munson-Life-Death-Yankee-Captain/dp/0385522312/">&#8220;Munson: The Life and Death of a Yankee Captain.&#8221;</a></p>
+    <content type="html" xml:lang="en" xml:base="https://thebaseballchronicle.com/podcast/">
+        <![CDATA[<p>In the very first podcast for The Baseball Chronicle, host Phil Bencomo talks with author Marty Appel about his new book, <a href="https://www.amazon.com/Munson-Life-Death-Yankee-Captain/dp/0385522312/">&#8220;Munson: The Life and Death of a Yankee Captain.&#8221;</a></p>
 
 <ul class="playlist">
-                <li><a href="http://thebaseballchronicle.com/podcast/Marty-Appel.mp3">Marty Appel (18:42)</a></li>
+                <li><a href="https://thebaseballchronicle.com/podcast/Marty-Appel.mp3">Marty Appel (18:42)</a></li>
 </ul>
 
-<p><a href="http://thebaseballchronicle.com/podcast/Marty-Appel.mp3">Download the show</a></p>
+<p><a href="https://thebaseballchronicle.com/podcast/Marty-Appel.mp3">Download the show</a></p>
 ]]>
         
 

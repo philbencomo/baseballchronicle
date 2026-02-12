@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width; initial-scale=1.0">
-        <link rel="stylesheet" type="text/css" href="http://thebaseballchronicle.com/css/bbchron-v2-base.css">
-	<link rel="stylesheet" type="text/css" href="http://thebaseballchronicle.com/css/page-player.css">
+        <link rel="stylesheet" type="text/css" href="https://thebaseballchronicle.com/css/bbchron-v2-base.css">
+	<link rel="stylesheet" type="text/css" href="https://thebaseballchronicle.com/css/page-player.css">
         <!--[if lt IE 9]>
       <style>
            body p, body li {
@@ -25,29 +25,29 @@
           }
       </style>
 <![endif]-->
-        <link rel="alternate" type="application/rss+xml" title="Recent Entries" href="http://feeds2.feedburner.com/TheBaseballChronicle">
+        <link rel="alternate" type="application/rss+xml" title="Recent Entries" href="https://feeds2.feedburner.com/TheBaseballChronicle">
         <link rel="Shortcut Icon" href="/images/favicon.ico" type="image/x-icon">
-	<script type="text/javascript" src="http://thebaseballchronicle.com/scripts/soundmanager2.js"></script>
+	<script type="text/javascript" src="https://thebaseballchronicle.com/scripts/soundmanager2.js"></script>
 	<script type="text/javascript">
-	soundManager.url = 'http://thebaseballchronicle.com/swf/';
+	soundManager.url = 'https://thebaseballchronicle.com/swf/';
 	soundManager.flashVersion = 8; // optional: shiny features (default = 8)
 	soundManager.useFlashBlock = false; // optionally, enable when you're ready to dive in
 	soundManager.debugMode = false;
 	</script>
-        <script type="text/javascript" src="http://thebaseballchronicle.com/scripts/page-player.js"></script>
-        <script type="text/javascript" src="http://thebaseballchronicle.com/scripts/jquery-1.4.4.min.js"></script>
-        <script type="text/javascript" src="http://thebaseballchronicle.com/scripts/jquery.masonry.min.js"></script>
-        <script type="text/javascript" src="http://thebaseballchronicle.com/mt.js"></script>
+        <script type="text/javascript" src="https://thebaseballchronicle.com/scripts/page-player.js"></script>
+        <script type="text/javascript" src="https://thebaseballchronicle.com/scripts/jquery-1.4.4.min.js"></script>
+        <script type="text/javascript" src="https://thebaseballchronicle.com/scripts/jquery.masonry.min.js"></script>
+        <script type="text/javascript" src="https://thebaseballchronicle.com/mt.js"></script>
 
-    <script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=34a5f2aa-41a6-4010-8034-578840caf710&amp;type=website&amp;post_services=email&amp;button=false"></script>
-    <link rel="shortlink" href="http://bbchron.com/go/135">
-    <link rel="stylesheet" type="text/css" href="http://thebaseballchronicle.com/css/response_to_bill_james.css">
+    <script type="text/javascript" src="https://w.sharethis.com/button/sharethis.js#publisher=34a5f2aa-41a6-4010-8034-578840caf710&amp;type=website&amp;post_services=email&amp;button=false"></script>
+    <link rel="shortlink" href="https://bbchron.com/go/135">
+    <link rel="stylesheet" type="text/css" href="https://thebaseballchronicle.com/css/response_to_bill_james.css">
     <title>A Response to Bill James' &amp;ldquo;Cooperstown and the 'Roids&quot; | The Baseball Chronicle</title>
 </head>
 <body>
     <div id="entryheader">
         <h1><a href="/">The Baseball Chronicle</a></h1>
-        <h2><span class="entryprev"><a href="http://thebaseballchronicle.com/personal_stories/50_years_a_cubs_fan_part_three" title="Previous story">&#8592;</a></span> <a href="http://thebaseballchronicle.com/essays/">Essays</a>, August 2009 <span class="entrynext"><a href="http://thebaseballchronicle.com/fiction/the_real_baseball_hall_of_fame" title="Next story">&#8594;</a></span</h2>
+        <h2><span class="entryprev"><a href="https://thebaseballchronicle.com/personal_stories/50_years_a_cubs_fan_part_three" title="Previous story">&#8592;</a></span> <a href="https://thebaseballchronicle.com/essays/">Essays</a>, August 2009 <span class="entrynext"><a href="https://thebaseballchronicle.com/fiction/the_real_baseball_hall_of_fame" title="Next story">&#8594;</a></span</h2>
     </div>
     <div id="articlebody">
         
@@ -75,7 +75,7 @@ McCracken, who developed Defense Independent Pitching Statistics.<sup id="fn1"><
 about players whose careers were cut short by injuries).<sup id="fn3"><a href="#3">3</a></sup></p></li>
 </ul>
 
-<p>As a fan of Bill James, I have long been interested in reading what he thinks about the subject of steroids. Accordingly, when I learned that he had written &#8220;Cooperstown and the &#8216;Roids,&#8221; I excitedly downloaded <a href="http://www.actapublications.com/images/small/PressReleases/Cooperstownandthe%27Roids_F2.pdf">the article</a> (PDF) from the ACTA website and began reading.</p>
+<p>As a fan of Bill James, I have long been interested in reading what he thinks about the subject of steroids. Accordingly, when I learned that he had written &#8220;Cooperstown and the &#8216;Roids,&#8221; I excitedly downloaded <a href="https://www.actapublications.com/images/small/PressReleases/Cooperstownandthe%27Roids_F2.pdf">the article</a> (PDF) from the ACTA website and began reading.</p>
 
 <p>My excitement turned to numbing disappointment as I read the article, however. Not only does the article contain rambling and frequently disconnected arguments, but it actually contains a number of false premises and illogical conclusions. The most glaringly inaccurate claim by James is that <em>steroids keep a player young</em>. James writes:</p>
 
@@ -158,13 +158,13 @@ Bonds was the best player in the NL and probably all of baseball, and even made 
 <div class="fns">
 <hr />
 <ol>
-    <li id="1">For James&#8217; discussion of McCracken&#8217;s Theory, see Bill James, <a href="http://www.amazon.com/Bill-James-Historical-Baseball-Abstract/dp/0743227220/"><em>The New Bill  James Historical Baseball Abstract</em></a>, pp. 885-888 (2001).<a href="#fn1" title="Jump back to place in text">&#x2191;</a></li>
-    <li id="2">Bill James, <a href="http://www.amazon.com/Win-Shares-Bill-James/dp/1931584036/"><em>Win Shares</em></a>, p. 8 (2002) (Emphasis supplied).<a href="#fn2" title="Jump back to place in text">&#x2191;</a></li>
-    <li id="3">&#8220;Players in most cases have to be evaluated by what they actually did, not by what they would have done or might have done.&#8221; Bill James, <a href="http://www.amazon.com/Whatever-Happened-Hall-Fame-James/dp/0684800888/"><em>Whatever Happened to the Hall of Fame</em></a>, p. 341 (1995) (discussing Thurman Munson&#8217;s Hall of Fame candidacy).<a href="#fn3" title="Jump back to place in text">&#x2191;</a></li>
-    <li id="4">Allan Barra, <a href="http://www.amazon.com/Brushbacks-Knockdowns-Greatest-Baseball-Centuries/dp/0312322488/"><em>Brushbacks and Knockdowns: The Greatest Baseball Debates of Two Centuries</em></a>, p. 265 (2004). Of course, the weight gain does not tell the entire story of Bonds&#8217; dramatic rise in home runs. Rather, &#8220;[i]n 2002, when Bonds&#8217; weight was reported to be 228, Greg Anderson [Bonds&#8217; trainer] told the New York Times Magazine that Bonds&#8217; body fat was even lower [than his previous low of 8 percent]: 6.2 percent.&#8221; See Mark Fainaru-Wadu and Lance Williams, <a href="http://www.amazon.com/Game-Shadows-Steroids-Scandal-Professional/dp/B002HRELGI/"><em>Game of Shadows</em></a>, pp. 274-275 (2006).<a href="#fn4" title="Jump back to place in text">&#x2191;</a></li>
-    <li id="5">I am not arguing or even suggesting that the election of Bill Mazeroski was a mistake, or that he should not be a Hall of Fame member. However, it is virtually undisputed that the Veterans Committee&#8217;s voting process was changed as a reaction to the election of Maz to the Hall. See <a href="http://quicktime.cnnsi.com/baseball/mlb/news/2001/08/06/hall_changes_ap/">here</a><a href="#fn5" title="Jump back to place in text">&#x2191;</a></li>
+    <li id="1">For James&#8217; discussion of McCracken&#8217;s Theory, see Bill James, <a href="https://www.amazon.com/Bill-James-Historical-Baseball-Abstract/dp/0743227220/"><em>The New Bill  James Historical Baseball Abstract</em></a>, pp. 885-888 (2001).<a href="#fn1" title="Jump back to place in text">&#x2191;</a></li>
+    <li id="2">Bill James, <a href="https://www.amazon.com/Win-Shares-Bill-James/dp/1931584036/"><em>Win Shares</em></a>, p. 8 (2002) (Emphasis supplied).<a href="#fn2" title="Jump back to place in text">&#x2191;</a></li>
+    <li id="3">&#8220;Players in most cases have to be evaluated by what they actually did, not by what they would have done or might have done.&#8221; Bill James, <a href="https://www.amazon.com/Whatever-Happened-Hall-Fame-James/dp/0684800888/"><em>Whatever Happened to the Hall of Fame</em></a>, p. 341 (1995) (discussing Thurman Munson&#8217;s Hall of Fame candidacy).<a href="#fn3" title="Jump back to place in text">&#x2191;</a></li>
+    <li id="4">Allan Barra, <a href="https://www.amazon.com/Brushbacks-Knockdowns-Greatest-Baseball-Centuries/dp/0312322488/"><em>Brushbacks and Knockdowns: The Greatest Baseball Debates of Two Centuries</em></a>, p. 265 (2004). Of course, the weight gain does not tell the entire story of Bonds&#8217; dramatic rise in home runs. Rather, &#8220;[i]n 2002, when Bonds&#8217; weight was reported to be 228, Greg Anderson [Bonds&#8217; trainer] told the New York Times Magazine that Bonds&#8217; body fat was even lower [than his previous low of 8 percent]: 6.2 percent.&#8221; See Mark Fainaru-Wadu and Lance Williams, <a href="https://www.amazon.com/Game-Shadows-Steroids-Scandal-Professional/dp/B002HRELGI/"><em>Game of Shadows</em></a>, pp. 274-275 (2006).<a href="#fn4" title="Jump back to place in text">&#x2191;</a></li>
+    <li id="5">I am not arguing or even suggesting that the election of Bill Mazeroski was a mistake, or that he should not be a Hall of Fame member. However, it is virtually undisputed that the Veterans Committee&#8217;s voting process was changed as a reaction to the election of Maz to the Hall. See <a href="https://quicktime.cnnsi.com/baseball/mlb/news/2001/08/06/hall_changes_ap/">here</a><a href="#fn5" title="Jump back to place in text">&#x2191;</a></li>
     <li id="6">In contrast, I would argue that banning the eight members of the Black Sox has had the intended punitive effect of deterring players from accepting money from gamblers to throw games. Perhaps banning PED users from Hall of Fame admittance might deter players from using PEDs.<a href="#fn6" title="Jump back to place in text">&#x2191;</a></li>
-    <li id="7">See &#8220;<a href="http://files.mlb.com/mitchrpt.pdf">The Mitchell Report</a>,&#8221; (PDF) p. 41 (2007) (&#8220;Vincent was the first Commissioner to expressly include anabolic steroids among the substances prohibited under baseball&#8217;s drug policy, which he did in the June 1991 version of the memorandum.&#8221;). The Mitchell Report also proposes that, by implication, steroids were banned as early as 1988, through the passage of federal law concerning steroids distribution without a valid prescription. See Id. at 18-19.<a href="#fn7" title="Jump back to place in text">&#x2191;</a></li>
+    <li id="7">See &#8220;<a href="https://files.mlb.com/mitchrpt.pdf">The Mitchell Report</a>,&#8221; (PDF) p. 41 (2007) (&#8220;Vincent was the first Commissioner to expressly include anabolic steroids among the substances prohibited under baseball&#8217;s drug policy, which he did in the June 1991 version of the memorandum.&#8221;). The Mitchell Report also proposes that, by implication, steroids were banned as early as 1988, through the passage of federal law concerning steroids distribution without a valid prescription. See Id. at 18-19.<a href="#fn7" title="Jump back to place in text">&#x2191;</a></li>
     <li id="8">James criticizes &#8220;the commissioner&#8217;s periodic spasms of self-righteousness.&#8221; Bill James, &#8220;Cooperstown and the &#8216;Roids&#8221;, p. 4 (2009). However, he offers no criticism of an apparent conflict of interest by the author of &#8220;The Mitchell Report.&#8221; This is not surprising, given the fact that James is, himself, the Senior Advisor on Baseball Operations for the Boston Red Sox.<a href="#fn8" title="Jump back to place in text">&#x2191;</a></li>
     <li id="9">See &#8220;Anabolic Steroids Control Act of 1990,&#8221; Pub. L. No. 101-647, Sec. 1902, 104 Stat. 4851 (1990) (amending 21 U.S.C. 812(c) (1981).<a href="#fn9" title="Jump back to place in text">&#x2191;</a></li>
 </ol>
@@ -174,26 +174,26 @@ Bonds was the best player in the NL and probably all of baseball, and even made 
         <div id="sharebox">
 	<h3>Share & Save</h3>
         <ul>
-              <li><script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+              <li><script src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
                        <div>
-                            <a href="http://twitter.com/share" class="twitter-share-button"
-                            data-url="http://bbchron.com/go/135"
-                            data-counturl="http://thebaseballchronicle.com/essays/response_to_bill_james"
+                            <a href="https://twitter.com/share" class="twitter-share-button"
+                            data-url="https://bbchron.com/go/135"
+                            data-counturl="https://thebaseballchronicle.com/essays/response_to_bill_james"
                             data-count="horizontal"
                             data-via="bbchron"
                             data-text="Essays: A Response to Bill James' &ldquo;Cooperstown and the 'Roids", by Jeb Stewart:">Tweet</a>
 </div></li>
 
-              <li class="facebookbutton"><iframe src="http://www.facebook.com/plugins/like.php?href=http://thebaseballchronicle.com/essays/response_to_bill_james&amp;layout=button_count&amp;show_faces=true&amp;width=150&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" allowTransparency="true"></iframe></li>
+              <li class="facebookbutton"><iframe src="https://www.facebook.com/plugins/like.php?href=https://thebaseballchronicle.com/essays/response_to_bill_james&amp;layout=button_count&amp;show_faces=true&amp;width=150&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" allowTransparency="true"></iframe></li>
 
               <li class="instapaperbutton"><iframe border="0" scrolling="no" width="78" height="17" allowtransparency="true" frameborder="0"
  style="margin-bottom: -3px; z-index: 1338; border: 0px; background-color: transparent; overflow: hidden;"
- src="http://www.instapaper.com/e2?url=http%3A%2F%2Fthebaseballchronicle.com%2Fessays%2Fresponse_to_bill_james&title=A%20Response%20to%20Bill%20James%27%20%26ldquo%3BCooperstown%20and%20the%20%27Roids%22&description=Last%20July%2C%20Bill%20James%20published%20an%20essay%20of%20his%20thoughts%20on%20steroid%20use%20and%20baseball%27s%20Hall%20of%20Fame.%20Ultimately%2C%20James%20concluded%2C%20steroid%20users%20of%20recent%20decades%20will%20not%20only%20be%20enshrined%2C%20but%20also%20hailed%20as%20%22pioneers.%22%20But%20James%27%20arguments%20are%20less%20than%20convincing."
+ src="https://www.instapaper.com/e2?url=http%3A%2F%2Fthebaseballchronicle.com%2Fessays%2Fresponse_to_bill_james&title=A%20Response%20to%20Bill%20James%27%20%26ldquo%3BCooperstown%20and%20the%20%27Roids%22&description=Last%20July%2C%20Bill%20James%20published%20an%20essay%20of%20his%20thoughts%20on%20steroid%20use%20and%20baseball%27s%20Hall%20of%20Fame.%20Ultimately%2C%20James%20concluded%2C%20steroid%20users%20of%20recent%20decades%20will%20not%20only%20be%20enshrined%2C%20but%20also%20hailed%20as%20%22pioneers.%22%20But%20James%27%20arguments%20are%20less%20than%20convincing."
 ></iframe></li>
 
-              <li class="printbutton"><a href="http://thebaseballchronicle.com/essays/response_to_bill_james.print">Print</a></li>
+              <li class="printbutton"><a href="https://thebaseballchronicle.com/essays/response_to_bill_james.print">Print</a></li>
 
-              <li class="shortlinkbutton"><a href="http://bbchron.com/go/135" title="Short link to this story">bbchron.com/go/135</a></li>
+              <li class="shortlinkbutton"><a href="https://bbchron.com/go/135" title="Short link to this story">bbchron.com/go/135</a></li>
         </ul>
 </div>
 <div id="biobox">
@@ -212,7 +212,7 @@ Bonds was the best player in the NL and probably all of baseball, and even made 
         
         <div class="comments-content">
             <div id="comment-53" class="comment">
-                <p><strong>Bob Rambo, <a href="http://thebaseballchronicle.com/essays/response_to_bill_james#comment-53" title="Comment permalink">Aug 17, 2009</a></strong></p>
+                <p><strong>Bob Rambo, <a href="https://thebaseballchronicle.com/essays/response_to_bill_james#comment-53" title="Comment permalink">Aug 17, 2009</a></strong></p>
                 <p>Mr. Stewart,</p>
 
 <p>I believe you have missed the overall purpose of Mr. James' article.  He was not attempting a statistical research approach but instead was presenting his view of human nature.  In no way was he giving a pass to steroid users.  He indicated this position several times throughout the article.  He simply provides a very likely outcome of typical human nature.  The Black Sox scandal has no gray area.  Players who gambled on baseball are banned.  The rules are clear.  There is so much gray area in the PEDs arena that James is correct; someone is going to get elected (or already has) who will be outed or will admit to using PEDs.  James is saying that human nature will likely break down the current resistance to PEDs and many of the convicted stars of the era will eventually get in.</p>
@@ -229,7 +229,7 @@ Bonds was the best player in the NL and probably all of baseball, and even made 
         
         <div class="comments-content">
             <div id="comment-54" class="comment">
-                <p><strong>Scott Segrin, <a href="http://thebaseballchronicle.com/essays/response_to_bill_james#comment-54" title="Comment permalink">Aug 18, 2009</a></strong></p>
+                <p><strong>Scott Segrin, <a href="https://thebaseballchronicle.com/essays/response_to_bill_james#comment-54" title="Comment permalink">Aug 18, 2009</a></strong></p>
                 <p>I believe that people who cling to the statistical integrity of the game of baseball are completely missing the point of sabermetrics and the work that James and others do.  If it’s important to you to compare the statistics of Babe Ruth, Hank Aaron and Barry Bonds, the use of PEDs is far from the only consideration you must make and perhaps not even the most significant.  If you feel that the statistical norms of the game must remain constant in order for you to make these evaluations, it shows an inability to adapt to changing environment.</p>
 
 <p>The game of baseball will always evolve just as technology evolves.  It’s quite possible, for example, that someday medical technology will advance to the point where starting pitcher's arm can recover much quicker so that he can pitch every other day – or every day.  Historical records that we thought were unreachable will be reachable again, and this will be a good thing for the game – not bad.</p>
@@ -242,7 +242,7 @@ Bonds was the best player in the NL and probably all of baseball, and even made 
         
         <div class="comments-content">
             <div id="comment-55" class="comment">
-                <p><strong>Jeb Stewart, <a href="http://thebaseballchronicle.com/essays/response_to_bill_james#comment-55" title="Comment permalink">Aug 18, 2009</a></strong></p>
+                <p><strong>Jeb Stewart, <a href="https://thebaseballchronicle.com/essays/response_to_bill_james#comment-55" title="Comment permalink">Aug 18, 2009</a></strong></p>
                 <p>Bob -- I realize that Bill James was not analyzing statistics, but poor reasoning is poor reasoning, whether it's words or numbers.  That's the problem with James's position on steroids and the Hall of Fame, I believe.  There are a number of fundamentally flawed foundations in his essay, which I've discussed above, including a direct contradiction of his earlier book on the Hall of Fame.</p>
 
 <p>One thing I would more strongly disagree with you about, however, is your statement that:  "[t]he Black Sox scandal has no gray area.  Players who gambled on baseball are banned.  The rules are clear."  </p>
@@ -269,7 +269,7 @@ Bonds was the best player in the NL and probably all of baseball, and even made 
         
         <div class="comments-content">
             <div id="comment-56" class="comment">
-                <p><strong>Mark Davis, <a href="http://thebaseballchronicle.com/essays/response_to_bill_james#comment-56" title="Comment permalink">Aug 19, 2009</a></strong></p>
+                <p><strong>Mark Davis, <a href="https://thebaseballchronicle.com/essays/response_to_bill_james#comment-56" title="Comment permalink">Aug 19, 2009</a></strong></p>
                 <p>In the interest of disclosure; I know the author.  Nevertheless, I agree, particularly with the general thrust of the argument that steroids do not make you younger; they make you better, even better than your younger self.  Morever, Scott makes good points, but forgets that while technology may very well change the game in the future, those technological changes will: (a) be available to everyone; and (b) legal (as in, legal under Federal law).  PEDs, on the other hand, may not have been used by everyone, leaving aside their illegality in most circumstances, and that to me is a critical distinction not accounted for in Scott's thoughtful response.</p>
 
             </div>
@@ -278,7 +278,7 @@ Bonds was the best player in the NL and probably all of baseball, and even made 
         
         <div class="comments-content">
             <div id="comment-59" class="comment">
-                <p><strong>Gus, <a href="http://thebaseballchronicle.com/essays/response_to_bill_james#comment-59" title="Comment permalink">Aug 24, 2009</a></strong></p>
+                <p><strong>Gus, <a href="https://thebaseballchronicle.com/essays/response_to_bill_james#comment-59" title="Comment permalink">Aug 24, 2009</a></strong></p>
                 <p>Amen, brother.  I'd note that anything Bill James writes at this point is just as circumspect as steroid cheater Fernando Vina yammering on ESPN. He's paid by the baseball machine. In fact, he's paid by a franchise that has employed (to its great prfot) some of the biggest steroid cheats the game has known -- Ortiz and Ramirez, for sure, many others in the "I won't be surprised category."  So James, as all the ESPN steroid apologist, all have a vested interest and their opinions should be given this weight.  </p>
 
 <p>The whole thing is really frustrating, as the guys who have not cheated sit in AAA buses or insurance desks, wondering, where is the justice for me? Where is my karma?  Ortiz is awash in cash and the bacchanal of MLB stardom, and yet I'm here doing the right thing and getting screwed by the system.  I don't have too much sympathy for the MLB'ers who stayed clean. We never had much of a Rosa Parks in MLB; few guys who would stand up for playing clean.   </p>
@@ -291,7 +291,7 @@ Bonds was the best player in the NL and probably all of baseball, and even made 
         
         <div class="comments-content">
             <div id="comment-76" class="comment">
-                <p><strong>alan, <a href="http://thebaseballchronicle.com/essays/response_to_bill_james#comment-76" title="Comment permalink">Jul  7, 2010</a></strong></p>
+                <p><strong>alan, <a href="https://thebaseballchronicle.com/essays/response_to_bill_james#comment-76" title="Comment permalink">Jul  7, 2010</a></strong></p>
                 <p>I am a consultant who works regularly with physicians.  One physician I worked with suggested that steroids indeed do slow the aging process.  This physician frequently prescribes natural hormone replacement therapy for his patients over 40 (these are steroids).  He doesn't recommend the same synthetic steroids that the athletes use.  Instead, he prescribes natural steroids that are made in compounding pharmacies, which he uses himself at age 46.  He said that the natural steroids do not have the same hazardous effect that the synthetic steroids do for someone who is aging, because the body is naturally producing less of these hormones as it ages.</p>
 
 <p>There is a book written about this subject by another physician entitled, "How to Achieve Healthy Aging," by Neal Rouzier, M.D.</p>
@@ -319,7 +319,7 @@ Bonds was the best player in the NL and probably all of baseball, and even made 
 
         </div>
         
-        <h2 class="readmorenav"><a href="http://thebaseballchronicle.com/personal_stories/50_years_a_cubs_fan_part_three" title="Previous story">&#8592; Previous story</a> <span class="readmorebullet">&bull;</span> <a href="http://thebaseballchronicle.com/fiction/the_real_baseball_hall_of_fame" title="Next story">Next story &#8594;</a></h2>
+        <h2 class="readmorenav"><a href="https://thebaseballchronicle.com/personal_stories/50_years_a_cubs_fan_part_three" title="Previous story">&#8592; Previous story</a> <span class="readmorebullet">&bull;</span> <a href="https://thebaseballchronicle.com/fiction/the_real_baseball_hall_of_fame" title="Next story">Next story &#8594;</a></h2>
     </div>
     <div class="clear"></div>
     <div id="morestufftoread">
@@ -329,7 +329,7 @@ Bonds was the best player in the NL and probably all of baseball, and even made 
         
 	
 		<div class="reporting">
-			<a href="http://thebaseballchronicle.com/reporting/the_once_and_future_baseball_man">
+			<a href="https://thebaseballchronicle.com/reporting/the_once_and_future_baseball_man">
 			<h3>Reporting</h3>
 			<h2>The Once and Future Baseball Man</h2>
 			<h4>By Phil Bencomo</h4>
@@ -339,7 +339,7 @@ Bonds was the best player in the NL and probably all of baseball, and even made 
         
 	
 		<div class="pstories">
-			<a href="http://thebaseballchronicle.com/personal_stories/knothole">
+			<a href="https://thebaseballchronicle.com/personal_stories/knothole">
 			<h3>Personal Stories</h3>
 			<h2>The Knothole</h2>
 			<h4>By Phil Bencomo</h4>
@@ -349,7 +349,7 @@ Bonds was the best player in the NL and probably all of baseball, and even made 
         
         
 		<div class="poetry">
-			<a href="http://thebaseballchronicle.com/poetry/the_first_practice">
+			<a href="https://thebaseballchronicle.com/poetry/the_first_practice">
 			<h3>Poetry</h3>
 			<h2>The First Practice</h2>
 			<h4>By David S. Pointer</h4>
@@ -359,7 +359,7 @@ Bonds was the best player in the NL and probably all of baseball, and even made 
         
         
 		<div class="fiction">
-			<a href="http://thebaseballchronicle.com/fiction/strike_zone">
+			<a href="https://thebaseballchronicle.com/fiction/strike_zone">
 			<h3>Fiction</h3>
 			<h2>Strike Zone</h2>
 			<h4>By Paul Lonardo</h4>
@@ -378,11 +378,11 @@ Bonds was the best player in the NL and probably all of baseball, and even made 
         <div class="podcastbox">
 			<h3>Podcast</h3>
 			<ul class="playlist">
-                                <li><a href="http://thebaseballchronicle.com/podcast/Eric-Nusbaum.mp3">Eric Nusbaum (25:29)</a></li>
-				<li><a href="http://thebaseballchronicle.com/podcast/Phil-Bencomo_Shoeless-Joe.mp3">Phil Bencomo: &ldquo;Shoeless Joe&rdquo; (8:07)</a></li>
-				<li><a href="http://thebaseballchronicle.com/podcast/Josh-Wilker_George-Foster.mp3">Josh Wilker: &ldquo;George Foster&rdquo; (7:25)</a></li>
+                                <li><a href="https://thebaseballchronicle.com/podcast/Eric-Nusbaum.mp3">Eric Nusbaum (25:29)</a></li>
+				<li><a href="https://thebaseballchronicle.com/podcast/Phil-Bencomo_Shoeless-Joe.mp3">Phil Bencomo: &ldquo;Shoeless Joe&rdquo; (8:07)</a></li>
+				<li><a href="https://thebaseballchronicle.com/podcast/Josh-Wilker_George-Foster.mp3">Josh Wilker: &ldquo;George Foster&rdquo; (7:25)</a></li>
 			</ul>
-			<p><a href="/podcast">Podcast home</a> | <a href="http://itunes.apple.com/us/podcast/the-baseball-chronicle-podcast/id324323687">Subscribe in iTunes</a></p>
+			<p><a href="/podcast">Podcast home</a> | <a href="https://itunes.apple.com/us/podcast/the-baseball-chronicle-podcast/id324323687">Subscribe in iTunes</a></p>
 		</div>
                 <div class="bottomreswrap">
 		<div class="archivebox">
@@ -401,55 +401,55 @@ Bonds was the best player in the NL and probably all of baseball, and even made 
 		             <li><select onchange="nav(this)">
                              <option>By author...</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/al_ottens/">Al Ottens</option>
+                             <option value="https://thebaseballchronicle.com/authors/al_ottens/">Al Ottens</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/bryce_martin/">Bryce Martin</option>
+                             <option value="https://thebaseballchronicle.com/authors/bryce_martin/">Bryce Martin</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/cynthia_tyler_1/">Cynthia Tyler</option>
+                             <option value="https://thebaseballchronicle.com/authors/cynthia_tyler_1/">Cynthia Tyler</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/daniel_couch/">Daniel Couch</option>
+                             <option value="https://thebaseballchronicle.com/authors/daniel_couch/">Daniel Couch</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/dave_roulston/">Dave Roulston</option>
+                             <option value="https://thebaseballchronicle.com/authors/dave_roulston/">Dave Roulston</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/david_s_pointer/">David S. Pointer</option>
+                             <option value="https://thebaseballchronicle.com/authors/david_s_pointer/">David S. Pointer</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/dennis_feller/">Dennis Feller</option>
+                             <option value="https://thebaseballchronicle.com/authors/dennis_feller/">Dennis Feller</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/elliot_robins/">Elliot Robins</option>
+                             <option value="https://thebaseballchronicle.com/authors/elliot_robins/">Elliot Robins</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/ember_nickel/">Ember Nickel</option>
+                             <option value="https://thebaseballchronicle.com/authors/ember_nickel/">Ember Nickel</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/eric_nusbaum/">Eric Nusbaum</option>
+                             <option value="https://thebaseballchronicle.com/authors/eric_nusbaum/">Eric Nusbaum</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/jeb_stewart/">Jeb Stewart</option>
+                             <option value="https://thebaseballchronicle.com/authors/jeb_stewart/">Jeb Stewart</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/joe_benardello/">Joe Benardello</option>
+                             <option value="https://thebaseballchronicle.com/authors/joe_benardello/">Joe Benardello</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/john_bartleby/">John Bartleby</option>
+                             <option value="https://thebaseballchronicle.com/authors/john_bartleby/">John Bartleby</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/lincoln_mitchell/">Lincoln Mitchell</option>
+                             <option value="https://thebaseballchronicle.com/authors/lincoln_mitchell/">Lincoln Mitchell</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/mb_coudal/">MB Coudal</option>
+                             <option value="https://thebaseballchronicle.com/authors/mb_coudal/">MB Coudal</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/melody_blass_fisher/">Melody Blass Fisher</option>
+                             <option value="https://thebaseballchronicle.com/authors/melody_blass_fisher/">Melody Blass Fisher</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/michael_webb/">Michael Webb</option>
+                             <option value="https://thebaseballchronicle.com/authors/michael_webb/">Michael Webb</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/paul_lonardo/">Paul Lonardo</option>
+                             <option value="https://thebaseballchronicle.com/authors/paul_lonardo/">Paul Lonardo</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/phil_bencomo/">Phil Bencomo</option>
+                             <option value="https://thebaseballchronicle.com/authors/phil_bencomo/">Phil Bencomo</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/r_a_cabral/">R. A. Cabral</option>
+                             <option value="https://thebaseballchronicle.com/authors/r_a_cabral/">R. A. Cabral</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/rick_soisson/">Rick Soisson</option>
+                             <option value="https://thebaseballchronicle.com/authors/rick_soisson/">Rick Soisson</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/steve_vivona/">Steve Vivona</option>
+                             <option value="https://thebaseballchronicle.com/authors/steve_vivona/">Steve Vivona</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/todd_cosner/">Todd Cosner</option>
+                             <option value="https://thebaseballchronicle.com/authors/todd_cosner/">Todd Cosner</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/tyler_kalmakoff/">Tyler Kalmakoff</option>
+                             <option value="https://thebaseballchronicle.com/authors/tyler_kalmakoff/">Tyler Kalmakoff</option>
                              
-                             <option value="http://thebaseballchronicle.com/authors/walter_biggins/">Walter Biggins</option>
+                             <option value="https://thebaseballchronicle.com/authors/walter_biggins/">Walter Biggins</option>
                              
                              </select></li>
 			</ul>
@@ -457,41 +457,41 @@ Bonds was the best player in the NL and probably all of baseball, and even made 
 		             <li><select onchange="nav(this)">
                              <option>By month...</option>
                              
-                             <option value="http://thebaseballchronicle.com/2011/10/">October 2011</option>
+                             <option value="https://thebaseballchronicle.com/2011/10/">October 2011</option>
                              
-                             <option value="http://thebaseballchronicle.com/2011/09/">September 2011</option>
+                             <option value="https://thebaseballchronicle.com/2011/09/">September 2011</option>
                              
-                             <option value="http://thebaseballchronicle.com/2011/04/">April 2011</option>
+                             <option value="https://thebaseballchronicle.com/2011/04/">April 2011</option>
                              
-                             <option value="http://thebaseballchronicle.com/2011/01/">January 2011</option>
+                             <option value="https://thebaseballchronicle.com/2011/01/">January 2011</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/11/">November 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/11/">November 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/10/">October 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/10/">October 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/09/">September 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/09/">September 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/08/">August 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/08/">August 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/07/">July 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/07/">July 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/03/">March 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/03/">March 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2010/02/">February 2010</option>
+                             <option value="https://thebaseballchronicle.com/2010/02/">February 2010</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/12/">December 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/12/">December 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/09/">September 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/09/">September 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/08/">August 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/08/">August 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/07/">July 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/07/">July 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/06/">June 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/06/">June 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/05/">May 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/05/">May 2009</option>
                              
-                             <option value="http://thebaseballchronicle.com/2009/04/">April 2009</option>
+                             <option value="https://thebaseballchronicle.com/2009/04/">April 2009</option>
                              
                              </select></li>
 			</ul>
@@ -513,13 +513,13 @@ Bonds was the best player in the NL and probably all of baseball, and even made 
     <li><a href="/notes">Editor's Notes</a></li>
     <li><a href="/photography">Photography</a></li>
     <li><a href="/podcast">Podcast</a></li>
-    <li><a href="http://feeds2.feedburner.com/TheBaseballChronicle">RSS Feed</a></li>
-    <li><a href="http://twitter.com/bbchron">@bbchron</a></li>
+    <li><a href="https://feeds2.feedburner.com/TheBaseballChronicle">RSS Feed</a></li>
+    <li><a href="https://twitter.com/bbchron">@bbchron</a></li>
 </ul>
 <p>All content is copyrighted by The Baseball Chronicle or its contributors.</p>
     </div>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script>
 <script type="text/javascript">

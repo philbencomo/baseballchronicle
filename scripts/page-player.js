@@ -2,7 +2,7 @@
 
   SoundManager 2 Demo: "Page as playlist" UI
   ----------------------------------------------
-  http://schillmania.com/projects/soundmanager2/
+  https://schillmania.com/projects/soundmanager2/
 
   An example of a Muxtape.com-style UI, where an
   unordered list of MP3 links becomes a playlist
@@ -225,7 +225,7 @@ function PagePlayer() {
   };
 
   this.getOffX = function(o) {
-    // http://www.xs4all.nl/~ppk/js/findpos.html
+    // https://www.xs4all.nl/~ppk/js/findpos.html
     var curleft = 0;
     if (o.offsetParent) {
       while (o.offsetParent) {

@@ -3,7 +3,7 @@
   SoundManager 2 Demo: Play MP3 links "in-place"
   ----------------------------------------------
 
-  http://schillmania.com/projects/soundmanager2/
+  https://schillmania.com/projects/soundmanager2/
 
   A simple demo making MP3s playable "inline"
   and easily styled/customizable via CSS.

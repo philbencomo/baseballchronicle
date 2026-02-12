@@ -4,9 +4,9 @@
 	<meta charset="UTF-8">
         <meta name="robots" content="NONE">
         <link rel="stylesheet" href="/css/bbchron-print.css" type="text/css">
-        <link rel="alternate" type="application/rss+xml" title="Recent Entries" href="http://feeds2.feedburner.com/TheBaseballChronicle">
+        <link rel="alternate" type="application/rss+xml" title="Recent Entries" href="https://feeds2.feedburner.com/TheBaseballChronicle">
         <link rel="shortcut icon" type="image/ico" href="/images/favicon.ico">
-        <script type="text/javascript" src="http://thebaseballchronicle.com/mt.js"></script>
+        <script type="text/javascript" src="https://thebaseballchronicle.com/mt.js"></script>
         <title>The First Practice | The Baseball Chronicle</title>
 </head>
 <body>
@@ -45,6 +45,6 @@ long ball game away</p>
     </div>
     <div id="printfooter">
         <h3>About the author</h3>
-        <p><strong>David S. Pointer</strong> lives in Murfreesboro, Tennessee. His latest poetry chapbook is <cite>Warhammer Piano Bar</cite> from Thunderclap Press available at <a href="http://www.lulu.com/product/paperback/warhammer-piano-bar/11168456?productTrackingContext=search_results/search_shelf/center/2">Lulu.com</a>. He has poetry forthcoming at <cite>Skive Magazine</cite>, <cite>J Journal: New Writings on Justice</cite>, and <cite>Chiron Review</cite>.</p>
+        <p><strong>David S. Pointer</strong> lives in Murfreesboro, Tennessee. His latest poetry chapbook is <cite>Warhammer Piano Bar</cite> from Thunderclap Press available at <a href="https://www.lulu.com/product/paperback/warhammer-piano-bar/11168456?productTrackingContext=search_results/search_shelf/center/2">Lulu.com</a>. He has poetry forthcoming at <cite>Skive Magazine</cite>, <cite>J Journal: New Writings on Justice</cite>, and <cite>Chiron Review</cite>.</p>
     </div>
 </body>

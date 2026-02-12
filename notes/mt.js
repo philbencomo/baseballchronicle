@@ -210,7 +210,7 @@ function mtFetchUser(cb) {
         mtFetchedUser = true;
         var script = document.createElement('script');
         var ts = new Date().getTime();
-        script.src = 'http://thebaseballchronicle.com/cgi-bin/mt/mt-comments.cgi?__mode=session_js&blog_id=5&jsonp=' + cb + '&ts=' + ts;
+        script.src = 'https://thebaseballchronicle.com/cgi-bin/mt/mt-comments.cgi?__mode=session_js&blog_id=5&jsonp=' + cb + '&ts=' + ts;
         (document.getElementsByTagName('head'))[0].appendChild(script);
     }
 }
@@ -341,7 +341,7 @@ mtAttachEvent('usersignin', mtUserOnLoad);
 function mtSignIn() {
     var doc_url = document.URL;
     doc_url = doc_url.replace(/#.+/, '');
-    var url = 'http://thebaseballchronicle.com/cgi-bin/mt/mt-comments.cgi?__mode=login&blog_id=5';
+    var url = 'https://thebaseballchronicle.com/cgi-bin/mt/mt-comments.cgi?__mode=login&blog_id=5';
     if (is_preview) {
         if ( document['comments_form'] ) {
             var entry_id = document['comments_form'].entry_id.value;
@@ -386,7 +386,7 @@ function mtSignOut(entry_id) {
     mtClearUser();
     var doc_url = document.URL;
     doc_url = doc_url.replace(/#.+/, '');
-    var url = 'http://thebaseballchronicle.com/cgi-bin/mt/mt-comments.cgi?__mode=handle_sign_in&static=0&logout=1';
+    var url = 'https://thebaseballchronicle.com/cgi-bin/mt/mt-comments.cgi?__mode=handle_sign_in&static=0&logout=1';
     if (is_preview) {
         if ( document['comments_form'] ) {
             var entry_id = document['comments_form'].entry_id.value;
@@ -571,7 +571,7 @@ function mtGetXmlHttp() {
 // BEGIN: fast browser onload init
 // Modifications by David Davis, DWD
 // Dean Edwards/Matthias Miller/John Resig
-// http://dean.edwards.name/weblog/2006/06/again/?full#comment5338
+// https://dean.edwards.name/weblog/2006/06/again/?full#comment5338
 
 function mtInit() {
     // quit if this function has already been called

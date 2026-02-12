@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="https://www.w3.org/2005/Atom">
     <title>Photography</title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/photography/" />
-    <link rel="self" type="application/atom+xml" href="http://thebaseballchronicle.com/photography/atom.xml" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/photography/" />
+    <link rel="self" type="application/atom+xml" href="https://thebaseballchronicle.com/photography/atom.xml" />
     <id>tag:thebaseballchronicle.com,2009-02-13:/photography//4</id>
     <updated>2011-09-16T16:38:45Z</updated>
     
-    <generator uri="http://www.sixapart.com/movabletype/">Movable Type Pro 4.23-en</generator>
+    <generator uri="https://www.sixapart.com/movabletype/">Movable Type Pro 4.23-en</generator>
 
 <entry>
     <title>Dunked</title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/photography/2011/09/dunked" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/photography/2011/09/dunked" />
     <id>tag:thebaseballchronicle.com,2011:/photography//4.192</id>
 
     <published>2011-09-16T16:31:28Z</published>
@@ -23,8 +23,8 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://thebaseballchronicle.com/photography/">
-        <![CDATA[<p><img alt="dunked" src="http://thebaseballchronicle.com/photography/images/091611_dunked_940.jpg" width="940" height="705" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></p>
+    <content type="html" xml:lang="en" xml:base="https://thebaseballchronicle.com/photography/">
+        <![CDATA[<p><img alt="dunked" src="https://thebaseballchronicle.com/photography/images/091611_dunked_940.jpg" width="940" height="705" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></p>
 ]]>
         
 
@@ -33,7 +33,7 @@
 
 <entry>
     <title>The Lone Red Seat</title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/photography/2010/11/the_lone_red_seat" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/photography/2010/11/the_lone_red_seat" />
     <id>tag:thebaseballchronicle.com,2010:/photography//4.186</id>
 
     <published>2010-11-03T17:50:51Z</published>
@@ -46,8 +46,8 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://thebaseballchronicle.com/photography/">
-        <![CDATA[<p><img alt="110310_loneseat_940.jpg" src="http://thebaseballchronicle.com/photography/images/110310_loneseat_940.jpg" width="940" height="729" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></p>
+    <content type="html" xml:lang="en" xml:base="https://thebaseballchronicle.com/photography/">
+        <![CDATA[<p><img alt="110310_loneseat_940.jpg" src="https://thebaseballchronicle.com/photography/images/110310_loneseat_940.jpg" width="940" height="729" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></p>
 ]]>
         
 
@@ -56,7 +56,7 @@
 
 <entry>
     <title>Stop</title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/photography/2010/09/stop" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/photography/2010/09/stop" />
     <id>tag:thebaseballchronicle.com,2010:/photography//4.181</id>
 
     <published>2010-09-29T23:57:43Z</published>
@@ -69,8 +69,8 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://thebaseballchronicle.com/photography/">
-        <![CDATA[<p><img alt="092910_wrigleystop_940.jpg" src="http://thebaseballchronicle.com/photography/images/092910_wrigleystop_940.jpg" width="940" height="1430" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></p>
+    <content type="html" xml:lang="en" xml:base="https://thebaseballchronicle.com/photography/">
+        <![CDATA[<p><img alt="092910_wrigleystop_940.jpg" src="https://thebaseballchronicle.com/photography/images/092910_wrigleystop_940.jpg" width="940" height="1430" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></p>
 ]]>
         
 
@@ -79,7 +79,7 @@
 
 <entry>
     <title>Windup</title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/photography/2010/08/windup" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/photography/2010/08/windup" />
     <id>tag:thebaseballchronicle.com,2010:/photography//4.178</id>
 
     <published>2010-08-20T19:58:49Z</published>
@@ -92,8 +92,8 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://thebaseballchronicle.com/photography/">
-        <![CDATA[<p><img alt="082010_pitcher_940.jpg" src="http://thebaseballchronicle.com/photography/images/082010_pitcher_940.jpg" width="940" height="1294" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></p>
+    <content type="html" xml:lang="en" xml:base="https://thebaseballchronicle.com/photography/">
+        <![CDATA[<p><img alt="082010_pitcher_940.jpg" src="https://thebaseballchronicle.com/photography/images/082010_pitcher_940.jpg" width="940" height="1294" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></p>
 ]]>
         
 
@@ -102,7 +102,7 @@
 
 <entry>
     <title>Light Up</title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/photography/2010/02/light_up" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/photography/2010/02/light_up" />
     <id>tag:thebaseballchronicle.com,2010:/photography//4.168</id>
 
     <published>2010-02-19T22:56:21Z</published>
@@ -115,8 +115,8 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://thebaseballchronicle.com/photography/">
-        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="021910_redsky_940.jpg" src="http://thebaseballchronicle.com/photography/images/021910_redsky_940.jpg" width="940" height="705" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span> </p>
+    <content type="html" xml:lang="en" xml:base="https://thebaseballchronicle.com/photography/">
+        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="021910_redsky_940.jpg" src="https://thebaseballchronicle.com/photography/images/021910_redsky_940.jpg" width="940" height="705" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span> </p>
 ]]>
         
 
@@ -125,7 +125,7 @@
 
 <entry>
     <title>Shipshape</title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/photography/2009/11/shipshape" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/photography/2009/11/shipshape" />
     <id>tag:thebaseballchronicle.com,2009:/photography//4.163</id>
 
     <published>2009-11-13T17:35:46Z</published>
@@ -138,8 +138,8 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://thebaseballchronicle.com/photography/">
-        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="111309_pirates_940.jpg" src="http://thebaseballchronicle.com/photography/images/111309_pirates_940.jpg" width="940" height="588" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span> </p>
+    <content type="html" xml:lang="en" xml:base="https://thebaseballchronicle.com/photography/">
+        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="111309_pirates_940.jpg" src="https://thebaseballchronicle.com/photography/images/111309_pirates_940.jpg" width="940" height="588" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span> </p>
 ]]>
         
 
@@ -148,7 +148,7 @@
 
 <entry>
     <title>Baseball Cards, As They Once Were</title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/photography/2009/11/baseball_cards_as_they_once_were" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/photography/2009/11/baseball_cards_as_they_once_were" />
     <id>tag:thebaseballchronicle.com,2009:/photography//4.159</id>
 
     <published>2009-11-06T18:57:23Z</published>
@@ -161,8 +161,8 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://thebaseballchronicle.com/photography/">
-        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="110609_card_940.jpg" src="http://thebaseballchronicle.com/photography/images/110609_card_940.jpg" width="940" height="835" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span></p>
+    <content type="html" xml:lang="en" xml:base="https://thebaseballchronicle.com/photography/">
+        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="110609_card_940.jpg" src="https://thebaseballchronicle.com/photography/images/110609_card_940.jpg" width="940" height="835" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span></p>
 ]]>
         
 
@@ -171,7 +171,7 @@
 
 <entry>
     <title>The Ball Team</title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/photography/2009/10/the_ball_team" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/photography/2009/10/the_ball_team" />
     <id>tag:thebaseballchronicle.com,2009:/photography//4.157</id>
 
     <published>2009-10-16T16:24:48Z</published>
@@ -184,8 +184,8 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://thebaseballchronicle.com/photography/">
-        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="101609_glassteam_940.jpg" src="http://thebaseballchronicle.com/photography/images/101609_glassteam_940.jpg" width="940" height="657" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span></p>
+    <content type="html" xml:lang="en" xml:base="https://thebaseballchronicle.com/photography/">
+        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="101609_glassteam_940.jpg" src="https://thebaseballchronicle.com/photography/images/101609_glassteam_940.jpg" width="940" height="657" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span></p>
 ]]>
         
 
@@ -194,7 +194,7 @@
 
 <entry>
     <title>USS Sargent Bay</title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/photography/2009/09/uss_sargent_bay" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/photography/2009/09/uss_sargent_bay" />
     <id>tag:thebaseballchronicle.com,2009:/photography//4.148</id>
 
     <published>2009-09-11T15:01:45Z</published>
@@ -207,8 +207,8 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://thebaseballchronicle.com/photography/">
-        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="091109_armyarch_940.jpg" src="http://thebaseballchronicle.com/photography/images/091109_armyarch_940.jpg" width="940" height="764" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span></p>
+    <content type="html" xml:lang="en" xml:base="https://thebaseballchronicle.com/photography/">
+        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="091109_armyarch_940.jpg" src="https://thebaseballchronicle.com/photography/images/091109_armyarch_940.jpg" width="940" height="764" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span></p>
 ]]>
         
 
@@ -217,7 +217,7 @@
 
 <entry>
     <title>Fog</title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/photography/2009/08/fog" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/photography/2009/08/fog" />
     <id>tag:thebaseballchronicle.com,2009:/photography//4.137</id>
 
     <published>2009-08-21T14:09:14Z</published>
@@ -230,8 +230,8 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://thebaseballchronicle.com/photography/">
-        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="082109_fog_940.jpg" src="http://thebaseballchronicle.com/photography/images/082109_fog_940.jpg" width="940" height="614" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span> </p>
+    <content type="html" xml:lang="en" xml:base="https://thebaseballchronicle.com/photography/">
+        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="082109_fog_940.jpg" src="https://thebaseballchronicle.com/photography/images/082109_fog_940.jpg" width="940" height="614" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span> </p>
 ]]>
         
 
@@ -240,7 +240,7 @@
 
 <entry>
     <title>Father and Son</title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/photography/2009/08/father_and_son" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/photography/2009/08/father_and_son" />
     <id>tag:thebaseballchronicle.com,2009:/photography//4.128</id>
 
     <published>2009-08-07T17:26:14Z</published>
@@ -253,8 +253,8 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://thebaseballchronicle.com/photography/">
-        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="080709_fatherson_940.jpg" src="http://thebaseballchronicle.com/photography/images/080709_fatherson_940.jpg" width="940" height="529" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span> </p>
+    <content type="html" xml:lang="en" xml:base="https://thebaseballchronicle.com/photography/">
+        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="080709_fatherson_940.jpg" src="https://thebaseballchronicle.com/photography/images/080709_fatherson_940.jpg" width="940" height="529" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span> </p>
 ]]>
         
 
@@ -263,7 +263,7 @@
 
 <entry>
     <title>Playograph</title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/photography/2009/07/playograph" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/photography/2009/07/playograph" />
     <id>tag:thebaseballchronicle.com,2009:/photography//4.125</id>
 
     <published>2009-07-31T14:25:09Z</published>
@@ -276,8 +276,8 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://thebaseballchronicle.com/photography/">
-        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="073109_playograph_940.jpg" src="http://thebaseballchronicle.com/photography/images/073109_playograph_940.jpg" width="940" height="673" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span> </p>
+    <content type="html" xml:lang="en" xml:base="https://thebaseballchronicle.com/photography/">
+        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="073109_playograph_940.jpg" src="https://thebaseballchronicle.com/photography/images/073109_playograph_940.jpg" width="940" height="673" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span> </p>
 ]]>
         
 
@@ -286,7 +286,7 @@
 
 <entry>
     <title>Urban</title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/photography/2009/07/urban" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/photography/2009/07/urban" />
     <id>tag:thebaseballchronicle.com,2009:/photography//4.118</id>
 
     <published>2009-07-20T17:09:18Z</published>
@@ -299,8 +299,8 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://thebaseballchronicle.com/photography/">
-        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="072009_urban_940.jpg" src="http://thebaseballchronicle.com/photography/images/072009_urban_940.jpg" width="940" height="625" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span></p>
+    <content type="html" xml:lang="en" xml:base="https://thebaseballchronicle.com/photography/">
+        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="072009_urban_940.jpg" src="https://thebaseballchronicle.com/photography/images/072009_urban_940.jpg" width="940" height="625" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span></p>
 ]]>
         
 
@@ -309,7 +309,7 @@
 
 <entry>
     <title>Baseball at Walter Reed</title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/photography/2009/06/baseball_at_walter_reed" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/photography/2009/06/baseball_at_walter_reed" />
     <id>tag:thebaseballchronicle.com,2009:/photography//4.111</id>
 
     <published>2009-06-26T14:57:53Z</published>
@@ -322,8 +322,8 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://thebaseballchronicle.com/photography/">
-        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="062609_walterreed_940.jpg" src="http://thebaseballchronicle.com/photography/images/062609_walterreed_940.jpg" width="940" height="671" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span></p>
+    <content type="html" xml:lang="en" xml:base="https://thebaseballchronicle.com/photography/">
+        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="062609_walterreed_940.jpg" src="https://thebaseballchronicle.com/photography/images/062609_walterreed_940.jpg" width="940" height="671" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span></p>
 ]]>
         
 
@@ -332,7 +332,7 @@
 
 <entry>
     <title>San Francisco</title>
-    <link rel="alternate" type="text/html" href="http://thebaseballchronicle.com/photography/2009/06/san_francisco" />
+    <link rel="alternate" type="text/html" href="https://thebaseballchronicle.com/photography/2009/06/san_francisco" />
     <id>tag:thebaseballchronicle.com,2009:/photography//4.106</id>
 
     <published>2009-06-19T20:34:17Z</published>
@@ -345,8 +345,8 @@
     </author>
     
     
-    <content type="html" xml:lang="en" xml:base="http://thebaseballchronicle.com/photography/">
-        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="061909_sanfran_940.jpg" src="http://thebaseballchronicle.com/photography/images/061909_sanfran_940.jpg" width="940" height="1410" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span></p>
+    <content type="html" xml:lang="en" xml:base="https://thebaseballchronicle.com/photography/">
+        <![CDATA[<p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="061909_sanfran_940.jpg" src="https://thebaseballchronicle.com/photography/images/061909_sanfran_940.jpg" width="940" height="1410" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span></p>
 ]]>
         
 

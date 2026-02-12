@@ -1,14 +1,14 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard">
+    "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" id="sixapart-standard">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="Movable Type Pro 4.23-en" />
-<link rel="stylesheet" href="http://thebaseballchronicle.com/the_baseball_chronicle/styles.css" type="text/css" />
-<link rel="start" href="http://thebaseballchronicle.com/the_baseball_chronicle/" title="Home" />
-<link rel="alternate" type="application/atom+xml" title="Recent Entries" href="http://thebaseballchronicle.com/the_baseball_chronicle/atom.xml" />
-<script type="text/javascript" src="http://thebaseballchronicle.com/the_baseball_chronicle/mt.js"></script>
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+<link rel="stylesheet" href="https://thebaseballchronicle.com/the_baseball_chronicle/styles.css" type="text/css" />
+<link rel="start" href="https://thebaseballchronicle.com/the_baseball_chronicle/" title="Home" />
+<link rel="alternate" type="application/atom+xml" title="Recent Entries" href="https://thebaseballchronicle.com/the_baseball_chronicle/atom.xml" />
+<script type="text/javascript" src="https://thebaseballchronicle.com/the_baseball_chronicle/mt.js"></script>
+<script type="text/javascript" src="https://partner.googleadservices.com/gampad/google_service.js">
 </script>
 <script type="text/javascript">
   GS_googleAddAdSenseService("ca-pub-3969526189572011");
@@ -22,8 +22,8 @@
 </script>
 
 
-    <link rel="prev bookmark" href="http://thebaseballchronicle.com/the_baseball_chronicle/testing/im_testing_yes_im_testing" title="I'm Testing, Yes I'm Testing" />
-    <link rel="next bookmark" href="http://thebaseballchronicle.com/the_baseball_chronicle/personal_stories/the_hold_of_the_table" title="The Hold of the Table" />
+    <link rel="prev bookmark" href="https://thebaseballchronicle.com/the_baseball_chronicle/testing/im_testing_yes_im_testing" title="I'm Testing, Yes I'm Testing" />
+    <link rel="next bookmark" href="https://thebaseballchronicle.com/the_baseball_chronicle/personal_stories/the_hold_of_the_table" title="The Hold of the Table" />
     
     <title>The Baseball Chronicle: Testing is an Absolute Necessity for Development</title>
 </head>
@@ -43,7 +43,7 @@
 		</table>
 	<div id="header">
 		<span class="logo">
-                <a href="/"><img alt="The Baseball Chronicle" src="http://www.thebaseballchronicle.com/images/chronicleheader.gif" /></a>
+                <a href="/"><img alt="The Baseball Chronicle" src="https://www.thebaseballchronicle.com/images/chronicleheader.gif" /></a>
                 
 		</span>        
 		<span class="ad">
@@ -90,7 +90,7 @@
         
             <div id="comment-greeting"></div>
 
-            <form method="post" action="http://thebaseballchronicle.com/cgi-bin/mt/mt-comments.cgi" name="comments_form" id="comments-form" onsubmit="return mtCommentOnSubmit(this)">
+            <form method="post" action="https://thebaseballchronicle.com/cgi-bin/mt/mt-comments.cgi" name="comments_form" id="comments-form" onsubmit="return mtCommentOnSubmit(this)">
                 <input type="hidden" name="static" value="1" />
                 <input type="hidden" name="entry_id" value="7" />
                 <input type="hidden" name="__lang" value="en" />
@@ -192,16 +192,16 @@
 					<li><select onchange="nav(this)">
          <option>Select an author...</option>
          
-         <option value="http://thebaseballchronicle.com/the_baseball_chronicle/authors/michael_webb/">Michael Webb</option>
+         <option value="https://thebaseballchronicle.com/the_baseball_chronicle/authors/michael_webb/">Michael Webb</option>
          
-         <option value="http://thebaseballchronicle.com/the_baseball_chronicle/authors/phil_bencomo/">Phil Bencomo</option>
+         <option value="https://thebaseballchronicle.com/the_baseball_chronicle/authors/phil_bencomo/">Phil Bencomo</option>
          
       </select></li>
 				</ul>
 				<br />
 				<br />
 				<span>Search</span>
-                                <form action="http://www.thebaseballchronicle.com/search" id="cse-search-box">
+                                <form action="https://www.thebaseballchronicle.com/search" id="cse-search-box">
   <div>
     <input type="hidden" name="cx" value="004209065784501633350:rbmulsxd-oc" />
     <input type="hidden" name="cof" value="FORID:10" />
@@ -211,7 +211,7 @@
   </div>
 </form>
 
-<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
 
 
 			</td>

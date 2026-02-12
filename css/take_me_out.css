@@ -5,7 +5,7 @@ html {
 
 body {
 	width: 100%;
-	background: #fff url(http://thebaseballchronicle.com/images/tmo/mudhens-game-2000px.jpg) no-repeat fixed center top;
+	background: #fff url(https://thebaseballchronicle.com/images/tmo/mudhens-game-2000px.jpg) no-repeat fixed center top;
 }
 
 a:link {
@@ -414,7 +414,7 @@ a:link {
 
 @media screen and (max-width: 759px), handheld and (max-width: 759px) {	
 	body {
-		background: #fff url(http://thebaseballchronicle.com/images/tmo/mudhens-game-1100px.jpg) no-repeat fixed center top;
+		background: #fff url(https://thebaseballchronicle.com/images/tmo/mudhens-game-1100px.jpg) no-repeat fixed center top;
 	}
 	
 	#entryheader {

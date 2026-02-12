@@ -2,23 +2,23 @@
 <html>
 <head>
     <meta charset="UTF-8">
-        <link rel="stylesheet" type="text/css" href="http://thebaseballchronicle.com/css/bbchron-v2-base.css">
-	<link rel="stylesheet" type="text/css" href="http://thebaseballchronicle.com/css/inlineplayer.css">
-        <link rel="alternate" type="application/rss+xml" title="Recent Entries" href="http://feeds2.feedburner.com/TheBaseballChronicle">
+        <link rel="stylesheet" type="text/css" href="https://thebaseballchronicle.com/css/bbchron-v2-base.css">
+	<link rel="stylesheet" type="text/css" href="https://thebaseballchronicle.com/css/inlineplayer.css">
+        <link rel="alternate" type="application/rss+xml" title="Recent Entries" href="https://feeds2.feedburner.com/TheBaseballChronicle">
         <link rel="Shortcut Icon" href="/images/favicon.ico" type="image/x-icon">
-	<script type="text/javascript" src="http://thebaseballchronicle.com/scripts/soundmanager2.js"></script>
-	<script type="text/javascript" src="http://thebaseballchronicle.com/scripts/inlineplayer.js"></script>
+	<script type="text/javascript" src="https://thebaseballchronicle.com/scripts/soundmanager2.js"></script>
+	<script type="text/javascript" src="https://thebaseballchronicle.com/scripts/inlineplayer.js"></script>
 	<script type="text/javascript">
-	soundManager.url = 'http://thebaseballchronicle.com/swf/';
+	soundManager.url = 'https://thebaseballchronicle.com/swf/';
 	soundManager.flashVersion = 8; // optional: shiny features (default = 8)
 	soundManager.useFlashBlock = false; // optionally, enable when you're ready to dive in
 	soundManager.debugMode = false;
 	</script>
-        <script type="text/javascript" src="http://thebaseballchronicle.com/scripts/jquery.js"></script>
-        <script type="text/javascript" src="http://thebaseballchronicle.com/scripts/jquery.masonry.min.js"></script>
-        <script type="text/javascript" src="http://thebaseballchronicle.com/mt.js"></script>
+        <script type="text/javascript" src="https://thebaseballchronicle.com/scripts/jquery.js"></script>
+        <script type="text/javascript" src="https://thebaseballchronicle.com/scripts/jquery.masonry.min.js"></script>
+        <script type="text/javascript" src="https://thebaseballchronicle.com/mt.js"></script>
     <link rel="stylesheet" type="text/css" href="/css/photography.css">
-    <link rel="shortlink" href="http://bbchron.com/go/125">
+    <link rel="shortlink" href="https://bbchron.com/go/125">
     <title>Playograph | Photography at The Baseball Chronicle</title>
 </head>
 <body>
@@ -29,14 +29,14 @@
         <h1 class="photogtop"><a href="/photography">Photography</a></h1>
         <div class="photoentry">
             <h3>July 31, 2009</h3>
-            <p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="073109_playograph_940.jpg" src="http://thebaseballchronicle.com/photography/images/073109_playograph_940.jpg" width="940" height="673" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span> </p>
+            <p><span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img alt="073109_playograph_940.jpg" src="https://thebaseballchronicle.com/photography/images/073109_playograph_940.jpg" width="940" height="673" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"></span> </p>
 
             <h2>Playograph</h2>
             
 
-            <p>Outside the Herald Building in New York, a crowd gathered around a playograph to &#8220;watch&#8221; the 1911 World Series. Read more about the playograph in <a href="http://books.google.com/books?id=IGIEAAAAYAAJ&amp;pg=PA195#v=onepage&amp;q=&amp;f=false">this 1912 issue of the Yale Scientific Monthly</a>.</p>
+            <p>Outside the Herald Building in New York, a crowd gathered around a playograph to &#8220;watch&#8221; the 1911 World Series. Read more about the playograph in <a href="https://books.google.com/books?id=IGIEAAAAYAAJ&amp;pg=PA195#v=onepage&amp;q=&amp;f=false">this 1912 issue of the Yale Scientific Monthly</a>.</p>
 
-<p>Photograph from the Library of Congress, <a href="http://www.flickr.com/photos/library_of_congress/2162963379/">via Flickr</a>. No known restrictions on use.</p>
+<p>Photograph from the Library of Congress, <a href="https://www.flickr.com/photos/library_of_congress/2162963379/">via Flickr</a>. No known restrictions on use.</p>
 
         </div>
         <div id="morephotos">
@@ -44,43 +44,43 @@
                  <select onchange="nav(this)">
                      <option>By month...</option>
                      
-                     <option value="http://thebaseballchronicle.com/photography/2011/09/">September 2011</option>
+                     <option value="https://thebaseballchronicle.com/photography/2011/09/">September 2011</option>
                      
-                     <option value="http://thebaseballchronicle.com/photography/2010/11/">November 2010</option>
+                     <option value="https://thebaseballchronicle.com/photography/2010/11/">November 2010</option>
                      
-                     <option value="http://thebaseballchronicle.com/photography/2010/09/">September 2010</option>
+                     <option value="https://thebaseballchronicle.com/photography/2010/09/">September 2010</option>
                      
-                     <option value="http://thebaseballchronicle.com/photography/2010/08/">August 2010</option>
+                     <option value="https://thebaseballchronicle.com/photography/2010/08/">August 2010</option>
                      
-                     <option value="http://thebaseballchronicle.com/photography/2010/02/">February 2010</option>
+                     <option value="https://thebaseballchronicle.com/photography/2010/02/">February 2010</option>
                      
-                     <option value="http://thebaseballchronicle.com/photography/2009/11/">November 2009</option>
+                     <option value="https://thebaseballchronicle.com/photography/2009/11/">November 2009</option>
                      
-                     <option value="http://thebaseballchronicle.com/photography/2009/10/">October 2009</option>
+                     <option value="https://thebaseballchronicle.com/photography/2009/10/">October 2009</option>
                      
-                     <option value="http://thebaseballchronicle.com/photography/2009/09/">September 2009</option>
+                     <option value="https://thebaseballchronicle.com/photography/2009/09/">September 2009</option>
                      
-                     <option value="http://thebaseballchronicle.com/photography/2009/08/">August 2009</option>
+                     <option value="https://thebaseballchronicle.com/photography/2009/08/">August 2009</option>
                      
-                     <option value="http://thebaseballchronicle.com/photography/2009/07/">July 2009</option>
+                     <option value="https://thebaseballchronicle.com/photography/2009/07/">July 2009</option>
                      
-                     <option value="http://thebaseballchronicle.com/photography/2009/06/">June 2009</option>
+                     <option value="https://thebaseballchronicle.com/photography/2009/06/">June 2009</option>
                      
-                     <option value="http://thebaseballchronicle.com/photography/2009/05/">May 2009</option>
+                     <option value="https://thebaseballchronicle.com/photography/2009/05/">May 2009</option>
                      
-                     <option value="http://thebaseballchronicle.com/photography/2009/04/">April 2009</option>
+                     <option value="https://thebaseballchronicle.com/photography/2009/04/">April 2009</option>
                      
-                     <option value="http://thebaseballchronicle.com/photography/2009/03/">March 2009</option>
+                     <option value="https://thebaseballchronicle.com/photography/2009/03/">March 2009</option>
                      
                  </select>
                  <select onchange="nav(this)">
                      <option>By year...</option>
                      
-                     <option value="http://thebaseballchronicle.com/photography/2011/">2011</option>
+                     <option value="https://thebaseballchronicle.com/photography/2011/">2011</option>
                      
-                     <option value="http://thebaseballchronicle.com/photography/2010/">2010</option>
+                     <option value="https://thebaseballchronicle.com/photography/2010/">2010</option>
                      
-                     <option value="http://thebaseballchronicle.com/photography/2009/">2009</option>
+                     <option value="https://thebaseballchronicle.com/photography/2009/">2009</option>
                      
                  </select>
         </div>
@@ -93,14 +93,14 @@
     <li><a href="/notes">Editor's Notes</a></li>
     <li><a href="/photography">Photography</a></li>
     <li><a href="/podcast">Podcast</a></li>
-    <li><a href="http://feeds2.feedburner.com/TheBaseballChronicle">RSS Feed</a></li>
-    <li><a href="http://twitter.com/bbchron">@bbchron</a></li>
+    <li><a href="https://feeds2.feedburner.com/TheBaseballChronicle">RSS Feed</a></li>
+    <li><a href="https://twitter.com/bbchron">@bbchron</a></li>
 </ul>
 <p>All content is copyrighted by The Baseball Chronicle or its contributors.</p>
         </div>
 
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script>
 <script type="text/javascript">
